@@ -14,7 +14,6 @@ virtualenv [ENV_DIR]
 deactivate
 ```
 * PyCharm 的好處, 基本設定, 在 PyCharm 內設定 virtualenv
-* 
 
 # 1-2 網頁爬蟲初探與例外狀況處理
 
