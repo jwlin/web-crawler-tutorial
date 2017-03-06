@@ -36,7 +36,7 @@ html
         -p (<p class="text-muted">Pycone (c) 2017</p>)
     -script
 ```
-* 用 `find()` 找標籤, `.text` 取文字
+* `requests` 連線, `Beautifulsoup` parse, `find()` 找標籤, `.text` 取文字
 * 網路世界是雜亂的，永遠要記得處理例外，避免爬蟲中斷
   * 網站連不上
   * 找不到網頁
