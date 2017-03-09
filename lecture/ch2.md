@@ -4,7 +4,7 @@
 
 先搜尋 "爬蟲", 下載", "Crawler", "Downloader" 等你認為適合的關鍵字, 搞不好已經有人做好了：
 
-* 現成的服務 (e.g., [Keepvid](http://keepvid.com/))
+* 現成的服務 (e.g., [Keepvid](http://keepvid.com/), 券商 App, 財報狗)
 * 打包好的資料 (e.g., [維基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%8B%E8%BD%BD))
 * 寫好的程式 (e.g., [ComicCrawler](https://github.com/eight04/ComicCrawler))
 
