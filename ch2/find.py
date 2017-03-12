@@ -20,10 +20,10 @@ def main():
 
     # 取得所有 blog 主標題, 使用 class
     # 以下寫法皆相同:
-    # soup.find_all('', 'card-title')
-    # soup.find_all('', {'class': 'card-title'})
-    # soup.find_all('', class_='card-title')
-    main_titles = soup.find_all('', {'class': 'card-title'})
+    # soup.find_all('h4', 'card-title')
+    # soup.find_all('h4', {'class': 'card-title'})
+    # soup.find_all('h4', class_='card-title')
+    main_titles = soup.find_all('h4', 'card-title')
     for title in main_titles:
         print(title.a.text)
 
