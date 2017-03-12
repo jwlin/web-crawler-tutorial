@@ -29,7 +29,7 @@
     * 95% 的時間只會用到 tag, attribute (class, id, name, 其他特殊屬性)與 key=value
 * 取得文字
     * `.text (get_text())` (包含以下所有階層)
-    * `stripped-strings`: 回傳 iterator object, 需巡覽以取出其中的值
+    * `stripped_strings`: 回傳 iterator object, 需巡覽以取出其中的值
 * 補充資料
     * https://www.crummy.com/software/BeautifulSoup/bs4/doc/#find-all
     * https://www.crummy.com/software/BeautifulSoup/bs4/doc/#get-text
