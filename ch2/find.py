@@ -28,11 +28,11 @@ def main():
         print(title.a.text)
 
     # 使用 key=value 取得元件
-    #print(soup.find(id='mac-p'))
+    print(soup.find(id='mac-p'))
 
     # 當 key 含特殊字元時, 使用 dict 取得元件
     # print(soup.find(data-foo='mac-foo'))  # 會導致 SyntaxError
-    #print(soup.find('', {'data-foo': 'mac-foo'}))
+    print(soup.find('', {'data-foo': 'mac-foo'}))
 
     # 取得各篇 blog 的所有文字
     divs = soup.find_all('div', 'content')
