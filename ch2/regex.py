@@ -24,7 +24,7 @@ def main():
                 print(img['src'])
 
     # 利用 regex 找出所有 .png 結尾的圖片
-    for img in soup.find_all('img', {'src': re.compile('.png$')}):
+    for img in soup.find_all('img', {'src': re.compile('\.png$')}):
         print(img['src'])
 
     # 找出所有 .png 結尾且含 'beginner' 的圖片
