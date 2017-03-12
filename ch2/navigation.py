@@ -27,7 +27,7 @@ def main():
     rows = soup.find('table', 'table').tbody.find_all('tr')
     for row in rows:
         all_tds = row.find_all('td')  # 方法一: find_all('td)
-        # all_tds = [td for td in row.children]  # # 方法二: 找出 row (tr) 所有的直接 (下一層) children
+        # all_tds = [td for td in row.children]  # 方法二: 找出 row (tr) 所有的直接 (下一層) children
         # 以下執行時會報錯, 因為最後一列的 <a> 沒有 'href' 屬性
         # print(all_tds[0].text, all_tds[1].text, all_tds[2].text, all_tds[3].a['href'], all_tds[3].a.img['src'])
         # 取得 href 屬性前先檢查其是否存在
