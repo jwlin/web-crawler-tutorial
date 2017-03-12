@@ -91,3 +91,10 @@ http://www.pycone.com
 * 補充資料
     * https://docs.python.org/3.5/library/re.html
     * https://atedev.wordpress.com/2007/11/23/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E5%BC%8F-regular-expression/
+    
+# 作業
+
+* 找出[範例網頁一](http://blog.castman.net/web-crawler-tutorial/ch2/blog/blog.html) 總共有幾篇 blog 貼文
+* 找出[範例網頁一](http://blog.castman.net/web-crawler-tutorial/ch2/blog/blog.html) 總共有幾張圖片網址含有 'crawler' 字串
+* 找出[範例網頁二](http://blog.castman.net/web-crawler-tutorial/ch2/table/table.html) 總共有幾堂課程
+* 用 Chrome 開發者工具, 找出 Dcard 的[今日熱門文章](https://www.dcard.tw/f)區塊, 然後取得前十篇熱門文章的標題 (提示: 熱門文章區塊的 div 有屬性 `data-reactid="478"`, 標題文字被 `<strong>` 包圍)
