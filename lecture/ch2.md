@@ -10,7 +10,7 @@
 
 ## 非寫程式不可時：考慮以下順序
 
-* API (imdb, Facabook, Youtube, Twitter, ...)
+* API (imdb, Facebook, Youtube, Twitter, ...)
 * URL 或網址連結是否有規則 (日期, 代號, ...)
 * JavaScript, Json
     * http://www.tpex.org.tw/web/stock/aftertrading/daily_trading_info/st43.php?l=zh-tw
