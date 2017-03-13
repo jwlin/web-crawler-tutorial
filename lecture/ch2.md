@@ -22,6 +22,7 @@
 
 ## 2-2-1. `find_all()`, `find()`, `.text`, `stripped_strings`
 
+* 範例程式: `ch2/find.py`
 * [範例網頁](http://blog.castman.net/web-crawler-tutorial/ch2/blog/blog.html)
 * 定位元件
     * `find()` 回傳第一個找到的元件; `find_all()` 回傳所有元件
@@ -37,6 +38,7 @@
 
 ## 2-2-2. 網頁結構巡覽
 
+* 範例程式: `ch2/navigation.py`
 * [範例網頁](http://blog.castman.net/web-crawler-tutorial/ch2/table/table.html)
 
 ```
@@ -70,6 +72,7 @@ body
 
 # 2-3. 正規表示式 (regular expression)
 
+* 範例程式: `ch2/regex.py`
 * 簡潔表示字串規則的方式
 * [線上測試 regex](http://www.regexpal.com/)
 
