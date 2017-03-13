@@ -91,6 +91,7 @@ http://www.pycone.com
     * 所有中文字(不含標點符號): `[\u4e00-\u9fa5]+`
     * [Unicode 查詢](http://unicodelookup.com). e.g., 標點符號
     * **Google!** e.g., "email regex", "phone regex", "中文字 regex", ...
+* 之後的範例有用到正規表示式時也會講解其內容
 * 補充資料
     * https://docs.python.org/3.5/library/re.html
     * https://atedev.wordpress.com/2007/11/23/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E5%BC%8F-regular-expression/
