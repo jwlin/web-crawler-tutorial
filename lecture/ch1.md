@@ -20,6 +20,7 @@ deactivate
 * 網頁 = 由標籤 (tag) 所組成的階層式文件
 * HTML (網頁的骨架結構)、CSS (網頁的樣式) 與 JavaScript (在瀏覽器端執行，負責與使用者互動的程式功能)。
 * [範例網頁](http://blog.castman.net/web-crawler-tutorial/ch1/connect.html)
+* 範例程式: `ch1/connect.py`, `ch1/try_connect.py`
 
 ```
 html
