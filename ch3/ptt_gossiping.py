@@ -80,9 +80,11 @@ if __name__ == '__main__':
         # print(get_author_ids(articles, '5566'))
 
         # 儲存或處理文章資訊
-        print(len(articles))
+        print('今天有', len(articles), '篇文章')
+        threshold = 50
+        print('熱門文章(> %d 推):' % (threshold))
         for a in articles:
-            if int(a['push_count']) > 50:
+            if int(a['push_count']) > threshold:
                 print(a)
         with open('gossiping.json', 'w', encoding='utf-8') as f:
             json.dump(articles, f, indent=2, sort_keys=True, ensure_ascii=False)
