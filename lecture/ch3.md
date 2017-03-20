@@ -8,7 +8,8 @@
     * 標題: \<a\> text
     * 網址: \<a href=\>
     * 推文數: \<div class="nrec"\>
-    * 日期: \<div class="date"\>    
+    * 日期: \<div class="date"\>
+    * 上一頁按鈕所在: \<div class="btn-group btn-group-paging"\>
 
 ## 流程
 
