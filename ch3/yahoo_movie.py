@@ -28,8 +28,6 @@ def get_movies(dom):
     for row in rows:
         movie = dict()
         movie['expectation'] = row.find(id='ymvle').find('div', 'bd clearfix ').em.text
-        ymvls_div = row.find(id='ymvls')
-        movie['satisfaction'] = ymvls_div.find('div', 'bd').em.text if ymvls_div else ''
         movie['ch_name'] = row.find('div', 'text').h4.text
         movie['eng_name'] = row.find('div', 'text').h5.text
         movie['movie_id'] = get_movie_id(row.find('div', 'text').h4.a['href'])
@@ -43,6 +41,7 @@ def get_movies(dom):
 
 
 def get_date(date_str):
+    # e.g. "上映日期：2017-03-23" -> match.group(0): "2017-03-23"
     pattern = '\d+-\d+-\d+'
     match = re.search(pattern, date_str)
     if match is None:
@@ -52,6 +51,8 @@ def get_date(date_str):
 
 
 def get_movie_id(url):
+    # e.g. "https://tw.rd.yahoo.com/referurl/movie/thisweek/info/*https://tw.movies.yahoo.com/movieinfo_main.html/id=6707"
+    #      -> match.group(0): "/id=6707"
     pattern = '/id=\d+'
     match = re.search(pattern, url)
     if match is None:
