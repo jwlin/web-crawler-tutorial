@@ -21,14 +21,15 @@ def get_web_page(url):
         return resp.text
 
 
-def get_movies(page):
-    soup = BeautifulSoup(page, 'html5lib')
+def get_movies(dom):
+    soup = BeautifulSoup(dom, 'html5lib')
     movies = []
     rows = soup.find_all('div', 'clearfix row')
     for row in rows:
         movie = dict()
         movie['expectation'] = row.find(id='ymvle').find('div', 'bd clearfix ').em.text
-        movie['satisfaction'] = row.find(id='ymvls').find('div', 'bd').em.text
+        ymvls_div = row.find(id='ymvls')
+        movie['satisfaction'] = ymvls_div.find('div', 'bd').em.text if ymvls_div else ''
         movie['ch_name'] = row.find('div', 'text').h4.text
         movie['eng_name'] = row.find('div', 'text').h5.text
         movie['movie_id'] = get_movie_id(row.find('div', 'text').h4.a['href'])
@@ -62,6 +63,20 @@ def get_movie_id(url):
 def get_trailer_url(url):
     # e.g., 'https://tw.rd.yahoo.com/referurl/movie/thisweek/trailer/*https://tw.movies.yahoo.com/video/美女與野獸-最終版預告-024340912.html'
     return url.split('*')[1]
+
+
+def get_complete_intro(movie_id):
+    page = get_web_page(Y_INTRO_URL + '/id=' + movie_id)
+    if page:
+        soup = BeautifulSoup(page, 'html5lib')
+        # 全文介紹可能在 <div class="text show"> 或 <div class="text full"> 裡
+        div_text_show = soup.find('div', 'text show')
+        if div_text_show:
+            print(div_text_show.text)
+        div_text_full = soup.find('div', 'text full')
+        if div_text_full:
+            print(div_text_full.text)
+    return None
 
 
 def main():
