@@ -62,7 +62,7 @@ def get_stock_history(stock_id, stock_mkt):
 if __name__ == '__main__':
     query = 'TPE:2330'
     print(query, '即時股價')
-    stocks = get_stock('TPE:2330')
+    stocks = get_stock(query)
     print(stocks[0])
     print('-----')
     stock_id, stock_mkt = '2330', 'TPE'
