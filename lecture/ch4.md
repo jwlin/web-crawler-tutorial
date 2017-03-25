@@ -2,6 +2,7 @@
 
 ## API = 網站規定好，(透過程式)跟它要資料的方式
 
+* Application Programming Interface
 * 該網站希望你跟它要資料的方法/規則，通常比直接爬網頁方便
 * 方便該網站控管資料流量/使用者驗證 (API key/token...)
 * 與網站溝通的方法 (HTTP Methods):
