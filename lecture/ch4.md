@@ -67,9 +67,9 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
     * Search by title/ID
     * Search by keywords (若結果超過 10 筆, 如何換頁?)
     * 中文電影: 先確認英文名字或 imdb id
-* 找出所有 "iron man" 相關影片及相關統計資料 (類型分布, 平均評價)
+* 找出所有 "iron man" 相關影片及相關統計資料 (發行年份分布, 平均評價)
     1. 用 keywords 搜尋所有相關影片, 記錄其 movie id 
-    2. 用 id 搜尋所有影片, 紀錄
+    2. 用 id 搜尋所有影片, 紀錄相關資訊
     3. 顯示結果
 * Python 套件: https://github.com/dgilland/omdb.py
 
