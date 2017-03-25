@@ -70,9 +70,11 @@ def get_ip(dom):
 
 
 def get_country(ip):
-    data = json.loads(requests.get('http://freegeoip.net/json/' + ip).text)
-    country_name = data['country_name'] if data['country_name'] else None
-    return country_name
+    if ip:
+        data = json.loads(requests.get('http://freegeoip.net/json/' + ip).text)
+        country_name = data['country_name'] if data['country_name'] else None
+        return country_name
+    return None
 
 if __name__ == '__main__':
     print('取得今日文章列表...')
