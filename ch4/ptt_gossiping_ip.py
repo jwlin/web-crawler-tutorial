@@ -90,9 +90,9 @@ if __name__ == '__main__':
         print('共 %d 篇文章' % (len(articles)))
 
         # 已取得文章列表，開始進入各文章尋找發文者 IP
-        print('取得前 100 篇文章 IP')
+        print('取得前 50 篇文章 IP')
         country_to_count = dict()
-        for article in articles[:100]:
+        for article in articles[:50]:
             print('查詢 IP:', article['title'])
             page = get_web_page(PTT_URL + article['href'])
             if page:
