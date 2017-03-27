@@ -49,7 +49,7 @@ def get_articles(dom, date):
             if d.find('a'):  # 有超連結，表示文章存在，未被刪除
                 href = d.find('a')['href']
                 title = d.find('a').text
-                author = ''  # author = d.find('div', 'author').text if d.find('div', 'author') else ''
+                author = d.find('div', 'author').text if d.find('div', 'author') else ''
                 articles.append({
                     'title': title,
                     'href': href,
