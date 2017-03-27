@@ -1,0 +1,38 @@
+q = iphone 7
+len(item_list) = 36
+31999, Apple iPhone 7 Plus (128G) http://24h.pchome.com.tw/prod/DYAJ81-A9007I9J9
+31999, Apple iPhone 7 Plus (128G) http://24h.pchome.com.tw/prod/DYAJ81-A9007I9KO
+31700, Apple iPhone 7 Plus (128G) http://24h.pchome.com.tw/prod/DYAJ86-A9007KOI7
+36900, Apple iPhone 7 Plus (256G)-曜石黑 http://24h.pchome.com.tw/prod/DYAJ85-A9007ODCH
+27990, Apple iPhone 7 (128G) http://24h.pchome.com.tw/prod/DYAJ83-A9007IUNZ
+27900, Apple iPhone 7 (128G) http://24h.pchome.com.tw/prod/DYAJ83-A9007KOJ5
+27990, Apple iPhone 7 (128G) http://24h.pchome.com.tw/prod/DYAJ83-A9007MKUX
+21990, Apple iPhone 7 32G 福利品  http://24h.pchome.com.tw/prod/DYAJ8H-A9007OIMP
+25900, Apple iPhone 7 Plus (32G) 福利品 http://24h.pchome.com.tw/prod/DYAJ8I-A9007PQC9
+26999, Apple iPhone 7 (128G) http://24h.pchome.com.tw/prod/DYAJ81-A9007I9EM
+23990, Apple iPhone 7 (32G) http://24h.pchome.com.tw/prod/DYAJ81-A9007I9D3
+27300, Apple iPhone 7 Plus (32G) http://24h.pchome.com.tw/prod/DYAJ84-A9007MKV2
+29990, Apple iPhone 7 Plus 128G 福利品  http://24h.pchome.com.tw/prod/DYAJ8I-A9007QRY1
+30990, Apple iPhone 7 Plus (128G)-曜石黑 http://24h.pchome.com.tw/prod/DYAJ86-A9007P24T
+26500, Apple iPhone 7 (128G)-曜石黑 http://24h.pchome.com.tw/prod/DYAJ83-A9007MKV6
+30990, Apple iPhone 7 Plus (128G) http://24h.pchome.com.tw/prod/DYAJ86-A9007MKVF
+199, ESR億色 Apple iPhone 7 保護殼 手機殼 初色晶耀系列 http://24h.pchome.com.tw/prod/DYAR2F-A9007H4XS
+259, ESR億色 iPhone 7 Plus 手機殼/保護殼/手機套 輕薄磨砂軟殼 隔離霜系列 http://24h.pchome.com.tw/prod/DYAR5K-A9007QGGU
+31900, Apple iPhone 7 Plus (128G)-紅色 http://24h.pchome.com.tw/prod/QAAN87-A9007ZH15
+27500, Apple iPhone 7 (128G)-紅色 http://24h.pchome.com.tw/prod/QAAN87-A9007ZH0E
+399, 【USAMS】APPLE iPhone7專用二合一Lightning轉接頭 http://24h.pchome.com.tw/prod/DYAPAE-A9007WH7I
+299, Apple Lightning 8pin 原廠USB傳輸線/充電線 Apple iPhone 7 / 6s / iPad / iPod http://24h.pchome.com.tw/prod/DYAP00-A9007KUKI
+31900, Apple iPhone 7 Plus (128G)-紅色 http://24h.pchome.com.tw/prod/DYAJ86-A9007ZP29
+490, iPhone 7 Plus專屬 5.5”損傷自我修復透明保護殼 http://24h.pchome.com.tw/prod/DYAR5K-A9007LI9P
+27500, Apple iPhone 7 (128G)-紅色 http://24h.pchome.com.tw/prod/DYAJ83-A9007ZP3Q
+350, iPhone 7 Plus 2.5D旭硝子滿版面膜保護貼 http://24h.pchome.com.tw/prod/DYAH69-A9007QAI4
+1480, K11 Bumper 複合材質抗衝擊金屬框(iPhone 7 5.5吋專用) http://24h.pchome.com.tw/prod/DYAR5K-A9007TTLH
+399, iPhone 7專屬 4.7”損傷自我修復透明保護殼 http://24h.pchome.com.tw/prod/DYAR5G-A9007PR7P
+780, 【即插即用版】Apple HDTV線 iPhone 7 6s Plus i5s SE 高清電視線 MHL HDMI線 視頻轉接線 http://24h.pchome.com.tw/prod/DYAP59-A9007WC89
+490, innowatt iPhone 7 Plus氣墊減震式防摔保護殼 5.5吋 http://24h.pchome.com.tw/prod/DYAR5K-A9007ILS9
+630, Caudabe The Veil XT 0.35mm超薄滿版極簡手機殼 for iPhone 7 PLUS http://24h.pchome.com.tw/prod/DYAR5K-A9007MZN0
+299, Apple iphone7/7Plus iPhone 6/6 Plus iPhone 6s/6s Plus iPhon 5S/5 原廠傳輸線/充電線 http://24h.pchome.com.tw/prod/DYAP00-A9007LKK2
+29999, Apple iPhone 7 (256G) http://24h.pchome.com.tw/prod/DYAJ82-A9007N7R7
+1390, [原廠公司貨] APPLE 原廠 iPhone 7 Plus矽膠護套 http://24h.pchome.com.tw/prod/DYAR11-A9007IGPW
+300, Spigen iPhone 7 Plus Thin Fit 超薄防刮手機殼 http://24h.pchome.com.tw/prod/DYAR5G-A9007I5BZ
+23990, Apple iPhone 7 (128G) 金色 福利品   http://24h.pchome.com.tw/prod/DYAJ8H-A9007XSK2
