@@ -59,7 +59,18 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
 4. 顯示來源國家分布
  
 # 4-3. 網站 API 實戰二：Facebook Graph API
- 
+
+* 範例: `ch4/fb_graph_api.py`
+* 每一個物件(節點)，例如用戶、相片、粉絲專頁、留言等，有自己的 id
+* 基本 API 格式: `GET https://graph.facebook.com/vX.Y/{request-path}`, `{request-path}` 需包含節點 id, access token, 節點屬性等
+    * e.g., 取得我的朋友: https://graph.facebook.com/v2.8/me?fields=id,name,friends&access_token=[YOUR_TOKEN]
+    * e.g., 取得公開粉絲頁貼文: https://graph.facebook.com/v2.8/[PAGE_ID]/posts?access_token=[YOUR_TOKEN]
+* token 的權限各不相同, 一個 token 無法用來取得該權限以外的資料
+* 測試 API 的官方網頁: https://developers.facebook.com/tools/explorer
+* 補充資料: 程式化取得 token 的說明
+    * http://stackoverflow.com/questions/3058723/programmatically-getting-an-access-token-for-using-the-facebook-graph-api
+    * https://github.com/mobolic/facebook-sdk
+
 # 4-4. 網站 API 實戰三：imdb
 
 * 範例: `ch4/imdb.py`
