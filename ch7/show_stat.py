@@ -33,7 +33,7 @@ if __name__ == '__main__':
         print(d, int(avg_prices_momo[d]))
     print('pchome')
     for d in date:
-        print(d, int(avg_prices_momo[d]))
+        print(d, int(avg_prices_pchome[d]))
 
     # x-axis
     x = [int(i) for i in range(len(date))]
