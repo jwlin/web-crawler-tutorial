@@ -42,7 +42,7 @@ if __name__ == '__main__':
     price_pchome = [avg_prices_pchome[d] for d in date]  # y2-axis
     plt.plot(x, price_momo, marker='o', linestyle='solid')
     plt.plot(x, price_pchome, marker='o', linestyle='solid')
-    plt.legend(['momo', 'pchome'], loc='upper left')
+    plt.legend(['momo', 'pchome'])
     # specify values on ys
     for a, b in zip(x, price_momo):
         plt.text(a, b, str(int(b)))
