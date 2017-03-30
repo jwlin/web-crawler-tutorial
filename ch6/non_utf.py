@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 def baidu_test():
     resp = requests.get('https://zhidao.baidu.com/question/48795122.html')
-    resp.encoding = 'gbk'  # 該網頁為 gbk 編碼
+    #resp.encoding = 'gbk'  # 該網頁為 gbk 編碼
     soup = BeautifulSoup(resp.text, 'html.parser')
     title = soup.find('span', 'ask-title').text.strip()
     content = soup.find('span', 'con').text.strip().replace('\n', '')
@@ -19,7 +19,7 @@ def baidu_test():
 
 def gold_66_test():
     resp = requests.get('http://www.books.com.tw/activity/gold66_day/')
-    resp.encoding = 'big5'  # 該網頁為 big5 編碼
+    #resp.encoding = 'big5'  # 該網頁為 big5 編碼
     soup = BeautifulSoup(resp.text, 'html.parser')
     books = list()
     for div in soup.find_all('div', 'sec_day'):
