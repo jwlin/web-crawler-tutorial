@@ -13,7 +13,6 @@ def get_avg_price(json_data):
 if __name__ == '__main__':
     json_files = [f for f in os.listdir('json')
                   if os.path.isfile(os.path.join('json', f)) and f.endswith('.json')]
-
     avg_prices_momo = dict()
     avg_prices_pchome = dict()
     for json_file in json_files:
