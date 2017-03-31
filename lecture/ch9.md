@@ -12,4 +12,5 @@
     * 點擊, 輸入文字, 選擇選單, 拖拉...
     * 下載目前看到的網頁原始碼 (後續使用 Beautifulsoup 解析並取得資訊)
 * 範例: http://www.bot.com.tw/house/default.aspx
+(第一次啟動 webdriver 時, Windows 會跳出防火牆警告, 請准許)
 * 補充資料: Webdriver 的執行檔也可以使用 [PhantomJS](http://phantomjs.org/download.html), 可以在背景模仿瀏覽器行為, 或可加快程式執行速度
