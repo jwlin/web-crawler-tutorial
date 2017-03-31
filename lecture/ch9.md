@@ -8,7 +8,7 @@
     * 安裝 selenium library (已經包含在 requirements.txt 中)
     * 下載 [Chrome Webdriver 執行檔](https://sites.google.com/a/chromium.org/chromedriver/downloads), 解壓縮後放在專案目錄下
 * Webdriver 可以做的事:
-    * 定位網頁元件
+    * 定位網頁元件 (find_element_by_id/tag/name/class...)
     * 點擊, 輸入文字, 選擇選單, 拖拉...
     * 下載目前看到的網頁原始碼 (後續使用 Beautifulsoup 解析並取得資訊)
 * 範例: http://www.bot.com.tw/house/default.aspx
