@@ -22,6 +22,6 @@ requests.post(URL, data=data)
 
 * 範例: `ch8/taqm_epa.py`
 * http://taqm.epa.gov.tw/taqm/tw/HourlyData.aspx
-* ASP.NET 網頁的防爬蟲機制 (類似 [CSRF 機制](https://en.wikipedia.org/wiki/Cross-site_request_forgery) ): 除了查詢必須的表單資料以外, 還要額外送出`__VIEWSTATE`, `__VIEWSTATEGENERATOR`, `__EVENTVALIDATION `
+* ASP.NET 網頁的防爬蟲機制 (類似 [CSRF 機制](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0) ): 除了查詢必須的表單資料以外, 還要額外送出`__VIEWSTATE`, `__VIEWSTATEGENERATOR`, `__EVENTVALIDATION `
 
 ## 補充資料: [Postman 工具](https://www.getpostman.com/docs/introduction)
