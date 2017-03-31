@@ -3,3 +3,5 @@ requests
 html5lib
 matplotlib
 selenium
+jieba
+wordcloud
