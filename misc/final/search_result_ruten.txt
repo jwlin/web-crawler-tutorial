@@ -1,2 +1,0 @@
-q = iphone 7
-len(item_list) = 30
