@@ -3,7 +3,7 @@ import requests
 import random
 
 if __name__ == '__main__':
-    proxy_ips = ['111.241.103.87:8888', '118.99.178.21:8080']
+    proxy_ips = ['210.203.20.9:3128', '210.61.209.197:3128']
     ip = random.choice(proxy_ips)
     print('Use', ip)
     resp = requests.get('http://whatismyip.org/', proxies={'http': 'http://' + ip})
