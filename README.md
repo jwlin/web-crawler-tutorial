@@ -1,6 +1,6 @@
 # hahow 線上課程: [Python 網頁爬蟲入門實戰](https://hahow.in/cr/python-web-crawler)
 
-by [Jun-Wei Lin](https://github.com/jwlin) with [Pycone 松果城市](http://pycone.com)
+by [Jun-Wei Lin](https://github.com/jwlin) with [Pycone 松果城市](http://pycone.com) ([facebook](https://www.facebook.com/pycone2016/))
 
 # 課程單元
 
