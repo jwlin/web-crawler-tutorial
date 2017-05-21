@@ -3,8 +3,8 @@ import json
 import math
 from collections import Counter
 
-
-OMDB_URL = 'http://www.omdbapi.com'
+API_KEY = 'YOUR_KEY'
+OMDB_URL = 'http://www.omdbapi.com/?apikey=' + API_KEY
 
 
 def get_data(url):
@@ -18,7 +18,7 @@ def get_data(url):
 def search_ids_by_keyword(keywords):
     movie_ids = list()
     query = '+'.join(keywords.split())  # e.g., "Iron Man" -> Iron+Man
-    url = OMDB_URL + '/?s=' + query
+    url = OMDB_URL + '&s=' + query
     data = get_data(url)
     ''' e.g.,
     {
@@ -46,7 +46,7 @@ def search_ids_by_keyword(keywords):
 
         # 取得第二頁以後的資料
         for i in range(2, num_pages+1):
-            url = OMDB_URL + '/?s=' + query + '&page=' + str(i)
+            url = OMDB_URL + '&s=' + query + '&page=' + str(i)
             data = get_data(url)
             if data:
                 for item in data['Search']:
@@ -55,7 +55,7 @@ def search_ids_by_keyword(keywords):
 
 
 def search_by_id(movie_id):
-    url = OMDB_URL + '/?i=' + movie_id
+    url = OMDB_URL + '&i=' + movie_id
     data = get_data(url)
     return data if data else None
 
