@@ -6,7 +6,7 @@
 
 ## 範例: 台灣證券交易所股票資料
 
-### 2017/05/27 更新: 該網頁已經更新，改用 GET JSON 的方式。同學 yotsuba1022 提供了對應的範例程式[請點此](https://github.com/yotsuba1022/web-crawler-practice/blob/master/004/tw_stock_exchange.py)
+### 2017/05/27: 該網頁已經更新，改用 GET JSON 的方式。同學 yotsuba1022 提供了對應的範例程式[請點此](https://github.com/yotsuba1022/web-crawler-practice/blob/master/004/tw_stock_exchange.py)
 
 * 範例: `ch8/trading_post.py`
 * http://www.twse.com.tw/ch/trading/exchange/STOCK_DAY/STOCK_DAYMAIN.php
@@ -21,6 +21,8 @@ requests.post(URL, data=data)
 ```
 
 ## 範例: 空氣品質監測網
+
+### 2017/05/28: 該網頁已經更新，請將 POST 到 Server 的 Key 從 `ctl08$...` 改為 `ctl09$...`
 
 * 範例: `ch8/taqm_epa.py`
 * http://taqm.epa.gov.tw/taqm/tw/HourlyData.aspx
