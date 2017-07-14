@@ -12,11 +12,11 @@ if __name__ == '__main__':
         '__VIEWSTATE': view_state,
         '__VIEWSTATEGENERATOR': viewstate_generator,
         '__EVENTVALIDATION': event_validation,
-        'ctl08$lbSite': '56',
-        'ctl08$lbParam': '4',
-        'ctl08$txtDateS': '2017/02/01',
-        'ctl08$txtDateE': '2017/03/31',
-        'ctl08$btnQuery': '查詢即時值'
+        'ctl09$lbSite': '56',
+        'ctl09$lbParam': '4',
+        'ctl09$txtDateS': '2017/02/01',
+        'ctl09$txtDateE': '2017/03/31',
+        'ctl09$btnQuery': '查詢即時值'
     }
     resp = requests.post('http://taqm.epa.gov.tw/taqm/tw/HourlyData.aspx', data=form_data)
     soup = BeautifulSoup(resp.text, 'html5lib')
