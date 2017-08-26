@@ -1,0 +1,5753 @@
+[
+  {
+    "_id": "58edb2824909c907004aa38b",
+    "assignment": "58edb2824909c907004aa38c",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de819a9d1fa51000f9476b"
+    ],
+    "coverImage": {
+      "_id": "58f5c8094909c907004ad6c6",
+      "url": "https://hahow.in/images/58f5c8094909c907004ad6c6"
+    },
+    "incubateTime": "2017-07-13T04:00:20.094Z",
+    "isReject": false,
+    "metaDescription": "想學好一支社交舞認識更多朋友嗎？\n沒有什麼比一曲探戈更快認識對方！而且，學習探戈無須任何舞蹈經驗，只要你會走路，就可以跳探戈！",
+    "numSoldTickets": 47,
+    "owner": {
+      "_id": "585a1ce2f528320700f8c728",
+      "name": "Jason Chien",
+      "profileImageUrl": "https://graph.facebook.com/10206027252600543/picture",
+      "username": "tango"
+    },
+    "preOrderedPrice": 100,
+    "price": 300,
+    "proposalDueTime": "2017-08-11T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "浪漫探戈 - 從基本舞步到即興組合",
+    "totalVideoLengthInSeconds": 2885,
+    "type": "COURSE",
+    "uniquename": "jsjstango"
+  },
+  {
+    "_id": "591c480a00f58c0700788178",
+    "assignment": "591c480a00f58c0700788179",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "592d0f452f29aa0700af8a14",
+      "url": "https://hahow.in/images/592d0f452f29aa0700af8a14"
+    },
+    "incubateTime": "2017-06-30T04:00:04.845Z",
+    "isReject": false,
+    "metaDescription": "課程會帶領各位進入 Python 的世界，從基本的應用，到邏輯性的思考，做出一個邏輯性的遊戲，讓你成為 Python 開發者！",
+    "numSoldTickets": 277,
+    "owner": {
+      "_id": "591c2ef700f58c0700787fc0",
+      "name": "Louis Ho",
+      "profileImageUrl": "https://graph.facebook.com/825244044306592/picture",
+      "username": "louisho"
+    },
+    "preOrderedPrice": 990,
+    "price": 1390,
+    "proposalDueTime": "2017-07-29T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Python 入門到製作遊戲演算法",
+    "totalVideoLengthInSeconds": 18999,
+    "type": "COURSE",
+    "uniquename": "class1-python"
+  },
+  {
+    "_id": "594cdd6813cd3807002283a9",
+    "assignment": "594cdd6813cd3807002283aa",
+    "categories": [
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "5986c723acc1370700076b5b",
+      "url": "https://hahow.in/images/5986c723acc1370700076b5b"
+    },
+    "incubateTime": "2017-06-27T07:00:20.973Z",
+    "isReject": false,
+    "metaDescription": "由 CBP 認證比特幣專家，帶你完整探索比特幣世界！透過淺顯易懂的解說，你不需要有任何技術背景，也能輕鬆駕馭比特幣！",
+    "numSoldTickets": 195,
+    "owner": {
+      "_id": "593c2dc0d0472a0700f24e9d",
+      "name": "張永森",
+      "profileImageUrl": "https://hahow.in/images/594d0cc613cd38070022861c",
+      "username": "aircozy"
+    },
+    "preOrderedPrice": 960,
+    "price": 1380,
+    "proposalDueTime": "2017-07-26T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "進入比特幣世界 - 比 99% 的人更懂它！",
+    "totalVideoLengthInSeconds": 17734,
+    "type": "COURSE",
+    "uniquename": "mybitcoin"
+  },
+  {
+    "_id": "592bde032f29aa0700af81ae",
+    "assignment": "592bde032f29aa0700af81af",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "594b7c3c0e64510700b6fbc2",
+      "url": "https://hahow.in/images/594b7c3c0e64510700b6fbc2"
+    },
+    "incubateTime": "2017-06-27T04:00:24.917Z",
+    "isReject": false,
+    "metaDescription": "這堂課程收錄了商用日語的核心觀念，包含尊敬語、謙讓語、美化語⋯⋯等等正式語言，以及書信往來該住的的禮儀。讓你在短時間內成為一個講話彬彬有禮的商業人士。",
+    "numSoldTickets": 162,
+    "owner": {
+      "_id": "55e00e4afa223d100058f141",
+      "name": "Chang Hong Lin",
+      "profileImageUrl": "https://graph.facebook.com/1174652202549671/picture"
+    },
+    "preOrderedPrice": 990,
+    "price": 1500,
+    "proposalDueTime": "2017-07-26T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "商用日語：一次學好各種敬語及書信禮儀",
+    "totalVideoLengthInSeconds": 19994,
+    "type": "COURSE",
+    "uniquename": "hiroshikeigo"
+  },
+  {
+    "_id": "5905b47ab684bf0700ec788d",
+    "assignment": "5905b47ab684bf0700ec788e",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "594b7ec60e64510700b6fbdf",
+      "url": "https://hahow.in/images/594b7ec60e64510700b6fbdf"
+    },
+    "incubateTime": "2017-06-21T09:14:08.515Z",
+    "isReject": false,
+    "metaDescription": "Coey 將分享她如何運用求職技巧，獲得 LinkedIn 高階主管升遷機會以及另外兩間科技大牛公司的 Offer，這堂課推薦想進入「網路科技外商」工作的你！",
+    "numSoldTickets": 372,
+    "owner": {
+      "_id": "5905b44eb684bf0700ec788c",
+      "name": "Coey Lam",
+      "profileImageUrl": "https://hahow.in/images/593a3cfdd0472a0700f243e4",
+      "username": "coeycareer"
+    },
+    "preOrderedPrice": 699,
+    "price": 899,
+    "proposalDueTime": "2017-07-21T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "履歷面試大剖析－網路科技外商求職技巧",
+    "totalVideoLengthInSeconds": 3876,
+    "type": "COURSE",
+    "uniquename": "coeycareer"
+  },
+  {
+    "_id": "58af266c5c4e6507007c492a",
+    "assignment": "58af266c5c4e6507007c492b",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "591165122fa2a607008baf59",
+      "url": "https://hahow.in/images/591165122fa2a607008baf59"
+    },
+    "incubateTime": "2017-05-23T05:00:05.897Z",
+    "isReject": false,
+    "metaDescription": "你是個喜歡創作及編曲的人嗎？\n你是不是樂理不夠好，在和弦進行的設計總是缺少想法？\n現代音樂和聲學是針對現代音樂量身規畫的課程，不同於古典音樂，可以學習到大量的爵士、藍調的和聲系統與音階運用。克服你這方面的疑難雜症～",
+    "numSoldTickets": 256,
+    "owner": {
+      "_id": "58af213e5c4e6507007c48f6",
+      "name": "吳為民(叮咚)",
+      "profileImageUrl": "https://graph.facebook.com/1699525116731036/picture",
+      "username": "dingdong"
+    },
+    "preOrderedPrice": 1979,
+    "price": 2800,
+    "proposalDueTime": "2017-06-22T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "拯救你的樂理 - 現代音樂和聲學",
+    "totalVideoLengthInSeconds": 15419,
+    "type": "COURSE",
+    "uniquename": "harmony1"
+  },
+  {
+    "_id": "588732a75f188a07007f1cbc",
+    "assignment": "588732a75f188a07007f1cbd",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81a89d1fa51000f9476f",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "58a917655f188a0700802792",
+      "url": "https://hahow.in/images/58a917655f188a0700802792"
+    },
+    "incubateTime": "2017-05-22T04:00:55.811Z",
+    "isReject": false,
+    "metaDescription": "基礎的奇幻生物插畫造型課程，包含了發想與造型練習，將帶領學生在課程中養成抓住靈感的習慣和掌握基礎造型的能力。",
+    "numSoldTickets": 191,
+    "owner": {
+      "_id": "586f52a7a8aae907000ce37f",
+      "name": "陳致瑋",
+      "profileImageUrl": "https://hahow.in/images/5875070058ab57070085b0f7"
+    },
+    "preOrderedPrice": 890,
+    "price": 1200,
+    "proposalDueTime": "2017-06-21T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Duga 的奇幻插畫課 - 幻想角色篇",
+    "totalVideoLengthInSeconds": 6885,
+    "type": "COURSE",
+    "uniquename": "dugahook-fc"
+  },
+  {
+    "_id": "586fae97a8aae907000ce721",
+    "assignment": "586fae97a8aae907000ce722",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "59131a7f2fa2a607008bc8ca",
+      "url": "https://hahow.in/images/59131a7f2fa2a607008bc8ca"
+    },
+    "incubateTime": "2017-05-18T04:00:03.976Z",
+    "isReject": false,
+    "metaDescription": "深入淺出學習網頁動畫、特效與遊戲製作的原理，從零快速入門網頁、JS 與繪圖實戰範例，並學習使用 Vue.js 整合前端網頁。",
+    "numSoldTickets": 1636,
+    "owner": {
+      "_id": "56189df7df7b3d0b005c6638",
+      "name": "吳哲宇",
+      "profileImageUrl": "https://hahow.in/images/59940a4d38c46c0700654afc",
+      "username": "majer"
+    },
+    "preOrderedPrice": 1600,
+    "price": 2000,
+    "proposalDueTime": "2017-06-17T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "動畫互動網頁特效入門（JS/CANVAS）",
+    "totalVideoLengthInSeconds": 16938,
+    "type": "COURSE",
+    "uniquename": "monoame-webdesign2"
+  },
+  {
+    "_id": "58e5d4844909c907004a657a",
+    "assignment": "58e5d4844909c907004a657b",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81b79d1fa51000f94771"
+    ],
+    "coverImage": {
+      "_id": "590860bdb684bf0700ec8fa6",
+      "url": "https://hahow.in/images/590860bdb684bf0700ec8fa6"
+    },
+    "incubateTime": "2017-05-05T04:01:07.727Z",
+    "isReject": false,
+    "metaDescription": "透過十二個成功的商業、政治和社群案例，小說家朱宥勳將說明一系列小說敘事的實戰技術，講述故事如何『蠱惑人心』的秘訣。",
+    "numSoldTickets": 1252,
+    "owner": {
+      "_id": "58e5d4304909c907004a6574",
+      "name": "朱宥勳",
+      "profileImageUrl": "https://graph.facebook.com/1702980549718072/picture",
+      "username": "chuck158207"
+    },
+    "preOrderedPrice": 800,
+    "price": 1500,
+    "proposalDueTime": "2017-06-04T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "不必下蠱的人心攻略術 — 小說實戰技術",
+    "totalVideoLengthInSeconds": 13601,
+    "type": "COURSE",
+    "uniquename": "novelist"
+  },
+  {
+    "_id": "587f29666ecf3a0700b77d40",
+    "assignment": "587f29666ecf3a0700b77d41",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "587f492c6ecf3a0700b77ea3",
+      "url": "https://hahow.in/images/587f492c6ecf3a0700b77ea3"
+    },
+    "incubateTime": "2017-05-03T03:33:17.684Z",
+    "isReject": false,
+    "metaDescription": "喜歡塔羅牌美麗的故事與圖像？想要占卜卻不知從何開始？塔羅牌其實不僅可用來占卜，也是一個很好作為自我探索的工具，用十堂課來認識這個工具，在忙碌的生活中，試著靜下心來與自己對話吧！",
+    "numSoldTickets": 157,
+    "owner": {
+      "_id": "587f295d6ecf3a0700b77d3d",
+      "name": "feeling",
+      "profileImageUrl": "https://hahow.in/images/587f63ce6ecf3a0700b77fcd",
+      "username": "feeling"
+    },
+    "preOrderedPrice": 770,
+    "price": 990,
+    "proposalDueTime": "2017-06-02T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "跟著插畫家十堂課輕鬆學塔羅",
+    "totalVideoLengthInSeconds": 10778,
+    "type": "COURSE",
+    "uniquename": "feelingtarot"
+  },
+  {
+    "_id": "58ca97dada45810700e53205",
+    "assignment": "58ca97dada45810700e53206",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "58ca9da2da45810700e53241",
+      "url": "https://hahow.in/images/58ca9da2da45810700e53241"
+    },
+    "incubateTime": "2017-04-29T03:26:15.487Z",
+    "isReject": false,
+    "metaDescription": "速寫對初學者來說是一個很好的練習，初學者是否會覺得看著真人動作畫成動漫角色很難呢？今天教大家如何利用照片和一些訣竅去練習動漫速寫！",
+    "numSoldTickets": 411,
+    "owner": {
+      "_id": "58c6d497da45810700e5156a",
+      "name": "空罐王",
+      "profileImageUrl": "https://hahow.in/images/58ca9286da45810700e531d4",
+      "username": "a12710xxx"
+    },
+    "preOrderedPrice": 500,
+    "price": 600,
+    "proposalDueTime": "2017-05-29T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "如何練習動漫速寫",
+    "totalVideoLengthInSeconds": 5107,
+    "type": "COURSE",
+    "uniquename": "comicsketch"
+  },
+  {
+    "_id": "58d5c70c27ea7d070060160e",
+    "assignment": "58d5c70c27ea7d070060160f",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "58f318cc4909c907004ac575",
+      "url": "https://hahow.in/images/58f318cc4909c907004ac575"
+    },
+    "incubateTime": "2017-04-27T04:00:30.360Z",
+    "isReject": false,
+    "metaDescription": "多個講師帶大家從入門到掌握技能知識，能夠扎實學習基本技術，再到實戰運用，在從線上到線下的教學課程。",
+    "numSoldTickets": 1062,
+    "owner": {
+      "_id": "56f0d9534e3ef90900b80ccd",
+      "name": "Syue Ming YU",
+      "profileImageUrl": "https://graph.facebook.com/974193032656840/picture",
+      "username": "louissyue"
+    },
+    "preOrderedPrice": 650,
+    "price": 2500,
+    "proposalDueTime": "2017-05-27T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "從入門到業界實戰UI/UX/網頁前端設計",
+    "totalVideoLengthInSeconds": 152230,
+    "type": "COURSE",
+    "uniquename": "ui-design"
+  },
+  {
+    "_id": "58e3714a5b23b507002a8d1e",
+    "assignment": "58e3714a5b23b507002a8d1f",
+    "categories": [
+      "55de819e9d1fa51000f9476c",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "58e371e55b23b507002a8d25",
+      "url": "https://hahow.in/images/58e371e55b23b507002a8d25"
+    },
+    "incubateTime": "2017-04-21T04:28:14.735Z",
+    "isReject": false,
+    "metaDescription": "補習班、坊間上、網路上有各式各樣的日語教學法，好壞參差不一。本課程帶你從頭認識日文！",
+    "numSoldTickets": 294,
+    "owner": {
+      "_id": "574e68e3206cd60900c520ac",
+      "name": "愷開",
+      "profileImageUrl": "https://graph.facebook.com/967893566651647/picture"
+    },
+    "preOrderedPrice": 999,
+    "price": 1500,
+    "proposalDueTime": "2017-05-21T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "從 0 到 1 - 為初學者而設計的日文課",
+    "totalVideoLengthInSeconds": 24014,
+    "type": "COURSE",
+    "uniquename": "nihongogo"
+  },
+  {
+    "_id": "58cb3438da45810700e53507",
+    "assignment": "58cb3438da45810700e53508",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58da1e786e5d500700c83e0e",
+      "url": "https://hahow.in/images/58da1e786e5d500700c83e0e"
+    },
+    "incubateTime": "2017-04-20T05:30:11.819Z",
+    "isReject": false,
+    "metaDescription": "講究數據的時代，用這堂課開啟你的資料科學自學之旅! 從0到1帶你上手R語言，人人都能成為用數據說話的資料科學人！",
+    "numSoldTickets": 447,
+    "owner": {
+      "_id": "58c6aea9da45810700e5140b",
+      "name": "Wush Wu",
+      "profileImageUrl": "https://hahow.in/images/58dbd5b26e5d500700c84a43",
+      "username": "dsrwush"
+    },
+    "preOrderedPrice": 250,
+    "price": 500,
+    "proposalDueTime": "2017-05-20T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "開啟資料科學的學習大門 - R入門教學",
+    "totalVideoLengthInSeconds": 28189,
+    "type": "COURSE",
+    "uniquename": "r-hands-on"
+  },
+  {
+    "_id": "58d6275727ea7d0700601804",
+    "assignment": "58d6275727ea7d0700601805",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "58da31776e5d500700c83eb6",
+      "url": "https://hahow.in/images/58da31776e5d500700c83eb6"
+    },
+    "incubateTime": "2017-04-20T05:29:47.202Z",
+    "isReject": false,
+    "metaDescription": "超低批發價、物流不卡關、代購抽金傭、支付賺現金、中國銀行開戶密技大公開！不論是淘寶新手，還是資深代購，本課程都能幫助您避雷並學會所有淘寶技巧",
+    "numSoldTickets": 153,
+    "owner": {
+      "_id": "58d6269727ea7d07006017fe",
+      "name": "henryyang",
+      "profileImageUrl": "https://hahow.in/images/58df57d1a7fab707009274d9",
+      "username": "henryyang"
+    },
+    "preOrderedPrice": 660,
+    "price": 990,
+    "proposalDueTime": "2017-05-20T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "你真的會買淘寶？代購秘密大公開",
+    "totalVideoLengthInSeconds": 7773,
+    "type": "COURSE",
+    "uniquename": "taobao-secret"
+  },
+  {
+    "_id": "58abfb2f5c4e6507007c2b46",
+    "assignment": "58abfb2f5c4e6507007c2b47",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "58f639e14909c907004adaa9",
+      "url": "https://hahow.in/images/58f639e14909c907004adaa9"
+    },
+    "incubateTime": "2017-04-19T04:00:13.632Z",
+    "isReject": false,
+    "metaDescription": "AE/MG Vol.1 講師 Yan-K 推出進階課程囉！本課程適合對 After Effects 有基礎認識的學員，教學內容著重在進階技巧教學還有豐富的實戰案例。快加入課程，做出撼動人心的 Motion Graphic 吧！",
+    "numSoldTickets": 1014,
+    "owner": {
+      "_id": "55ee86a2fa223d100058f948",
+      "name": "Yan-K",
+      "profileImageUrl": "https://graph.facebook.com/1042636152421615/picture",
+      "username": "yank"
+    },
+    "preOrderedPrice": 1500,
+    "price": 2000,
+    "proposalDueTime": "2017-05-19T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "AE/MG || 進階動畫特效 Vol.2",
+    "totalVideoLengthInSeconds": 31341,
+    "type": "COURSE",
+    "uniquename": "ae-mg-vol2"
+  },
+  {
+    "_id": "58bfdaab5c4e6507007cdeca",
+    "assignment": "58bfdaab5c4e6507007cdecb",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58f4c4924909c907004ad198",
+      "url": "https://hahow.in/images/58f4c4924909c907004ad198"
+    },
+    "incubateTime": "2017-04-07T05:53:07.307Z",
+    "isReject": false,
+    "metaDescription": "「五分鐘 程式設計」系列－安卓手機APP進階課程，共15單元，涵蓋動畫、計時器、音樂播放、加速度、指南針、藍牙、語音識別、資料庫和照相機元件。",
+    "numSoldTickets": 83,
+    "owner": {
+      "_id": "58650351f108e00800c2507f",
+      "name": "Lien  Ted",
+      "profileImageUrl": "https://hahow.in/images/586db31ea8aae907000cd174",
+      "username": "ted99tw"
+    },
+    "preOrderedPrice": 500,
+    "price": 1000,
+    "proposalDueTime": "2017-05-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "APP Inventor 2  進階實戰",
+    "totalVideoLengthInSeconds": 5134,
+    "type": "COURSE",
+    "uniquename": "appinv2adv"
+  },
+  {
+    "_id": "589b01ca5f188a07007fb3f9",
+    "assignment": "589b01ca5f188a07007fb3fa",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "58a3b8d05f188a07007fef75",
+      "url": "https://hahow.in/images/58a3b8d05f188a07007fef75"
+    },
+    "incubateTime": "2017-03-30T02:02:11.004Z",
+    "isReject": false,
+    "metaDescription": "從零開始的 ACG 繪圖生活！讓日本繪師帶你從草稿到完圖，原汁原味了解繪圖的完整過程，讓你從零開始也毫無壓力！一起來學習吧 (๑•̀ㅂ•́)و✧",
+    "numSoldTickets": 209,
+    "owner": {
+      "_id": "589b006b5f188a07007fb3e9",
+      "name": "井上貴子",
+      "profileImageUrl": "https://hahow.in/images/589b01985f188a07007fb3f7",
+      "username": "takakoinoue"
+    },
+    "preOrderedPrice": 1000,
+    "price": 1500,
+    "proposalDueTime": "2017-04-29T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "日本 ACG 繪師教你用 PS 畫出宇宙少女",
+    "totalVideoLengthInSeconds": 22627,
+    "type": "COURSE",
+    "uniquename": "inouetakakospacegirl"
+  },
+  {
+    "_id": "58a00f865f188a07007fd709",
+    "assignment": "58a00f865f188a07007fd70a",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "58e84a1d4909c907004a78f0",
+      "url": "https://hahow.in/images/58e84a1d4909c907004a78f0"
+    },
+    "incubateTime": "2017-03-27T04:11:39.133Z",
+    "isReject": false,
+    "metaDescription": "你總是在網路上遍尋AE教學，跟著做一遍後卻還是抓不到核心技術嗎？ \n「從0開始學AE動態設計核心基礎」就是讓想學AE的初學者從影視理論開始學習，掌握最關鍵的操作觀念與動態技術，讓您不再瞎子摸象，能在AE中游刃有餘的創作出屬於自己的動態影像作品。",
+    "numSoldTickets": 383,
+    "owner": {
+      "_id": "57ccc02b61d9350700e7143b",
+      "name": "mgboomdesign",
+      "profileImageUrl": "https://hahow.in/images/58be0ad25c4e6507007ccd70",
+      "username": "mgboomdesign"
+    },
+    "preOrderedPrice": 900,
+    "price": 1200,
+    "proposalDueTime": "2017-04-26T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "從 0 開始學 AE 動態設計核心基礎（上集）",
+    "totalVideoLengthInSeconds": 22563,
+    "type": "COURSE",
+    "uniquename": "mgboomlearnae1"
+  },
+  {
+    "_id": "58578cf8f528320700f8baa6",
+    "assignment": "58578cf8f528320700f8baa7",
+    "categories": [
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "58a2d9835f188a07007feaec",
+      "url": "https://hahow.in/images/58a2d9835f188a07007feaec"
+    },
+    "incubateTime": "2017-02-15T04:00:24.291Z",
+    "isReject": false,
+    "metaDescription": "表演與相聲大師宋少卿首次開設的線上課程，透過完整的 10 個課程單元及實體工作坊，讓社會中每一個人都能感受舞台魅力，收放自如的去表演與體驗生活。",
+    "numSoldTickets": 617,
+    "owner": {
+      "_id": "584f9543d821b10700a88124",
+      "name": "宋少卿",
+      "profileImageUrl": "https://hahow.in/images/58538564f528320700f8a59f",
+      "username": "tinating58"
+    },
+    "preOrderedPrice": 1880,
+    "price": 2880,
+    "proposalDueTime": "2017-03-17T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "與大師相會：每個人都能體現的舞台魅力",
+    "totalVideoLengthInSeconds": 19528,
+    "type": "COURSE",
+    "uniquename": "amissung"
+  },
+  {
+    "_id": "5892e48a5f188a07007f7013",
+    "assignment": "5892e48a5f188a07007f7014",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58b76f915c4e6507007c934c",
+      "url": "https://hahow.in/images/58b76f915c4e6507007c934c"
+    },
+    "incubateTime": "2017-02-14T04:02:51.425Z",
+    "isReject": false,
+    "metaDescription": "Java程式語言是目前最多系統使用的程式語言，也是目前市場上最需要的人才之一，這堂課程將以實際開發系統來做為教學的目標，上完這個課程之後將具備基礎的系統開發能力，接續的解鎖課程將會讓同學更進階的瞭解業界開發的常用工具與設計系統架構。",
+    "numSoldTickets": 131,
+    "owner": {
+      "_id": "56ef73344e3ef90900b8061c",
+      "name": "Ryan",
+      "profileImageUrl": "https://hahow.in/images/58b782c05c4e6507007c9406",
+      "username": "ryantw"
+    },
+    "preOrderedPrice": 1180,
+    "price": 1890,
+    "proposalDueTime": "2017-03-16T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "【Java 程式語言】從 0 到 1",
+    "totalVideoLengthInSeconds": 49976,
+    "type": "COURSE",
+    "uniquename": "java-codegym"
+  },
+  {
+    "_id": "585feadff108e00800c22596",
+    "assignment": "585feadff108e00800c22597",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58bacc105c4e6507007cb4ce",
+      "url": "https://hahow.in/images/58bacc105c4e6507007cb4ce"
+    },
+    "incubateTime": "2017-02-14T04:02:46.015Z",
+    "isReject": false,
+    "metaDescription": "想接網站外包? 再也不是難事！\n不論你是將來有專題大魔王，或是想開工作室接案賺錢，又或是開網路商城自己當老闆！\n只要跟著DK老師全程走一遭，一道道難題被解開後，這些經歷將成為你成功背後最有力的後台！",
+    "numSoldTickets": 165,
+    "owner": {
+      "_id": "5798ce53d0c303070041a686",
+      "name": "DKMonster",
+      "profileImageUrl": "https://hahow.in/images/58766cf158ab57070085bf68",
+      "username": "mylyfwy771"
+    },
+    "preOrderedPrice": 1200,
+    "price": 2000,
+    "proposalDueTime": "2017-03-16T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "攻城獅必學 - 從0到1打造購物網站",
+    "totalVideoLengthInSeconds": 69644,
+    "type": "COURSE",
+    "uniquename": "dkm-online-shop"
+  },
+  {
+    "_id": "58744feda8aae907000d06c0",
+    "assignment": "58744feda8aae907000d06c1",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "588421e46ecf3a0700b7a31d",
+      "url": "https://hahow.in/images/588421e46ecf3a0700b7a31d"
+    },
+    "incubateTime": "2017-02-09T05:45:14.673Z",
+    "isReject": false,
+    "metaDescription": "你想自動擷取網站上的資料嗎？你學了 Python 卻不知道該從什麼程式開始練習嗎？這堂課就是為你準備的！本課程會循序漸進地說明如何撰寫 Python 網頁爬蟲，從環境設定開始，涵蓋網頁解構、資料擷取與儲存，及多項實戰演練，讓你在學習過程中及對於學習成果都有滿滿的成就感。",
+    "numSoldTickets": 530,
+    "owner": {
+      "_id": "58744a86a8aae907000d0684",
+      "name": "Jun-Wei Lin",
+      "profileImageUrl": "https://hahow.in/images/58744c3ca8aae907000d0697",
+      "username": "junwei"
+    },
+    "preOrderedPrice": 990,
+    "price": 1890,
+    "proposalDueTime": "2017-03-11T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Python 網頁爬蟲入門實戰",
+    "totalVideoLengthInSeconds": 15290,
+    "type": "COURSE",
+    "uniquename": "python-web-crawler"
+  },
+  {
+    "_id": "58677d39f108e00800c25f36",
+    "assignment": "58677d39f108e00800c25f37",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58677f12f108e00800c25f52",
+      "url": "https://hahow.in/images/58677f12f108e00800c25f52"
+    },
+    "incubateTime": "2017-02-08T04:39:31.175Z",
+    "isReject": false,
+    "metaDescription": "25單元，看影片就能掌握精髓，使用C語言經典教材，從零紮根程式設計。",
+    "numSoldTickets": 195,
+    "owner": {
+      "_id": "58650351f108e00800c2507f",
+      "name": "Lien  Ted",
+      "profileImageUrl": "https://hahow.in/images/586db31ea8aae907000cd174",
+      "username": "ted99tw"
+    },
+    "preOrderedPrice": 500,
+    "price": 1000,
+    "proposalDueTime": "2017-03-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "C 語言入門特訓",
+    "totalVideoLengthInSeconds": 8445,
+    "type": "COURSE",
+    "uniquename": "clanguage"
+  },
+  {
+    "_id": "586ec677a8aae907000cdd6f",
+    "assignment": "586ec677a8aae907000cdd70",
+    "categories": [
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "587df6616ecf3a0700b774a5",
+      "url": "https://hahow.in/images/587df6616ecf3a0700b774a5"
+    },
+    "incubateTime": "2017-02-07T05:51:06.346Z",
+    "isReject": false,
+    "metaDescription": "塔羅已盛行多時，隨著時代的進步下，塔羅不再那麼神秘，每一個人都可以替自己的人生下決定，但當你需要建議時，該怎麼辦呢？塔羅，將陪伴你找尋真實的自己並給予最真誠的建議......",
+    "numSoldTickets": 158,
+    "owner": {
+      "_id": "580f15e0da04300700fe7f4a",
+      "name": "黃晟翔",
+      "profileImageUrl": "https://graph.facebook.com/1403007693050510/picture"
+    },
+    "preOrderedPrice": 500,
+    "price": 800,
+    "proposalDueTime": "2017-03-09T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "靈魂的代言人-塔羅牌義全解析",
+    "totalVideoLengthInSeconds": 14638,
+    "type": "COURSE",
+    "uniquename": "oldskyfather"
+  },
+  {
+    "_id": "58001218da04300700fdee95",
+    "assignment": "58001218da04300700fdee96",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "5867790cf108e00800c25f19",
+      "url": "https://hahow.in/images/5867790cf108e00800c25f19"
+    },
+    "incubateTime": "2017-02-01T02:59:01.181Z",
+    "isReject": false,
+    "metaDescription": "Python 是世界上最受歡迎的程式語言之一，本課程將帶領學員入門 Python Web 開發實戰，打造屬於你自己的網路應用程式",
+    "numSoldTickets": 607,
+    "owner": {
+      "_id": "57d20956ed63880700d9fa96",
+      "name": "kdchang",
+      "profileImageUrl": "https://lh3.googleusercontent.com/-VDtJNwtwL_c/AAAAAAAAAAI/AAAAAAAAABA/5S9r04vus38/photo.jpg",
+      "username": "kdchang"
+    },
+    "preOrderedPrice": 990,
+    "price": 1590,
+    "proposalDueTime": "2017-03-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "Python Web 程式設計入門實戰",
+    "totalVideoLengthInSeconds": 29905,
+    "type": "COURSE",
+    "uniquename": "python101"
+  },
+  {
+    "_id": "585eb576f108e00800c21f76",
+    "assignment": "585eb576f108e00800c21f77",
+    "categories": [
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "58666eeff108e00800c25a51",
+      "url": "https://hahow.in/images/58666eeff108e00800c25a51"
+    },
+    "incubateTime": "2017-01-25T05:07:14.691Z",
+    "isReject": false,
+    "metaDescription": "想學剪輯攝影? 想自己製作MV?還是想當個Youtuber? 6堂課教會你！自編、自導、自演、自剪，影片製作不再靠別人！",
+    "numSoldTickets": 216,
+    "owner": {
+      "_id": "578db7efd0c303070041703c",
+      "name": "武敬凱JingWu",
+      "profileImageUrl": "https://hahow.in/images/585eaa2bf108e00800c21f5d",
+      "username": "th845120"
+    },
+    "preOrderedPrice": 700,
+    "price": 900,
+    "proposalDueTime": "2017-02-24T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "必學6堂課|攝影剪輯 MV,微電影,超容易！",
+    "totalVideoLengthInSeconds": 6808,
+    "type": "COURSE",
+    "uniquename": "jingwuclass"
+  },
+  {
+    "_id": "586a2519f108e00800c26e61",
+    "assignment": "586a2519f108e00800c26e62",
+    "categories": [
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "586d9c92f108e00800c28464",
+      "url": "https://hahow.in/images/586d9c92f108e00800c28464"
+    },
+    "incubateTime": "2017-01-18T07:00:16.546Z",
+    "isReject": false,
+    "metaDescription": "25個錄影教學單元，使用拼圖來建構程式，就算完全沒有接觸過程式，也能開發出有趣的Android APP。",
+    "numSoldTickets": 185,
+    "owner": {
+      "_id": "58650351f108e00800c2507f",
+      "name": "Lien  Ted",
+      "profileImageUrl": "https://hahow.in/images/586db31ea8aae907000cd174",
+      "username": "ted99tw"
+    },
+    "preOrderedPrice": 500,
+    "price": 1000,
+    "proposalDueTime": "2017-02-17T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "App Inventor 2 入門特訓",
+    "totalVideoLengthInSeconds": 8484,
+    "type": "COURSE",
+    "uniquename": "appinventor2"
+  },
+  {
+    "_id": "58484022d821b10700a8586e",
+    "assignment": "58484022d821b10700a8586f",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "58f0d5154909c907004abc84",
+      "url": "https://hahow.in/images/58f0d5154909c907004abc84"
+    },
+    "incubateTime": "2017-01-11T03:56:27.153Z",
+    "isReject": false,
+    "metaDescription": "在描繪人物時，是否總覺得看起來怪怪的，像外星人不像地球人?　不是你／妳沒有繪畫的天份，而是因為對全身骨骼肌肉的比例分佈位置不理解。快來學習藝用解剖學，跨出畫出準確人物的第一步！",
+    "numSoldTickets": 448,
+    "owner": {
+      "_id": "58483fa0d821b10700a85869",
+      "name": "onezuka",
+      "profileImageUrl": "https://hahow.in/images/58668e3ff108e00800c25b61",
+      "username": "onezuka"
+    },
+    "preOrderedPrice": 600,
+    "price": 1000,
+    "proposalDueTime": "2017-02-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "藝用解剖學1 - 達文西維特魯威人",
+    "totalVideoLengthInSeconds": 53032,
+    "type": "COURSE",
+    "uniquename": "onezukabin"
+  },
+  {
+    "_id": "5864e19cf108e00800c24f7a",
+    "assignment": "5864e19cf108e00800c24f7b",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "5865e927f108e00800c25572",
+      "url": "https://hahow.in/images/5865e927f108e00800c25572"
+    },
+    "incubateTime": "2017-01-09T04:00:38.104Z",
+    "isReject": false,
+    "metaDescription": "你知道木吉他其實身兼吉他、貝斯、還有鼓三種功夫於一身嗎?想學會解放木吉他最大潛能的 Fingerstyle 嗎?押尾光太郎、Andy Mckee、Mike Daws是你憧憬的目標嗎?現在就脫初級，跟著我一起挑戰更精深的 Fingerstyle世界吧!!",
+    "numSoldTickets": 57,
+    "owner": {
+      "_id": "55d6c7eafe5f710a00ac7aa1",
+      "name": "林子雲",
+      "profileImageUrl": "https://hahow.in/images/5875ef9e58ab57070085b66b",
+      "username": "tzuyun"
+    },
+    "preOrderedPrice": 700,
+    "price": 800,
+    "proposalDueTime": "2017-02-08T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "吉他從零開始-Fingerstyle（進階）",
+    "totalVideoLengthInSeconds": 2861,
+    "type": "COURSE",
+    "uniquename": "littletreasureofmine"
+  },
+  {
+    "_id": "5788984dd0c303070041573a",
+    "assignment": "5788984dd0c303070041573b",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81969d1fa51000f9476a",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "586e59e7a8aae907000cdafe",
+      "url": "https://hahow.in/images/586e59e7a8aae907000cdafe"
+    },
+    "incubateTime": "2017-01-06T04:03:28.833Z",
+    "isReject": false,
+    "metaDescription": "第一個專為線上學習開設的全中文設計思考課，透過紮實步驟引導，讓你在體驗經濟的時代學會用「以人為本」的方式解決問題\n創造更多具有價值的產品與服務。",
+    "numSoldTickets": 475,
+    "owner": {
+      "_id": "56d70783182fba0e00c6dbb6",
+      "name": "Jarah",
+      "profileImageUrl": "https://hahow.in/images/585a34f4ecdb8307001fd3e0"
+    },
+    "preOrderedPrice": 980,
+    "price": 2400,
+    "proposalDueTime": "2017-02-05T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 60
+    },
+    "title": "設計思考，頂尖企業都在學的創新流程！",
+    "totalVideoLengthInSeconds": 25272,
+    "type": "COURSE",
+    "uniquename": "designthinking"
+  },
+  {
+    "_id": "58358d5ef8325508002f96bb",
+    "assignment": "58358d5ef8325508002f96bc",
+    "categories": [
+      "55de819a9d1fa51000f9476b"
+    ],
+    "coverImage": {
+      "_id": "585cfce0f108e00800c212f3",
+      "url": "https://hahow.in/images/585cfce0f108e00800c212f3"
+    },
+    "incubateTime": "2017-01-05T08:33:21.307Z",
+    "isReject": false,
+    "metaDescription": "大家好，我是溜溜球金氏世界紀錄保持人 楊元慶，自己在學習溜溜球的過程中，好說也跌跌撞撞了18年，為了讓更多人可以快速學習溜溜球的技巧，並加入溜溜球的世界，我即將在好學校開課了！！",
+    "numSoldTickets": 94,
+    "owner": {
+      "_id": "5832c01baed21407008643c2",
+      "name": "楊元慶",
+      "profileImageUrl": "https://hahow.in/images/58ef73b64909c907004ab320"
+    },
+    "preOrderedPrice": 800,
+    "price": 1200,
+    "proposalDueTime": "2017-02-04T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 40
+    },
+    "title": "在世界各地都可以成為溜溜球高手",
+    "totalVideoLengthInSeconds": 9577,
+    "type": "COURSE",
+    "uniquename": "yoyoyang"
+  },
+  {
+    "_id": "580d0af4da04300700fe701c",
+    "assignment": "580d0af4da04300700fe701d",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de81929d1fa51000f94769",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "5854d522f528320700f8acb0",
+      "url": "https://hahow.in/images/5854d522f528320700f8acb0"
+    },
+    "incubateTime": "2017-01-04T07:09:46.374Z",
+    "isReject": false,
+    "metaDescription": "想要創作求婚影片的配樂，寫首動人的情歌送給心愛的另一半？又或是製作專屬的手機鈴聲卻不知從何下手？在這裡你將得到解答！\n就算不懂樂器、沒有樂理基礎，都不用擔心，這門課將從零開始，從觀念解析到實戰操作，只要發揮你的想像力，動動手指頭就可以輕鬆完成一首曲子喔！",
+    "numSoldTickets": 81,
+    "owner": {
+      "_id": "57c3ead69ab508070039cfb7",
+      "name": "ensemble",
+      "profileImageUrl": "https://hahow.in/images/57e7d1f8a69c2407000696cb",
+      "username": "ensemble"
+    },
+    "preOrderedPrice": 499,
+    "price": 1199,
+    "proposalDueTime": "2017-02-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "隨時隨地玩音樂 GarageBand",
+    "totalVideoLengthInSeconds": 8776,
+    "type": "COURSE",
+    "uniquename": "garageband"
+  },
+  {
+    "_id": "582548cf5910c807008267b4",
+    "assignment": "582548cf5910c807008267b5",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58254e5c5910c807008267d9",
+      "url": "https://hahow.in/images/58254e5c5910c807008267d9"
+    },
+    "incubateTime": "2016-12-27T04:00:03.844Z",
+    "isReject": false,
+    "metaDescription": "前幾堂課將會個別介紹Node.js核心模組之特性，並且講述相關Node.js框架，最後使用Node.js開發一個論壇類型網站，課程將會使用React.js作為前端Framework\n\n課程後面幾堂課會提到有關web cache方面，安全方面，load balance等議題\n\n最後會講解上架到AWS 的EC2上，使用nginx 當reverse proxy 並配置https的步驟",
+    "numSoldTickets": 151,
+    "owner": {
+      "_id": "582541e55910c80700826797",
+      "name": "yicheng",
+      "profileImageUrl": "https://graph.facebook.com/10207124794173538/picture"
+    },
+    "preOrderedPrice": 1680,
+    "price": 1980,
+    "proposalDueTime": "2017-01-26T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 40
+    },
+    "title": "Node.js 網站開發 with  React.js",
+    "totalVideoLengthInSeconds": 21482,
+    "type": "COURSE",
+    "uniquename": "nodejs-lession"
+  },
+  {
+    "_id": "57dd2673d5766a0700c6be33",
+    "assignment": "57dd2673d5766a0700c6be34",
+    "categories": [
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "57dd26f0d5766a0700c6be3b",
+      "url": "https://hahow.in/images/57dd26f0d5766a0700c6be3b"
+    },
+    "incubateTime": "2016-12-26T07:47:06.709Z",
+    "isReject": false,
+    "metaDescription": "給基礎程度的你，輕鬆由手繪入門轉電繪！\n本課程以基本觀念切入，以循序漸進的繪畫流程帶你掌握繪畫的構成及訣竅。讓入門者也可以體驗到繪畫創作的樂趣。",
+    "numSoldTickets": 628,
+    "owner": {
+      "_id": "56385f48423bdd0a00103c3b",
+      "name": "藍 國峰",
+      "profileImageUrl": "https://graph.facebook.com/1126459127366056/picture",
+      "username": "bluebobo3333"
+    },
+    "preOrderedPrice": 990,
+    "price": 1500,
+    "proposalDueTime": "2017-01-25T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "怪獸工場-基礎角色造型篇",
+    "totalVideoLengthInSeconds": 28301,
+    "type": "COURSE",
+    "uniquename": "monster0"
+  },
+  {
+    "_id": "5858badef528320700f8c04a",
+    "assignment": "5858badef528320700f8c04b",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "5858c6c2f528320700f8c088",
+      "url": "https://hahow.in/images/5858c6c2f528320700f8c088"
+    },
+    "incubateTime": "2016-12-26T07:42:58.170Z",
+    "isReject": false,
+    "metaDescription": "怪獸的朋友們，我們即將在第三期的課程中與你們見面了，這次我們策劃了更豐富的內容要與大家分享！\n\n這堂課要帶給大家場景設計的\n各種觀念，不管是新手的你或是在職的朋友，這堂課能讓你更深入地了解場景設計，進而處理美術上各種艱巨的挑戰。\n\n希望大家一起支持我們前進，讓這頭怪獸能更加強大。",
+    "numSoldTickets": 620,
+    "owner": {
+      "_id": "56e8be814e3ef90900b7ef6a",
+      "name": "許友豪",
+      "profileImageUrl": "https://graph.facebook.com/10153955241889933/picture"
+    },
+    "preOrderedPrice": 990,
+    "price": 1500,
+    "proposalDueTime": "2017-01-25T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "怪獸工場-遊戲場景設計篇",
+    "totalVideoLengthInSeconds": 12616,
+    "type": "COURSE",
+    "uniquename": "monster6"
+  },
+  {
+    "_id": "56e2a43b4e3ef90900b7d6cd",
+    "assignment": "56e2a43b4e3ef90900b7d6ce",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "58871ca05f188a07007f1bc8",
+      "url": "https://hahow.in/images/58871ca05f188a07007f1bc8"
+    },
+    "incubateTime": "2016-12-14T04:13:21.603Z",
+    "isReject": false,
+    "metaDescription": "「隨著數位影像廣為傳播，修好一張圖已經是每個人必備的基礎技能」\n\n隨著 Photoshop 成為影像世代的顯學，網路上的教學卻往往以單一技巧為主，我們常常學了很多酷炫的功能，卻沒辦法自己做出作品，這而這門課，將帶你從入門到進階，成為你學習 Photoshop 最好的投資。",
+    "numSoldTickets": 1065,
+    "owner": {
+      "_id": "56e2a3eb4e3ef90900b7d6c9",
+      "name": "林協霆",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-k5ohx9wnsPk/AAAAAAAAAAI/AAAAAAAAI2M/o7g0LfISVIw/photo.jpg",
+      "username": "hsiehting"
+    },
+    "preOrderedPrice": 900,
+    "price": 1500,
+    "proposalDueTime": "2017-01-13T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Photoshop練功坊 -入門操作到進階合成",
+    "totalVideoLengthInSeconds": 62078,
+    "type": "COURSE",
+    "uniquename": "psworkshop"
+  },
+  {
+    "_id": "581c3a59cca880070070561b",
+    "assignment": "581c3a59cca880070070561c",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58b941e65c4e6507007caa76",
+      "url": "https://hahow.in/images/58b941e65c4e6507007caa76"
+    },
+    "incubateTime": "2016-12-13T04:29:09.613Z",
+    "isReject": false,
+    "metaDescription": "運用免費的雲端架站服務，5分鐘讓您專屬的網站上線！\n　不需要任何程式基礎，只需滿滿熱情、鍵盤與滑鼠。　隨時更新自己的網站，無需等待。",
+    "numSoldTickets": 195,
+    "owner": {
+      "_id": "5816e653cca88007007023da",
+      "name": "YH.Fang",
+      "profileImageUrl": "https://hahow.in/images/581ed846cca88007007064fb",
+      "username": "ysfang"
+    },
+    "preOrderedPrice": 99,
+    "price": 220,
+    "proposalDueTime": "2017-01-12T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "不到一小時就能學會的個人網站製作",
+    "totalVideoLengthInSeconds": 4814,
+    "type": "COURSE",
+    "uniquename": "web-design"
+  },
+  {
+    "_id": "5832a096aed2140700864309",
+    "assignment": "5832a096aed214070086430a",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "5832a342aed2140700864318",
+      "url": "https://hahow.in/images/5832a342aed2140700864318"
+    },
+    "incubateTime": "2016-12-09T04:04:43.175Z",
+    "isReject": false,
+    "metaDescription": "學後製單純想把照片變漂亮一點，自學軟體並自創怪招才發現怎麼書上也這樣做，透過簡易講解操作方式讓新手快速入門！成就感十足！",
+    "numSoldTickets": 152,
+    "owner": {
+      "_id": "57fc6339da04300700fdc7e2",
+      "name": "王喜米",
+      "profileImageUrl": "https://hahow.in/images/583403f7091282070082dcd9"
+    },
+    "preOrderedPrice": 350,
+    "price": 500,
+    "proposalDueTime": "2017-01-08T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "初心者！Lightroom數位暗房基礎後製",
+    "totalVideoLengthInSeconds": 14589,
+    "type": "COURSE",
+    "uniquename": "simi1201"
+  },
+  {
+    "_id": "57dacfa5d5766a0700c6ae9c",
+    "assignment": "57dacfa5d5766a0700c6ae9d",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "5841b2f3d821b10700a82aa7",
+      "url": "https://hahow.in/images/5841b2f3d821b10700a82aa7"
+    },
+    "incubateTime": "2016-12-02T04:00:36.271Z",
+    "isReject": false,
+    "metaDescription": "外閃是很多人擁有的第一支閃光燈，他輕巧小好攜帶，是攝影師戶外打光的好助手。很多人會以為他小而認為它能力不足，其實善用光線走向和控光器材，你也能用小閃燈拍出很棒的打燈作品喔！",
+    "numSoldTickets": 362,
+    "owner": {
+      "_id": "57dacf94d5766a0700c6ae9a",
+      "name": "張馬克",
+      "profileImageUrl": "https://hahow.in/images/584031a2d821b10700a82182",
+      "username": "ur1130"
+    },
+    "preOrderedPrice": 1500,
+    "price": 1990,
+    "proposalDueTime": "2017-01-01T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "相機外閃的神奇攝影術",
+    "totalVideoLengthInSeconds": 10468,
+    "type": "COURSE",
+    "uniquename": "photograph02"
+  },
+  {
+    "_id": "57e00e5ad5766a0700c6d80d",
+    "assignment": "57e00e5ad5766a0700c6d80e",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "583ffc34d821b10700a81f1c",
+      "url": "https://hahow.in/images/583ffc34d821b10700a81f1c"
+    },
+    "incubateTime": "2016-12-01T08:53:26.693Z",
+    "isReject": false,
+    "metaDescription": "同學在閱讀長篇的學術英文文章上有困擾嗎？讓台灣唯一多益、托福 iBT、雅思滿分的老師教你 6 分鐘快速略讀一篇學術文章！無論是大學學測英文閱讀測驗、大學英語四六級考試、托福（ TOEFL ）或是雅思（ IELTS ）的學術文章（ 300 字到800 字左右）都可以在 6 分鐘內快速了解文章脈絡！就算是初學者也可以提升自己的英文閱讀能力！",
+    "numSoldTickets": 454,
+    "owner": {
+      "_id": "566bae4713ef6212008998c1",
+      "name": "Eric Yang",
+      "profileImageUrl": "https://hahow.in/images/57f28ee4dc8ff207002bce8c"
+    },
+    "preOrderedPrice": 450,
+    "price": 750,
+    "proposalDueTime": "2016-12-31T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "六分鐘快速理解一篇英文文章!",
+    "totalVideoLengthInSeconds": 13545,
+    "type": "COURSE",
+    "uniquename": "englishreading"
+  },
+  {
+    "_id": "580f1cedda04300700fe7fc9",
+    "assignment": "580f1cedda04300700fe7fca",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "580f1f53da04300700fe7ff1",
+      "url": "https://hahow.in/images/580f1f53da04300700fe7ff1"
+    },
+    "incubateTime": "2016-11-30T06:37:59.583Z",
+    "isReject": false,
+    "metaDescription": "北京現代音樂研休學院的爵士鼓教材，簡單的開始；舉一反三的思維教學。不需音樂底子，只要有熱血的心，簡單明瞭的教學將帶你進入節奏的世界！",
+    "numSoldTickets": 65,
+    "owner": {
+      "_id": "580f15e0da04300700fe7f4a",
+      "name": "黃晟翔",
+      "profileImageUrl": "https://graph.facebook.com/1403007693050510/picture"
+    },
+    "preOrderedPrice": 1200,
+    "price": 1800,
+    "proposalDueTime": "2016-12-30T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "挖出你的節奏細胞!爵士鼓教學-基本節奏篇",
+    "totalVideoLengthInSeconds": 8248,
+    "type": "COURSE",
+    "uniquename": "goodjazzmusic"
+  },
+  {
+    "_id": "57a30629d0c303070041dc4b",
+    "assignment": "57a30629d0c303070041dc4c",
+    "categories": [],
+    "coverImage": {
+      "_id": "58334fbbaed21407008646f0",
+      "url": "https://hahow.in/images/58334fbbaed21407008646f0"
+    },
+    "incubateTime": "2016-11-28T08:19:16.415Z",
+    "isReject": false,
+    "metaDescription": "人手一機的時代了，你還在找你昨天印出來的履歷表？！\n放下它吧！\n來！跟著我一步一步做，明天就可以丟掉你的履歷表，帶著你的手機就可以去面試了！",
+    "numSoldTickets": 58,
+    "owner": {
+      "_id": "57a3034bd0c303070041dc32",
+      "name": "餵食叔叔",
+      "profileImageUrl": "https://hahow.in/images/57b0182a06665507002de4a1",
+      "username": "unclewes"
+    },
+    "preOrderedPrice": 600,
+    "price": 1200,
+    "proposalDueTime": "2016-12-28T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "一個小時！DIY你的作品集網站",
+    "totalVideoLengthInSeconds": 3887,
+    "type": "COURSE",
+    "uniquename": "collections"
+  },
+  {
+    "_id": "57bc8be49ab5080700399c1c",
+    "assignment": "57bc8be49ab5080700399c1d",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de819e9d1fa51000f9476c",
+      "55de81b79d1fa51000f94771"
+    ],
+    "coverImage": {
+      "_id": "57bc8c489ab5080700399c20",
+      "url": "https://hahow.in/images/57bc8c489ab5080700399c20"
+    },
+    "incubateTime": "2016-10-26T05:38:17.838Z",
+    "isReject": false,
+    "metaDescription": "在這堂課中我會教導大家如何從零開始學西班牙文。從發音、簡單的會話還有基礎文法觀念開始。讓大家可對西班牙文有簡單的認識 : )",
+    "numSoldTickets": 93,
+    "owner": {
+      "_id": "57a9f0bbaecc5c0700099103",
+      "name": "dicky50203",
+      "profileImageUrl": "https://hahow.in/images/57c2f4709ab508070039c6a9",
+      "username": "dicky50203"
+    },
+    "preOrderedPrice": 300,
+    "price": 450,
+    "proposalDueTime": "2016-11-25T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "迎向南美－從零開始學西班牙文",
+    "totalVideoLengthInSeconds": 4993,
+    "type": "COURSE",
+    "uniquename": "richardspanishclass"
+  },
+  {
+    "_id": "578ce3ced0c3030700416c46",
+    "assignment": "578ce3ced0c3030700416c47",
+    "categories": [
+      "55de81969d1fa51000f9476a",
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "57d01c41ed63880700d9ecb2",
+      "url": "https://hahow.in/images/57d01c41ed63880700d9ecb2"
+    },
+    "incubateTime": "2016-10-25T02:11:40.292Z",
+    "isReject": false,
+    "metaDescription": "你正在花時間在找工作機會嗎？期待著希望能夠找到一個更棒的工作，讓自己的職業生涯在更上一層樓？這個課程會幫助你寫出萬中選一的必勝履歷，幫助你推向夢想的工作機會！你的履歷代表著“你”這個品牌，如果你是在找行銷或廣告的工作， 如何包裝自己的品牌是最大關鍵。 如果你是在找銷售的工作， 連自己的履歷都賣不出去， 老闆如何相信你可以幫他賣出其他產品。",
+    "numSoldTickets": 184,
+    "owner": {
+      "_id": "578ce210d0c3030700416c38",
+      "name": "mattb",
+      "profileImageUrl": "https://hahow.in/images/57d02174ed63880700d9ecea",
+      "username": "mattb"
+    },
+    "preOrderedPrice": 650,
+    "price": 800,
+    "proposalDueTime": "2016-11-24T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "前進夢想工作：寫出必勝履歷！",
+    "totalVideoLengthInSeconds": 5215,
+    "type": "COURSE",
+    "uniquename": "yourdreamjob-resume"
+  },
+  {
+    "_id": "57999d81d0c303070041a99e",
+    "assignment": "57999d81d0c303070041a99f",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "57ff7bc8da04300700fde970",
+      "url": "https://hahow.in/images/57ff7bc8da04300700fde970"
+    },
+    "incubateTime": "2016-10-21T04:06:24.852Z",
+    "isReject": false,
+    "metaDescription": "迪士尼的音樂劇動畫跨世紀陪伴三代人到今天，創作了成千上百首耳熟能詳令觀眾愛不釋手的動聽歌曲。它的歌曲唱法融合了流行、音樂劇、聲樂唱腔，因此多變又迷人，但也使得大家要把迪士尼的歌唱得好又唱出迪士尼韻味出並不容易。每天十分鐘內課程，學習唱迪士尼歌曲所需用上的各種歌唱技巧，並且在學會唱迪士尼的同時，也一併將歌唱基本功以及流行與音樂劇的唱腔學成囉！",
+    "numSoldTickets": 86,
+    "owner": {
+      "_id": "57999d76d0c303070041a99d",
+      "name": "Anastasia",
+      "profileImageUrl": "https://hahow.in/images/58cdf711da45810700e544be",
+      "username": "nymphyuyi"
+    },
+    "preOrderedPrice": 990,
+    "price": 1500,
+    "proposalDueTime": "2016-11-20T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "用歌唱技巧唱出屬於自己的迪士尼魂-初階",
+    "totalVideoLengthInSeconds": 5901,
+    "type": "COURSE",
+    "uniquename": "sing-disney-1"
+  },
+  {
+    "_id": "57bc2b219ab5080700399866",
+    "assignment": "57bc2b219ab5080700399867",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768",
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "58072689da04300700fe3797",
+      "url": "https://hahow.in/images/58072689da04300700fe3797"
+    },
+    "incubateTime": "2016-10-19T04:05:15.867Z",
+    "isReject": false,
+    "metaDescription": "此課程是針對給初學者（完全不會使用illustrator這套軟體）。\n關於名片不單單只是一張紙，剛開始會介紹排版的重要性，如何讓視覺能清楚閱讀名片上的文字。\n教學包含Illustrator基本的介面使用與運作，初學者不會用軟體也不用擔心，課程中會慢慢指導每個步驟。\n以及如何運用素材、集合圖形讓名片的排版加分。",
+    "numSoldTickets": 126,
+    "owner": {
+      "_id": "57b727b0c7425c0700c68c86",
+      "name": "Bess Shiue",
+      "profileImageUrl": "https://hahow.in/images/57b7282fc7425c0700c68c89",
+      "username": "shiuebess"
+    },
+    "preOrderedPrice": 600,
+    "price": 1500,
+    "proposalDueTime": "2016-11-18T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "初學者也能學會名片設計",
+    "totalVideoLengthInSeconds": 4711,
+    "type": "COURSE",
+    "uniquename": "shiuebess-card"
+  },
+  {
+    "_id": "5737f2acfad4ef0a006b6912",
+    "assignment": "5737f2acfad4ef0a006b6913",
+    "categories": [
+      "55de81a89d1fa51000f9476f",
+      "55de818d9d1fa51000f94768",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "573eaa38fad4ef0a006bbe83",
+      "url": "https://hahow.in/images/573eaa38fad4ef0a006bbe83"
+    },
+    "incubateTime": "2016-10-14T04:04:47.913Z",
+    "isReject": false,
+    "metaDescription": "這次旅行後，一起動手畫下旅行吧！\n只要有簡易的繪畫工具與手帳，初學者的你也可以輕鬆畫出旅行中的回憶，輕鬆的完成一本又一本豐富的旅行日記！",
+    "numSoldTickets": 906,
+    "owner": {
+      "_id": "56d57f4d182fba0e00c6d71a",
+      "name": "Reiko Chen",
+      "profileImageUrl": "https://graph.facebook.com/10209023382928679/picture"
+    },
+    "preOrderedPrice": 700,
+    "price": 850,
+    "proposalDueTime": "2016-11-13T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "邊走邊畫，帶著手帳旅行去！",
+    "totalVideoLengthInSeconds": 6366,
+    "type": "COURSE",
+    "uniquename": "reiko0403"
+  },
+  {
+    "_id": "55e670d2fa223d100058f5ff",
+    "assignment": "55e670d2fa223d100058f600",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "57f8e1fbda04300700fda2b9",
+      "url": "https://hahow.in/images/57f8e1fbda04300700fda2b9"
+    },
+    "incubateTime": "2016-10-12T04:08:53.623Z",
+    "isReject": false,
+    "metaDescription": "針對日文發音的特徵及常見錯誤進行說明，包括長短音、促音、動詞重音及複合名詞的重音擺放位置，進行說明及比較。",
+    "numSoldTickets": 118,
+    "owner": {
+      "_id": "55e00e4afa223d100058f141",
+      "name": "Chang Hong Lin",
+      "profileImageUrl": "https://graph.facebook.com/1174652202549671/picture"
+    },
+    "preOrderedPrice": 650,
+    "price": 850,
+    "proposalDueTime": "2016-11-11T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 40
+    },
+    "title": "常見日文發音錯誤及發音指南",
+    "totalVideoLengthInSeconds": 6320,
+    "type": "COURSE",
+    "uniquename": "hiroshihatsuon"
+  },
+  {
+    "_id": "57e8bf56a69c240700069d45",
+    "assignment": "57e8bf56a69c240700069d46",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "57e8cf78a69c240700069dee",
+      "url": "https://hahow.in/images/57e8cf78a69c240700069dee"
+    },
+    "incubateTime": "2016-10-06T04:04:36.181Z",
+    "isReject": false,
+    "metaDescription": "超資深的韓語老師用台語、中文、韓劇台詞，讓你輕鬆征服圈叉外星文！讓你眨眼間學會韓文發音。",
+    "numSoldTickets": 2199,
+    "owner": {
+      "_id": "57de2c73d5766a0700c6c520",
+      "name": "王稚鈞",
+      "profileImageUrl": "https://graph.facebook.com/1107222366038592/picture"
+    },
+    "preOrderedPrice": 990,
+    "price": 1590,
+    "proposalDueTime": "2016-11-05T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "比ㄅㄆㄇ簡單的韓語發音",
+    "totalVideoLengthInSeconds": 32613,
+    "type": "COURSE",
+    "uniquename": "jella-kanada"
+  },
+  {
+    "_id": "57c6960f61d9350700e6cff5",
+    "assignment": "57c6960f61d9350700e6cff6",
+    "categories": [
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "57c69d7461d9350700e6d04d",
+      "url": "https://hahow.in/images/57c69d7461d9350700e6d04d"
+    },
+    "incubateTime": "2016-10-05T04:21:43.512Z",
+    "isReject": false,
+    "metaDescription": "定格動畫是在3D動畫崛起之前好萊塢電影主要使用的動畫技術，包刮早年的金剛、機器戰警和星際大戰等電影中的非人類角色都是使用定格動畫製作的。而身處在這個人人都有手機電腦的環境中，定格動畫變得更加容易入門，它呈現出的手工質感和趣味性也廣受喜愛，歡迎你一起來玩玩看!",
+    "numSoldTickets": 310,
+    "owner": {
+      "_id": "55fe3d0c160d9810000898b2",
+      "name": "Jordan Tseng",
+      "profileImageUrl": "https://hahow.in/images/57d60b7aed63880700da235b"
+    },
+    "preOrderedPrice": 990,
+    "price": 2000,
+    "proposalDueTime": "2016-11-04T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "能輕鬆製作的定格動畫/合成特效 Vol.1",
+    "totalVideoLengthInSeconds": 10469,
+    "type": "COURSE",
+    "uniquename": "jordanstopmotion"
+  },
+  {
+    "_id": "57b83c50c7425c0700c6921f",
+    "assignment": "57b83c50c7425c0700c69220",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "57b8417bc7425c0700c6924a",
+      "url": "https://hahow.in/images/57b8417bc7425c0700c6924a"
+    },
+    "incubateTime": "2016-10-01T03:05:42.098Z",
+    "isReject": false,
+    "metaDescription": "在十堂課中，你將學會流行音樂常見的木吉他演奏技巧，這些木吉他演奏技巧主要以入門為主。並且也會教您歌唱的小技巧，讓您不管是彈奏上，還是演唱上都會有練習的方向哦~\n\n在網路資源豐富的情況下，只要能充分運用，更能提升您演奏及演唱的能力。所以除了演奏、歌唱技巧外，特別規劃出網路資源應用的課程，是本課程的特色之一。\n本課程將會告訴您如何善加運用網路資源，去提升演唱、演奏能力哦!",
+    "numSoldTickets": 77,
+    "owner": {
+      "_id": "579ded05d0c303070041c22d",
+      "name": "這球音樂教室",
+      "profileImageUrl": "https://hahow.in/images/57f0dc2ddc8ff207002bc154",
+      "username": "theball666"
+    },
+    "preOrderedPrice": 600,
+    "price": 800,
+    "proposalDueTime": "2016-10-31T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "十堂課輕鬆學會木吉他自彈自唱",
+    "totalVideoLengthInSeconds": 11861,
+    "type": "COURSE",
+    "uniquename": "theballaglesson1"
+  },
+  {
+    "_id": "57d60701ed63880700da234c",
+    "assignment": "57d60701ed63880700da234d",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "57d619eaed63880700da23c7",
+      "url": "https://hahow.in/images/57d619eaed63880700da23c7"
+    },
+    "incubateTime": "2016-09-28T04:03:05.936Z",
+    "isReject": false,
+    "metaDescription": "若說程式語言中最勵志的故事， JavaScript 絕對可以排到前幾名，從過去的跑龍套到現在獨挑大樑的角色，現在的 JavaScript 不僅是 Web 界最重要的明星，更可以開發手機 App、物聯網、VR/AR 應用程式。本課程將會帶領大家從零開始打好 JavaScript 程式設計基礎，由淺入深介紹 JavaScript 程式語言特性，最後帶領大家做出一個屬於自己的 Chrome 瀏覽器的外掛程式（Extension）。",
+    "numSoldTickets": 1304,
+    "owner": {
+      "_id": "57d20956ed63880700d9fa96",
+      "name": "kdchang",
+      "profileImageUrl": "https://lh3.googleusercontent.com/-VDtJNwtwL_c/AAAAAAAAAAI/AAAAAAAAABA/5S9r04vus38/photo.jpg",
+      "username": "kdchang"
+    },
+    "preOrderedPrice": 990,
+    "price": 1980,
+    "proposalDueTime": "2016-10-28T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "JavaScript 程式設計新手村",
+    "totalVideoLengthInSeconds": 81121,
+    "type": "COURSE",
+    "uniquename": "javascript101"
+  },
+  {
+    "_id": "577d9599d0c303070041173a",
+    "assignment": "577d9599d0c303070041173b",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "580252f9da04300700fe0b9a",
+      "url": "https://hahow.in/images/580252f9da04300700fe0b9a"
+    },
+    "incubateTime": "2016-09-27T13:43:37.875Z",
+    "isReject": false,
+    "metaDescription": "AutoCAD 是全球 No.1 的繪圖軟體，不管是土木建築、室內設計、消防空調、機械模具、電子電機...都需要它，產業界更是求才若渴，急需大量的 AutoCAD 好手加入，請問您真的熟 AutoCAD 嗎？還是迷迷糊糊、連滾帶爬、繁瑣當必然？還是您徬徨茫然想多學一技之長？別怕，只要您用心學習，這個系列課程保證讓您練就一身 AutoCAD 好功夫，有信心與實力展開人生新挑戰！",
+    "numSoldTickets": 375,
+    "owner": {
+      "_id": "577d94c3d0c3030700411733",
+      "name": "吳永進(JinnWu)",
+      "profileImageUrl": "https://hahow.in/images/57cd957fed63880700d9d8b6",
+      "username": "autocad"
+    },
+    "preOrderedPrice": 1500,
+    "price": 2500,
+    "proposalDueTime": "2016-10-27T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "AutoCAD 電腦繪圖2D基礎篇－紮實入門",
+    "totalVideoLengthInSeconds": 43212,
+    "type": "COURSE",
+    "uniquename": "autocad-2d"
+  },
+  {
+    "_id": "5772b51ec2917a110075fcf9",
+    "assignment": "5772b51ec2917a110075fcfa",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a89d1fa51000f9476f"
+    ],
+    "coverImage": {
+      "_id": "5772bfd5c2917a110075fd06",
+      "url": "https://hahow.in/images/5772bfd5c2917a110075fd06"
+    },
+    "incubateTime": "2016-09-26T04:03:48.916Z",
+    "isReject": false,
+    "metaDescription": "想擁有自己的一方印章嗎?\n本課程將用簡單明瞭的方式帶您進入手刻石印的世界，學到如何從無到有製作一方印章，並且領略篆刻藝術的美感。",
+    "numSoldTickets": 76,
+    "owner": {
+      "_id": "5772b50cc2917a110075fcf8",
+      "name": "sackings",
+      "profileImageUrl": "https://hahow.in/images/5787f03bd0c3030700415340",
+      "username": "sackings"
+    },
+    "preOrderedPrice": 300,
+    "price": 500,
+    "proposalDueTime": "2016-10-26T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "手作印章：篆刻基礎技法",
+    "totalVideoLengthInSeconds": 3525,
+    "type": "COURSE",
+    "uniquename": "sealcutting"
+  },
+  {
+    "_id": "57638167f1399b0900e23d71",
+    "assignment": "57638167f1399b0900e23d72",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de818d9d1fa51000f94768",
+      "55de81a89d1fa51000f9476f"
+    ],
+    "coverImage": {
+      "_id": "576381dbf1399b0900e23d76",
+      "url": "https://hahow.in/images/576381dbf1399b0900e23d76"
+    },
+    "incubateTime": "2016-09-25T04:08:03.618Z",
+    "isReject": false,
+    "metaDescription": "不凋花，又名永生花，透過特殊技術把美凝結成永恆。製作獨一無二的不凋花花禮，象徵永恆堅強又獨特的你❤️",
+    "numSoldTickets": 85,
+    "owner": {
+      "_id": "57638162f1399b0900e23d70",
+      "name": "莉朵女孩不凋花工作室",
+      "profileImageUrl": "https://graph.facebook.com/1736115963310606/picture"
+    },
+    "preOrderedPrice": 150,
+    "price": 200,
+    "proposalDueTime": "2016-10-25T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "莉朵女孩 - 體驗美麗的不凋花",
+    "totalVideoLengthInSeconds": 2587,
+    "type": "COURSE",
+    "uniquename": "littlegirlflower"
+  },
+  {
+    "_id": "57976e0dd0c3030700419d8b",
+    "assignment": "57976e0dd0c3030700419d8c",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "5797a6c5d0c3030700419eae",
+      "url": "https://hahow.in/images/5797a6c5d0c3030700419eae"
+    },
+    "incubateTime": "2016-09-24T04:18:15.381Z",
+    "isReject": false,
+    "metaDescription": "教你活用 Illustrator 設計實用的平面圖像，為你的海報、簡報、動態網頁、動畫基礎更加分！",
+    "numSoldTickets": 364,
+    "owner": {
+      "_id": "55eb1c12fa223d100058f82f",
+      "name": "Hsin Yu Ku",
+      "profileImageUrl": "https://hahow.in/images/57ed1d59a69c24070006c50d"
+    },
+    "preOrderedPrice": 599,
+    "price": 1200,
+    "proposalDueTime": "2016-10-24T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Illustrator 平面圖像設計",
+    "totalVideoLengthInSeconds": 25904,
+    "type": "COURSE",
+    "uniquename": "mrl-nose-ai"
+  },
+  {
+    "_id": "57be54b49ab508070039a857",
+    "assignment": "57be54b49ab508070039a858",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58c532f2e207b607008f64c1",
+      "url": "https://hahow.in/images/58c532f2e207b607008f64c1"
+    },
+    "incubateTime": "2016-09-23T05:21:38.074Z",
+    "isReject": false,
+    "metaDescription": "這門課會從最一開始的環境設定，到簡單的語法與資料結構的教學，以及物件導向程式設計的概念, 並在最後搭配一個實務專題來讓同學們能夠學會Python的開發流程。\n希望同學們可以透過所學習到的東西，再加上自我學習的精神，開發出更有品質更棒的軟體。",
+    "numSoldTickets": 344,
+    "owner": {
+      "_id": "57a5b725d0c303070041e6f4",
+      "name": "蔣汶宏",
+      "profileImageUrl": "https://hahow.in/images/57c5417561d9350700e6c41c",
+      "username": "bluesky32210"
+    },
+    "preOrderedPrice": 790,
+    "price": 1400,
+    "proposalDueTime": "2016-10-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "初心者 － Python 入門",
+    "totalVideoLengthInSeconds": 18826,
+    "type": "COURSE",
+    "uniquename": "python-for-beginners"
+  },
+  {
+    "_id": "578b3be2d0c30307004164be",
+    "assignment": "578b3be2d0c30307004164bf",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "578b5d5bd0c3030700416563",
+      "url": "https://hahow.in/images/578b5d5bd0c3030700416563"
+    },
+    "incubateTime": "2016-09-21T08:25:43.043Z",
+    "isReject": false,
+    "metaDescription": "一定要精通西班牙文才可以在西文國家吃喝玩樂？\n如何吃到西班牙最經典的食物以及小吃 Tapas？\n西班牙人從早餐到消夜都在小酒館裏度過，如何才能像他們一樣點菜？\n旅居西班牙多年的台灣女生和從鬥牛士王國來的西班牙人，將教你用簡單的西文句子撇步吃得開心，喝得過癮！\nHola, ¿estás listo?",
+    "numSoldTickets": 56,
+    "owner": {
+      "_id": "578b3bcbd0c30307004164bc",
+      "name": "hahowchema",
+      "profileImageUrl": "https://hahow.in/images/578ce9e7d0c3030700416c6d",
+      "username": "hahowchema"
+    },
+    "preOrderedPrice": 350,
+    "price": 390,
+    "proposalDueTime": "2016-10-21T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "愛上西班牙文～ 西班牙怎麼吃?",
+    "totalVideoLengthInSeconds": 3909,
+    "type": "COURSE",
+    "uniquename": "spanish-food-drink"
+  },
+  {
+    "_id": "56a3ace74ec4c609007d3065",
+    "assignment": "56a3ace74ec4c609007d3066",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "587c38436ecf3a0700b762ef",
+      "url": "https://hahow.in/images/587c38436ecf3a0700b762ef"
+    },
+    "incubateTime": "2016-09-15T07:49:37.528Z",
+    "isReject": false,
+    "metaDescription": "當設計師說工程師太過務實，工程師說設計師天馬行空，有沒有一種方式能保持平衡又打破疆界？我們期許自己用設計思惟學習程式，用程式碼說設計語言，成為邏輯清晰的設計師，集大成的藝術家。",
+    "numSoldTickets": 189,
+    "owner": {
+      "_id": "569cf0b74ec4c609007d231b",
+      "name": "MIX",
+      "profileImageUrl": "https://hahow.in/images/583fd8dfd821b10700a81d60",
+      "username": "mixyaz"
+    },
+    "preOrderedPrice": 700,
+    "price": 1200,
+    "proposalDueTime": "2016-10-15T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Processing - 讓程式碼說設計語言",
+    "totalVideoLengthInSeconds": 27155,
+    "type": "COURSE",
+    "uniquename": "processing"
+  },
+  {
+    "_id": "5780d82fd0c3030700412ef1",
+    "assignment": "5780d82fd0c3030700412ef2",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a89d1fa51000f9476f",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "5780ddd4d0c3030700412f06",
+      "url": "https://hahow.in/images/5780ddd4d0c3030700412f06"
+    },
+    "incubateTime": "2016-09-14T05:52:17.000Z",
+    "isReject": false,
+    "metaDescription": "你喜歡美食嗎？這堂課「復古風味色鉛筆食品速寫」提供3種不同的食品繪製主題包含一項甜品、一杯咖啡、及玻璃器皿。\n快跟著我們，一起用畫筆烹飪在紙上吧！",
+    "numSoldTickets": 122,
+    "owner": {
+      "_id": "5780d61cd0c3030700412eeb",
+      "name": "lesliewang",
+      "profileImageUrl": "https://hahow.in/images/5781a762d0c3030700413234",
+      "username": "lesliewang"
+    },
+    "preOrderedPrice": 700,
+    "price": 850,
+    "proposalDueTime": "2016-10-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "復古風味色鉛筆食品速寫",
+    "totalVideoLengthInSeconds": 4832,
+    "type": "COURSE",
+    "uniquename": "ouncestudio"
+  },
+  {
+    "_id": "575289a5206cd60900c55922",
+    "assignment": "575289a5206cd60900c55923",
+    "categories": [
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "57a73df3d0c303070041ed61",
+      "url": "https://hahow.in/images/57a73df3d0c303070041ed61"
+    },
+    "incubateTime": "2016-09-07T08:15:37.000Z",
+    "isReject": false,
+    "metaDescription": "你的企業信箱還是免費的信箱帳號嗎？加入這堂課，一小時讓你學會建立專屬的 Email 信箱帳號。",
+    "numSoldTickets": 65,
+    "owner": {
+      "_id": "57527b87206cd60900c55825",
+      "name": "Max",
+      "profileImageUrl": "https://hahow.in/images/57c398eb9ab508070039c995",
+      "username": "maxlab"
+    },
+    "preOrderedPrice": 199,
+    "price": 400,
+    "proposalDueTime": "2016-10-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "小資創業必備：專屬 Email 設定術",
+    "totalVideoLengthInSeconds": 2818,
+    "type": "COURSE",
+    "uniquename": "email-for-work"
+  },
+  {
+    "_id": "57728810c2917a110075fb68",
+    "assignment": "57728810c2917a110075fb69",
+    "categories": [
+      "55de819e9d1fa51000f9476c",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "57bdaaa29ab508070039a4ab",
+      "url": "https://hahow.in/images/57bdaaa29ab508070039a4ab"
+    },
+    "incubateTime": "2016-09-03T09:35:48.000Z",
+    "isReject": false,
+    "metaDescription": "許多人學了英文，卻講不出來；本堂課透過清楚簡單步驟，讓你在30分鐘內就能開口說出流暢英文，而且還能運用到各式各樣的情境裡，讓你無論是與外國人聊天、英文自我介紹，都能讓身邊的人wow!",
+    "numSoldTickets": 571,
+    "owner": {
+      "_id": "5772308cc2917a110075f93b",
+      "name": "Yiling Chang",
+      "profileImageUrl": "https://hahow.in/images/577cb9b1d0c303070041134d",
+      "username": "yilingchang"
+    },
+    "preOrderedPrice": 739,
+    "price": 1480,
+    "proposalDueTime": "2016-10-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "克服阻礙，快速說出流暢英文",
+    "totalVideoLengthInSeconds": 8968,
+    "type": "COURSE",
+    "uniquename": "speaknow"
+  },
+  {
+    "_id": "5763a7ecf1399b0900e23f3a",
+    "assignment": "5763a7ecf1399b0900e23f3b",
+    "categories": [
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "578f39ebd0c3030700417872",
+      "url": "https://hahow.in/images/578f39ebd0c3030700417872"
+    },
+    "incubateTime": "2016-09-01T08:48:18.000Z",
+    "isReject": false,
+    "metaDescription": "你喜歡攝影或影像創作嗎？ 當你處理大量照片、創造獨特風格影像時， Photoshop是你最佳幫手及必備工具，本課程介紹Photoshop基本操作及應用，獨特的三段式學習-【1自學操作、 2觀念講解、3綜合練習】，讓你快速上手，減少摸索的時間。",
+    "numSoldTickets": 258,
+    "owner": {
+      "_id": "5763a7e5f1399b0900e23f39",
+      "name": "夏榮慶",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-EBsuRmrp1R4/AAAAAAAAAAI/AAAAAAAAAdg/ZjGQSX8HdE8/photo.jpg"
+    },
+    "preOrderedPrice": 390,
+    "price": 1000,
+    "proposalDueTime": "2016-10-01T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Photoshop 最重要的基本課",
+    "totalVideoLengthInSeconds": 13491,
+    "type": "COURSE",
+    "uniquename": "jhsiapscc"
+  },
+  {
+    "_id": "57c01f0b9ab508070039b62c",
+    "assignment": "57c01f0b9ab508070039b62d",
+    "categories": [
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "57c6584661d9350700e6cd45",
+      "url": "https://hahow.in/images/57c6584661d9350700e6cd45"
+    },
+    "incubateTime": "2016-09-01T04:00:10.000Z",
+    "isReject": false,
+    "metaDescription": "2016年，我們感受到台灣迫切需要用行動帶來改變。於是，今年8.27在台北國際會議中心，我們邀請19位 「2016未來大人物」與評審，一起面對面對話，並且與共約800位現場朋友，分享我們的觀點，討論我們的行動。\n\n此堂課為未來大人物的【全套】論壇紀實。",
+    "numSoldTickets": 126,
+    "owner": {
+      "_id": "57aae35585b09707004202fe",
+      "name": "關鍵評論網",
+      "profileImageUrl": "https://hahow.in/images/57c298389ab508070039c353",
+      "username": "tnlmarketing"
+    },
+    "preOrderedPrice": 600,
+    "price": 800,
+    "proposalDueTime": "2016-10-01T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "2016 未來大人物－全系列課程",
+    "totalVideoLengthInSeconds": 34155,
+    "type": "TALK",
+    "uniquename": "tnl-2016becomingaces"
+  },
+  {
+    "_id": "5729b26ad60bb3090091c413",
+    "assignment": "5729b26ad60bb3090091c414",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "57c3d4a99ab508070039cebe",
+      "url": "https://hahow.in/images/57c3d4a99ab508070039cebe"
+    },
+    "incubateTime": "2016-08-31T04:03:43.000Z",
+    "isReject": false,
+    "metaDescription": "網路時代，太多雜訊與任務要處理，常常手忙腳亂，規劃總是跟不上變化嗎？\n這堂課將會教授 10 多種數位工具，讓你的生活（健身、旅遊、烹飪⋯等）進行計劃、時間管理，甚至是多人「團隊與專案追蹤管理」，都能立即見效！擺脫繁雜的流程，瞭解各種工具背後的設計脈絡，進行最佳化組合，找回自己的時間！做個有效率的新數位人！",
+    "numSoldTickets": 493,
+    "owner": {
+      "_id": "5721b526d60bb30900919a00",
+      "name": "侯智薰",
+      "profileImageUrl": "https://graph.facebook.com/1287519351262946/picture",
+      "username": "raymondhou"
+    },
+    "preOrderedPrice": 400,
+    "price": 600,
+    "proposalDueTime": "2016-09-30T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "數位雲端工具，管理你的生活，增進團隊與專案效率！",
+    "totalVideoLengthInSeconds": 24021,
+    "type": "COURSE",
+    "uniquename": "team-life-management"
+  },
+  {
+    "_id": "57a73424d0c303070041ecb8",
+    "assignment": "57a73424d0c303070041ecb9",
+    "categories": [
+      "55de81969d1fa51000f9476a",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58b8c1285c4e6507007ca412",
+      "url": "https://hahow.in/images/58b8c1285c4e6507007ca412"
+    },
+    "incubateTime": "2016-08-29T04:08:26.000Z",
+    "isReject": false,
+    "metaDescription": "「建立自己的網路商店」課程內容是教同學如何使用免費的主機和套件建立起網路商店，除了系統操作教學以外，還會教同學如何將網路商店賺錢，所以課程中還有教同學如何營運商店、報表分析、SEO與流量分析工具Google Analytics教學，課程皆以實戰為基礎做設計",
+    "numSoldTickets": 154,
+    "owner": {
+      "_id": "56ef73344e3ef90900b8061c",
+      "name": "Ryan",
+      "profileImageUrl": "https://hahow.in/images/58b782c05c4e6507007c9406",
+      "username": "ryantw"
+    },
+    "preOrderedPrice": 1600,
+    "price": 2000,
+    "proposalDueTime": "2016-09-28T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "建立自己的網路商店",
+    "totalVideoLengthInSeconds": 33358,
+    "type": "COURSE",
+    "uniquename": "ecommerce"
+  },
+  {
+    "_id": "579dc01ed0c303070041c13c",
+    "assignment": "579dc01ed0c303070041c13d",
+    "categories": [
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "57a3720dd0c303070041df2b",
+      "url": "https://hahow.in/images/57a3720dd0c303070041df2b"
+    },
+    "incubateTime": "2016-08-24T03:59:55.000Z",
+    "isReject": false,
+    "metaDescription": "想做出自己的 APP 卻不知道該如何開始？想成為科技圈炙手可熱的 iOS 開發/介面設計師？本課程將帶領大家瞭解如何從零開始製作一支 iOS 的 APP：包含 APP 設計中的基本流程規劃，運用 Sketch 進行 GUI 介面設計，以及使用 Xcode 搭配 Swift 做出您的第一支APP！",
+    "numSoldTickets": 365,
+    "owner": {
+      "_id": "56cd088d182fba0e00c6b5af",
+      "name": "高玉璁",
+      "profileImageUrl": "https://graph.facebook.com/1276218675727222/picture"
+    },
+    "preOrderedPrice": 990,
+    "price": 1600,
+    "proposalDueTime": "2016-09-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "iOS 入門 － 從介面設計到開發",
+    "totalVideoLengthInSeconds": 37544,
+    "type": "COURSE",
+    "uniquename": "ios-developer-101"
+  },
+  {
+    "_id": "57b90a00c7425c0700c695b8",
+    "assignment": "57b90a00c7425c0700c695b9",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de81879d1fa51000f94766",
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "57bc6fda9ab5080700399b2f",
+      "url": "https://hahow.in/images/57bc6fda9ab5080700399b2f"
+    },
+    "incubateTime": "2016-08-24T03:59:38.000Z",
+    "isReject": false,
+    "metaDescription": "本課程想幫助正在經營FB粉絲專頁的小編，能在最短時間內學會製作動畫，並做出吸睛作品；在FB上，影片擴散的範圍與速度遠勝於一般圖文，所以學會做動畫，除了能提升粉專的品質外，更能透過動畫增加用戶觸及率，讓更多粉絲記得你！",
+    "numSoldTickets": 247,
+    "owner": {
+      "_id": "57b908d4c7425c0700c695b3",
+      "name": "哈利",
+      "profileImageUrl": "https://hahow.in/images/57b9dbbdc7425c0700c69b71",
+      "username": "harry"
+    },
+    "preOrderedPrice": 890,
+    "price": 1500,
+    "proposalDueTime": "2016-09-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "小編必學，百萬觀眾動畫製作術－動畫星球",
+    "totalVideoLengthInSeconds": 13917,
+    "type": "COURSE",
+    "uniquename": "aniplanet"
+  },
+  {
+    "_id": "578dc4b1d0c30307004170af",
+    "assignment": "578dc4b1d0c30307004170b0",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "58aea8405c4e6507007c439c",
+      "url": "https://hahow.in/images/58aea8405c4e6507007c439c"
+    },
+    "incubateTime": "2016-08-19T03:57:20.000Z",
+    "isReject": false,
+    "metaDescription": "適合完全沒學過 Motion Graphic 或沒有基本概念的族群，當然也適合想了解更進階 MG 動畫技術的人，課程包含我最近幾年業界的實戰經驗與技巧分享。\n課堂中會直接切入 MG 動畫軟體，從基礎介面操作開始到商用 Logo 曲線成形，進而開始進行各種切面製作，並且在切割模型中放入想要的畫面，圖形也可轉換成分子，深入運用 Cinema 4D 強大的 MoGraphic 陣列圖形動畫功能，同時也可以用來製作 MG 常見的文字動畫及 Title intro。",
+    "numSoldTickets": 400,
+    "owner": {
+      "_id": "5772c850c2917a110075fd21",
+      "name": "Painn My Graphic",
+      "profileImageUrl": "https://hahow.in/images/59871da6acc1370700076ea9",
+      "username": "painn"
+    },
+    "preOrderedPrice": 750,
+    "price": 1750,
+    "proposalDueTime": "2016-09-18T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "MG 特效 - 3D 陣列圖形與分子運用 C4D+AE",
+    "totalVideoLengthInSeconds": 53816,
+    "type": "COURSE",
+    "uniquename": "mgvfx-vol1"
+  },
+  {
+    "_id": "5799954ad0c303070041a975",
+    "assignment": "5799954ad0c303070041a976",
+    "categories": [
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "57999febd0c303070041a9ac",
+      "url": "https://hahow.in/images/57999febd0c303070041a9ac"
+    },
+    "incubateTime": "2016-08-15T03:58:15.000Z",
+    "isReject": false,
+    "metaDescription": "此課程能帶你進入 CSS 的魔法世界，透過黑魔法 Sass 帶領你快速地打造網頁樣式，並且讓你無須再害怕 CSS3，透過 Compass 的幫助，能加快打造各種 CSS3 的樣式，只需透過一個標籤就能達到效果，心動了嗎？我們在六又四分之三月台相見，一起搭上前往霍格喵茲的列車吧！",
+    "numSoldTickets": 171,
+    "owner": {
+      "_id": "5798ce53d0c303070041a686",
+      "name": "DKMonster",
+      "profileImageUrl": "https://hahow.in/images/58766cf158ab57070085bf68",
+      "username": "mylyfwy771"
+    },
+    "preOrderedPrice": 690,
+    "price": 1200,
+    "proposalDueTime": "2016-09-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Sass － 讓 CSS 變得更簡單有趣",
+    "totalVideoLengthInSeconds": 12950,
+    "type": "COURSE",
+    "uniquename": "dkm-sass-met-compass"
+  },
+  {
+    "_id": "578dcb50d0c30307004170d5",
+    "assignment": "578dcb50d0c30307004170d6",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de818a9d1fa51000f94767",
+      "55de81a89d1fa51000f9476f"
+    ],
+    "coverImage": {
+      "_id": "57aca13d06665507002dce35",
+      "url": "https://hahow.in/images/57aca13d06665507002dce35"
+    },
+    "incubateTime": "2016-08-13T03:54:19.000Z",
+    "isReject": false,
+    "metaDescription": "想學書法靜心，陶冶性情嗎？在再拘泥於過去書法困難又無聊的印象了！這堂課會以最實用、有趣的方式，楷書入門教你成為美字大師！",
+    "numSoldTickets": 68,
+    "owner": {
+      "_id": "5782ecbad0c3030700413783",
+      "name": "李宣鴻",
+      "profileImageUrl": "https://hahow.in/images/57a21984d0c303070041d857",
+      "username": "shiuanhong"
+    },
+    "preOrderedPrice": 500,
+    "price": 600,
+    "proposalDueTime": "2016-09-12T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "有系統 把字寫好一點都不難",
+    "totalVideoLengthInSeconds": 14694,
+    "type": "COURSE",
+    "uniquename": "calligraphyhong"
+  },
+  {
+    "_id": "576015bbf1399b0900e2275a",
+    "assignment": "576015bbf1399b0900e2275b",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de81929d1fa51000f94769",
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "57b1e50506665507002df5ea",
+      "url": "https://hahow.in/images/57b1e50506665507002df5ea"
+    },
+    "incubateTime": "2016-08-12T04:07:35.000Z",
+    "isReject": false,
+    "metaDescription": "成長駭客必備武器 Landing Page 實戰：讓不會寫程式的你，也能在課程結束後製作出屬於自己的漂亮 Landing Page 登陸頁。",
+    "numSoldTickets": 227,
+    "owner": {
+      "_id": "57601586f1399b0900e22759",
+      "name": "Growth Hack Lab",
+      "profileImageUrl": "https://hahow.in/images/581fd4efcca88007007069ed",
+      "username": "launchtw101"
+    },
+    "preOrderedPrice": 500,
+    "price": 1200,
+    "proposalDueTime": "2016-09-11T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "成長駭客 (1)－Landing Page 5 分鐘上手",
+    "totalVideoLengthInSeconds": 8278,
+    "type": "COURSE",
+    "uniquename": "landing-page"
+  },
+  {
+    "_id": "57972592d0c3030700419c32",
+    "assignment": "57972592d0c3030700419c33",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de818d9d1fa51000f94768",
+      "55de81a89d1fa51000f9476f"
+    ],
+    "coverImage": {
+      "_id": "5797870fd0c3030700419e5a",
+      "url": "https://hahow.in/images/5797870fd0c3030700419e5a"
+    },
+    "incubateTime": "2016-08-11T03:49:04.000Z",
+    "isReject": false,
+    "metaDescription": "你知道最近非常流行的手工藝～羊毛氈嗎？快跟著羊毛氈手作實驗室資深室長的示範，就可以用100%純羊毛和簡單工具，製作出可愛的小貴賓犬和小綿羊的輕巧別針喔～",
+    "numSoldTickets": 97,
+    "owner": {
+      "_id": "5733d550fad4ef0a006b2dfb",
+      "name": "chiajokuo",
+      "profileImageUrl": "https://hahow.in/images/57a54f35d0c303070041e557",
+      "username": "chiajokuo"
+    },
+    "preOrderedPrice": 450,
+    "price": 500,
+    "proposalDueTime": "2016-09-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超簡單羊毛氈捲毛好朋友入門班",
+    "totalVideoLengthInSeconds": 4417,
+    "type": "COURSE",
+    "uniquename": "needlefelting-wif"
+  },
+  {
+    "_id": "575045e7206cd60900c53085",
+    "assignment": "575045e7206cd60900c53086",
+    "categories": [
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "57a86626aecc5c0700097e99",
+      "url": "https://hahow.in/images/57a86626aecc5c0700097e99"
+    },
+    "incubateTime": "2016-08-08T12:00:45.000Z",
+    "isReject": false,
+    "metaDescription": "想要用手機輕鬆幫女友拍出美照嗎？那你絕對不能錯過這堂攝影課！\n本課程必學：讓女朋友開心的照片必須懂的三神技：「一秒小臉」、「三秒好比例」、「五秒好表情」以及讓你回去自己拍還能夠持續進步的攝影心法。\n強調「馬上學，馬上用」，一堂課學會整套拍照重點。",
+    "numSoldTickets": 513,
+    "owner": {
+      "_id": "575045e0206cd60900c53084",
+      "name": "雪糕人",
+      "profileImageUrl": "https://graph.facebook.com/10206462439459471/picture"
+    },
+    "preOrderedPrice": 899,
+    "price": 1499,
+    "proposalDueTime": "2016-09-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "打造專屬愛的視角，男友攝影課 by 有fu攝影",
+    "totalVideoLengthInSeconds": 4525,
+    "type": "COURSE",
+    "uniquename": "happydating"
+  },
+  {
+    "_id": "57591fc5cb768f0900cdac55",
+    "assignment": "57591fc5cb768f0900cdac56",
+    "categories": [
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "575920b4cb768f0900cdac65",
+      "url": "https://hahow.in/images/575920b4cb768f0900cdac65"
+    },
+    "incubateTime": "2016-08-04T05:55:48.000Z",
+    "isReject": false,
+    "metaDescription": "利用開源、強大的流程圖式資料科學軟體 Orange3 來簡單介紹資料科學的各個步驟及流程；通過對於基礎流程的掌握，能夠持續進階到更高等的 Orange3 元件使用、或通過撰寫 Python 程式碼自訂符合需求的元件。",
+    "numSoldTickets": 164,
+    "owner": {
+      "_id": "573c56d9fad4ef0a006ba731",
+      "name": "吳昱甫",
+      "profileImageUrl": "https://graph.facebook.com/1099707950052009/picture",
+      "username": "yfwu"
+    },
+    "preOrderedPrice": 150,
+    "price": 250,
+    "proposalDueTime": "2016-09-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "資料科學：Orange3 入門",
+    "totalVideoLengthInSeconds": 3293,
+    "type": "COURSE",
+    "uniquename": "orange3basic"
+  },
+  {
+    "_id": "577085d3c2917a110075ece3",
+    "assignment": "577085d3c2917a110075ece4",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "5770997ec2917a110075ed52",
+      "url": "https://hahow.in/images/5770997ec2917a110075ed52"
+    },
+    "incubateTime": "2016-07-28T10:15:57.000Z",
+    "isReject": false,
+    "metaDescription": "一個網站的組成包含了皮（前端）與肉（後端）。除了好看的前端之外，後端也一樣重要！本課程中，將使用全球最通用的網頁後端語言：php，從最基礎的語法開始，一步一步深入學習如何打造一個可以與網友進行互動的網站。無論是留言板、部落格、購物車、會員系統，以後通通自己動手！",
+    "numSoldTickets": 156,
+    "owner": {
+      "_id": "57413a2dfad4ef0a006bd0dd",
+      "name": "楊淳佑",
+      "profileImageUrl": "https://hahow.in/images/579f77e5d0c303070041cb45",
+      "username": "chunyou0830"
+    },
+    "preOrderedPrice": 1000,
+    "price": 1800,
+    "proposalDueTime": "2016-08-27T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "PHP+MySQL 動態網頁入門",
+    "totalVideoLengthInSeconds": 8219,
+    "type": "COURSE",
+    "uniquename": "php-dynamic-web"
+  },
+  {
+    "_id": "5770cb3ac2917a110075ef22",
+    "assignment": "5770cb3ac2917a110075ef23",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "578f9f76d0c3030700417b2e",
+      "url": "https://hahow.in/images/578f9f76d0c3030700417b2e"
+    },
+    "incubateTime": "2016-07-27T05:44:51.000Z",
+    "isReject": false,
+    "metaDescription": "很多人從小夢想當歌手，卻不知道如何圓夢，我也是一個從小夢想當歌手的人，而在圓夢的過程中，我也曾經遭遇許多困難；這堂課濃縮了我十幾年的歌唱與國外留學的經驗，希望透過最簡單直接的方式來幫助喜歡唱歌的人；透過這堂課,我們將學會各種專業發聲法，如何放鬆肌肉來更輕鬆地唱歌，以及各式技巧融入表演之中；夢想，比現實更靠近真實的自己，讓我們一起來圓夢吧！",
+    "numSoldTickets": 134,
+    "owner": {
+      "_id": "5770ca4bc2917a110075ef14",
+      "name": "Chi-Shen Lee",
+      "profileImageUrl": "https://graph.facebook.com/989949804416932/picture"
+    },
+    "preOrderedPrice": 800,
+    "price": 1000,
+    "proposalDueTime": "2016-08-26T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "輕鬆當歌手 - 專業流行歌唱教學",
+    "totalVideoLengthInSeconds": 6287,
+    "type": "COURSE",
+    "uniquename": "saintlee"
+  },
+  {
+    "_id": "576984b9f1399b0900e26272",
+    "assignment": "576984b9f1399b0900e26273",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "576e99bec2917a110075dd87",
+      "url": "https://hahow.in/images/576e99bec2917a110075dd87"
+    },
+    "incubateTime": "2016-07-15T04:18:36.000Z",
+    "isReject": false,
+    "metaDescription": "想要創業，沒有一個功能俱全的 Prototype 怎麼行呢？本課程幫助你從零開始架設一個動態網站，涵蓋 PHP 後端語言及 Laravel 框架、MySQL 資料庫、Ubuntu 主機管理及域名註冊等。Make your site live today!",
+    "numSoldTickets": 417,
+    "owner": {
+      "_id": "56a083354ec4c609007d2964",
+      "name": "Jeremy Yen",
+      "profileImageUrl": "https://lh4.googleusercontent.com/-49yHMcUteV4/AAAAAAAAAAI/AAAAAAAAL5c/ZRpyju9vHCg/photo.jpg",
+      "username": "jeremyyen"
+    },
+    "preOrderedPrice": 990,
+    "price": 1980,
+    "proposalDueTime": "2016-08-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "創業必備：Laravel 5.3 後端網站入門",
+    "totalVideoLengthInSeconds": 18529,
+    "type": "COURSE",
+    "uniquename": "laravel-backend"
+  },
+  {
+    "_id": "577368b6c2917a110075ff37",
+    "assignment": "577368b6c2917a110075ff38",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "57737db9c2917a110075ffaa",
+      "url": "https://hahow.in/images/57737db9c2917a110075ffaa"
+    },
+    "incubateTime": "2016-07-14T04:46:00.000Z",
+    "isReject": false,
+    "metaDescription": "適合新手、需要做動畫的美術和對製作動畫有興趣的朋友。完成後可以到你的 FB 分享 Gif 檔給你的朋友看你有多厲害 d(`･∀･)b\n更可以做成Line動態貼圖呢！",
+    "numSoldTickets": 136,
+    "owner": {
+      "_id": "55eea764fa223d100058fba3",
+      "name": "不拉",
+      "profileImageUrl": "https://graph.facebook.com/990059164349248/picture",
+      "username": "boolayou"
+    },
+    "preOrderedPrice": 699,
+    "price": 799,
+    "proposalDueTime": "2016-08-13T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Spine 新手快速做動畫超簡單！",
+    "totalVideoLengthInSeconds": 1623,
+    "type": "COURSE",
+    "uniquename": "boolayou"
+  },
+  {
+    "_id": "56eff6174e3ef90900b808a3",
+    "assignment": "56eff6174e3ef90900b808a4",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de818a9d1fa51000f94767",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "5775ed1504a28e0800d68b36",
+      "url": "https://hahow.in/images/5775ed1504a28e0800d68b36"
+    },
+    "incubateTime": "2016-07-01T04:00:57.000Z",
+    "isReject": false,
+    "metaDescription": "你是用什麼紀錄生活呢？別再用寫的了，一起來畫下來吧！",
+    "numSoldTickets": 55,
+    "owner": {
+      "_id": "56d7e2e4182fba0e00c6dd4d",
+      "name": "洪鴨鴨",
+      "profileImageUrl": "https://graph.facebook.com/10204605415010335/picture"
+    },
+    "preOrderedPrice": 450,
+    "price": 600,
+    "proposalDueTime": "2016-07-31T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "動物水彩 - 記錄生活中的小夥伴",
+    "totalVideoLengthInSeconds": 4480,
+    "type": "COURSE",
+    "uniquename": "duckduckfun"
+  },
+  {
+    "_id": "56d68017182fba0e00c6d9b2",
+    "assignment": "56d68017182fba0e00c6d9b3",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de818d9d1fa51000f94768",
+      "55de81b79d1fa51000f94771"
+    ],
+    "coverImage": {
+      "_id": "56d6a5fa182fba0e00c6da30",
+      "url": "https://hahow.in/images/56d6a5fa182fba0e00c6da30"
+    },
+    "incubateTime": "2016-06-30T04:03:19.000Z",
+    "isReject": false,
+    "metaDescription": "本課程會教導你腹語術的原理與發音技巧，以及學會用腹語做出不同聲音變化與操偶技巧。讓你練成人們口中「能用肚子說話」的腹語術。",
+    "numSoldTickets": 630,
+    "owner": {
+      "_id": "56d68012182fba0e00c6d9b1",
+      "name": "張語涵",
+      "profileImageUrl": "https://graph.facebook.com/1250543434961193/picture",
+      "username": "littlejohn"
+    },
+    "preOrderedPrice": 900,
+    "price": 1500,
+    "proposalDueTime": "2016-07-30T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "神秘腹語術，我要成為腹語師！",
+    "totalVideoLengthInSeconds": 4970,
+    "type": "COURSE",
+    "uniquename": "ventriloquist"
+  },
+  {
+    "_id": "57430175fad4ef0a006be4cf",
+    "assignment": "57430175fad4ef0a006be4d0",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "575039f4206cd60900c52f6f",
+      "url": "https://hahow.in/images/575039f4206cd60900c52f6f"
+    },
+    "incubateTime": "2016-06-20T04:04:39.000Z",
+    "isReject": false,
+    "metaDescription": "在這個全民寫程式的年代，學程式真的是這麼簡單的一件事嗎？這堂課專注在基本知識教學，讓你擁有更紮實的基礎，才能事半功倍、勢如破竹！",
+    "numSoldTickets": 572,
+    "owner": {
+      "_id": "573b41c3fad4ef0a006b9d83",
+      "name": "Hu Li",
+      "profileImageUrl": "https://hahow.in/images/57de36eed5766a0700c6c80d"
+    },
+    "preOrderedPrice": 990,
+    "price": 1890,
+    "proposalDueTime": "2016-07-20T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "初心者的計概與 coding 火球術",
+    "totalVideoLengthInSeconds": 17568,
+    "type": "COURSE",
+    "uniquename": "cs-the-easy-way"
+  },
+  {
+    "_id": "573e6c09fad4ef0a006bbbd3",
+    "assignment": "573e6c09fad4ef0a006bbbd4",
+    "categories": [
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "57622d7df1399b0900e234c5",
+      "url": "https://hahow.in/images/57622d7df1399b0900e234c5"
+    },
+    "incubateTime": "2016-06-16T04:04:01.000Z",
+    "isReject": false,
+    "metaDescription": "不論是小說、漫畫、動畫、電影、遊戲......文藝創作的過程都需要一個起點、一個核心概念，經過謹慎的編排與耐心的操作，最終呈現出瑰麗的結局。\n\n讓我們一起打磨這深藏的技藝、學習實用的技巧，讓說故事的能力更上一層樓。",
+    "numSoldTickets": 408,
+    "owner": {
+      "_id": "56e93f914e3ef90900b7f197",
+      "name": "Tommy Riordan Conlon",
+      "profileImageUrl": "https://graph.facebook.com/1564845103828490/picture"
+    },
+    "preOrderedPrice": 1000,
+    "price": 2500,
+    "proposalDueTime": "2016-07-16T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "編劇：一起說個好故事",
+    "totalVideoLengthInSeconds": 9542,
+    "type": "COURSE",
+    "uniquename": "script-tommy"
+  },
+  {
+    "_id": "57424af9fad4ef0a006bdb40",
+    "assignment": "57424af9fad4ef0a006bdb41",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "5742cb02fad4ef0a006be0ff",
+      "url": "https://hahow.in/images/5742cb02fad4ef0a006be0ff"
+    },
+    "incubateTime": "2016-06-15T05:27:25.000Z",
+    "isReject": false,
+    "metaDescription": "LINE 是最大家常使用的軟體，本課程教您完整學會 LINE 貼圖創作的方式。獨家教您掌握住觀眾最喜歡的造型，並完整學會上架的流程，並因應各種可能遇到的問題。\n歡迎來建立屬於您的聚寶盆，讓創意被看見，財富與幸福滿載而歸喔！",
+    "numSoldTickets": 230,
+    "owner": {
+      "_id": "57401daefad4ef0a006bc8c1",
+      "name": "陳璽元",
+      "profileImageUrl": "https://hahow.in/images/5743b8a2fad4ef0a006bec76",
+      "username": "drawerlu"
+    },
+    "preOrderedPrice": 150,
+    "price": 500,
+    "proposalDueTime": "2016-07-15T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "LINE 貼圖 DIY - 隨手創意輕鬆玩！",
+    "totalVideoLengthInSeconds": 7117,
+    "type": "COURSE",
+    "uniquename": "linesticker"
+  },
+  {
+    "_id": "57486a9f0a2f5c0900c97205",
+    "assignment": "57486a9f0a2f5c0900c97206",
+    "categories": [
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "5754076bcb768f0900cd0f43",
+      "url": "https://hahow.in/images/5754076bcb768f0900cd0f43"
+    },
+    "incubateTime": "2016-06-14T04:13:15.000Z",
+    "isReject": false,
+    "metaDescription": "想進入 UI 設計的領域嗎？那你不能不知道目前最主流的 UI 設計軟體 Sketch，它輕巧、快速、實用，這個課程希望讓大家輕鬆上手 Sketch，一起進入 UI 設計的世界吧！",
+    "numSoldTickets": 463,
+    "owner": {
+      "_id": "57312cf7b2a279090045fc19",
+      "name": "Lin Simon",
+      "profileImageUrl": "https://hahow.in/images/58497508d821b10700a85fbb",
+      "username": "simon7972"
+    },
+    "preOrderedPrice": 800,
+    "price": 1500,
+    "proposalDueTime": "2016-07-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "UI 設計入門，輕鬆上手 Sketch！",
+    "totalVideoLengthInSeconds": 19500,
+    "type": "COURSE",
+    "uniquename": "sketchui"
+  },
+  {
+    "_id": "55e66307fa223d100058f5c9",
+    "assignment": "55e66307fa223d100058f5ca",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "575307f0b891dd0900cc8207",
+      "url": "https://hahow.in/images/575307f0b891dd0900cc8207"
+    },
+    "incubateTime": "2016-06-08T04:03:46.000Z",
+    "isReject": false,
+    "metaDescription": "幫您整理所有助詞的使用方式，分辨容易混淆的日文助詞，讓您的寫作及口語表達更正確！",
+    "numSoldTickets": 185,
+    "owner": {
+      "_id": "55e00e4afa223d100058f141",
+      "name": "Chang Hong Lin",
+      "profileImageUrl": "https://graph.facebook.com/1174652202549671/picture"
+    },
+    "preOrderedPrice": 700,
+    "price": 950,
+    "proposalDueTime": "2016-07-08T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 40
+    },
+    "title": "日文助詞大補帖",
+    "totalVideoLengthInSeconds": 12390,
+    "type": "COURSE",
+    "uniquename": "hiroshi17"
+  },
+  {
+    "_id": "573dc95efad4ef0a006bb79e",
+    "assignment": "573dc95efad4ef0a006bb79f",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "57419777fad4ef0a006bd4ab",
+      "url": "https://hahow.in/images/57419777fad4ef0a006bd4ab"
+    },
+    "incubateTime": "2016-06-07T03:29:32.000Z",
+    "isReject": false,
+    "metaDescription": "在這堂課裡面，我將教大家在90分鐘內，從無到有做出一個屬於自己的簡單3D小遊戲。\n在這堂課裡面，你會學會，怎麼建立遊戲場景，遊戲引擎是怎麼運行程式，調整物理效果，還有UI使用者介面，最後再教大家怎麼把做好的遊戲輸出到PC / MAC / 或者是網頁上。",
+    "numSoldTickets": 163,
+    "owner": {
+      "_id": "573d7d33fad4ef0a006bb3fc",
+      "name": "Steven",
+      "profileImageUrl": "https://hahow.in/images/5757c0d9cb768f0900cd8700",
+      "username": "karta1297963"
+    },
+    "preOrderedPrice": 300,
+    "price": 399,
+    "proposalDueTime": "2016-07-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Unity3D 遊戲開發 in 90Mins - [入門篇]",
+    "totalVideoLengthInSeconds": 4826,
+    "type": "COURSE",
+    "uniquename": "easyunity1"
+  },
+  {
+    "_id": "56189df9df7b3d0b005c6639",
+    "assignment": "56189df9df7b3d0b005c663a",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "574fab4f206cd60900c52a67",
+      "url": "https://hahow.in/images/574fab4f206cd60900c52a67"
+    },
+    "incubateTime": "2016-06-03T04:50:49.000Z",
+    "isReject": false,
+    "metaDescription": "想用 illustrator 的思維學習網頁前端程式設計嗎？看完一般網路教學總是離想像有一大段距離嗎？",
+    "numSoldTickets": 3292,
+    "owner": {
+      "_id": "56189df7df7b3d0b005c6638",
+      "name": "吳哲宇",
+      "profileImageUrl": "https://hahow.in/images/59940a4d38c46c0700654afc",
+      "username": "majer"
+    },
+    "preOrderedPrice": 1000,
+    "price": 2000,
+    "proposalDueTime": "2016-07-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "動畫互動網頁程式入門 (HTML/CSS/JS)",
+    "totalVideoLengthInSeconds": 105429,
+    "type": "COURSE",
+    "uniquename": "monoame-webdesign1"
+  },
+  {
+    "_id": "56de29dc4e3ef90900b7c649",
+    "assignment": "56de29dc4e3ef90900b7c64a",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "5743ed47fad4ef0a006bf1c3",
+      "url": "https://hahow.in/images/5743ed47fad4ef0a006bf1c3"
+    },
+    "incubateTime": "2016-05-24T04:05:34.000Z",
+    "isReject": false,
+    "metaDescription": "「喜歡日本、想學實用的生活日語，能夠更順暢地自助遊日本嗎?」\n\n由旅遊時常見的五大情景ー食、住、行、購物、娛樂，從簡單而常見的單字、句型起步，模擬不同的情境，帶你學習在日本自助行時可以派上用場的日文會話。",
+    "numSoldTickets": 260,
+    "owner": {
+      "_id": "56d7fbf7182fba0e00c6dd81",
+      "name": "Tomoko",
+      "profileImageUrl": "https://graph.facebook.com/10208792747554651/picture",
+      "username": "tomoko"
+    },
+    "preOrderedPrice": 450,
+    "price": 500,
+    "proposalDueTime": "2016-06-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "用簡單的日文自助遊日本",
+    "totalVideoLengthInSeconds": 8666,
+    "type": "COURSE",
+    "uniquename": "tomoko-nihongo-1"
+  },
+  {
+    "_id": "56e0e9fb4e3ef90900b7cff1",
+    "assignment": "56e0e9fb4e3ef90900b7cff2",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768",
+      "55de81a89d1fa51000f9476f"
+    ],
+    "coverImage": {
+      "_id": "573aee18fad4ef0a006b9652",
+      "url": "https://hahow.in/images/573aee18fad4ef0a006b9652"
+    },
+    "incubateTime": "2016-05-16T07:31:42.000Z",
+    "isReject": false,
+    "metaDescription": "與眾不同的精緻日式手法，打造你的的氣球娃娃，以深入淺出的方式讓接觸氣球造型不久的氣球愛好者，讓你走入波波氣球娃娃的世界。",
+    "numSoldTickets": 112,
+    "owner": {
+      "_id": "56cea30e182fba0e00c6c0ef",
+      "name": "李明波",
+      "profileImageUrl": "https://graph.facebook.com/1307220612638355/picture"
+    },
+    "preOrderedPrice": 200,
+    "price": 500,
+    "proposalDueTime": "2016-06-15T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "波波的氣球娃娃 - 歌姬初音篇",
+    "totalVideoLengthInSeconds": 2746,
+    "type": "COURSE",
+    "uniquename": "balloonpopo01"
+  },
+  {
+    "_id": "56d7a243182fba0e00c6dc78",
+    "assignment": "56d7a243182fba0e00c6dc79",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "573524a4fad4ef0a006b4556",
+      "url": "https://hahow.in/images/573524a4fad4ef0a006b4556"
+    },
+    "incubateTime": "2016-05-12T11:29:37.000Z",
+    "isReject": false,
+    "metaDescription": "想知道怎麼選擇練字時的筆、紙等工具嗎？想把每個字都寫好寫端正嘛？\n課堂課除了介紹工具的差異外，也包含基本筆畫的寫法和結構的小秘訣，讓有興趣把字寫好的你更容易入門寫好字。",
+    "numSoldTickets": 1115,
+    "owner": {
+      "_id": "56d7a23b182fba0e00c6dc77",
+      "name": "葉曄",
+      "profileImageUrl": "https://hahow.in/images/574fcc7f206cd60900c52bab"
+    },
+    "preOrderedPrice": 650,
+    "price": 800,
+    "proposalDueTime": "2016-06-11T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "用隨處可得的平價筆寫一手美字",
+    "totalVideoLengthInSeconds": 4548,
+    "type": "COURSE",
+    "uniquename": "ohyayeh0222"
+  },
+  {
+    "_id": "56e59b514e3ef90900b7e2e3",
+    "assignment": "56e59b514e3ef90900b7e2e4",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "57287a99d60bb3090091ba48",
+      "url": "https://hahow.in/images/57287a99d60bb3090091ba48"
+    },
+    "incubateTime": "2016-05-11T04:12:38.000Z",
+    "isReject": false,
+    "metaDescription": "3D 列印是現在最受歡迎的製造技術，因為它可以將各種創意點子用最快的時間做出原型。這堂課會教你 3D 列印的相關知識，並以實作教學的方式，讓學員一步步學會 3D 建模的技巧。相信學完這堂課，你也能輕鬆將自己的想像力變成現實喔！",
+    "numSoldTickets": 129,
+    "owner": {
+      "_id": "56e387bf4e3ef90900b7d8e2",
+      "name": "Justin MiDs",
+      "profileImageUrl": "https://graph.facebook.com/200795113621668/picture",
+      "username": "mids"
+    },
+    "preOrderedPrice": 500,
+    "price": 1000,
+    "proposalDueTime": "2016-06-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超簡單學會 3D 建模 & 列印－基礎篇",
+    "totalVideoLengthInSeconds": 8373,
+    "type": "COURSE",
+    "uniquename": "mids123d01"
+  },
+  {
+    "_id": "56fcdc8f2ba01d09002bb266",
+    "assignment": "56fcdc8f2ba01d09002bb267",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de818a9d1fa51000f94767",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "57144e5d234ded0a00a40cb3",
+      "url": "https://hahow.in/images/57144e5d234ded0a00a40cb3"
+    },
+    "incubateTime": "2016-05-10T04:49:51.000Z",
+    "isReject": false,
+    "metaDescription": "想要親手畫出心愛寵物的可愛樣貌？\n想要塗繪萌萌的小動物，感受那療癒的幸福力？那就用免費的 MediBang Paint 跟著老師開始創作吧！",
+    "numSoldTickets": 149,
+    "owner": {
+      "_id": "56f8809a4e3ef90900b83503",
+      "name": "老別",
+      "profileImageUrl": "https://graph.facebook.com/10209000992321336/picture",
+      "username": "dawnstail"
+    },
+    "preOrderedPrice": 299,
+    "price": 750,
+    "proposalDueTime": "2016-06-09T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "輕鬆畫出毛小孩的幸福臉龐♡ 免費軟體 MediBang Paint",
+    "totalVideoLengthInSeconds": 7428,
+    "type": "COURSE",
+    "uniquename": "pet-face"
+  },
+  {
+    "_id": "57144d93234ded0a00a40cae",
+    "assignment": "57144d93234ded0a00a40caf",
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "576657a3f1399b0900e24e22",
+      "url": "https://hahow.in/images/576657a3f1399b0900e24e22"
+    },
+    "incubateTime": "2016-05-10T04:31:05.000Z",
+    "isReject": false,
+    "metaDescription": "想學動畫特效嗎？沒有基礎也別擔心！這堂紮實的入門教學會從設計概念帶到實作，了解CINEMA 4D的製作基礎流程、並結合其他ADOBE設計軟體自由運用。",
+    "numSoldTickets": 91,
+    "owner": {
+      "_id": "56f51fee4e3ef90900b82bff",
+      "name": "果貓貓",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-MerA6BBow_k/AAAAAAAAAAI/AAAAAAAAAC4/Q94Si7vdBq0/photo.jpg",
+      "username": "gogocat"
+    },
+    "preOrderedPrice": 1500,
+    "price": 2500,
+    "proposalDueTime": "2016-06-09T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "CINEMA 4D X ADOBE動圖趣",
+    "totalVideoLengthInSeconds": 27746,
+    "type": "COURSE",
+    "uniquename": "cinema4d"
+  },
+  {
+    "_id": "572be49fd60bb3090091d208",
+    "assignment": "572be49fd60bb3090091d209",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81879d1fa51000f94766",
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "57306b710bf7f70900cd0045",
+      "url": "https://hahow.in/images/57306b710bf7f70900cd0045"
+    },
+    "incubateTime": "2016-05-09T14:11:39.000Z",
+    "isReject": false,
+    "metaDescription": "資訊設計不只是視覺設計，背後的思考脈絡才是關鍵。暸解資訊設計，能讓你習慣以系統思考，來解構事物間的邏輯關係，不管是課堂報告、會議簡報，還是網路行銷都能用到，可說是現代人才必備的能力。",
+    "numSoldTickets": 12567,
+    "owner": {
+      "_id": "572be497d60bb3090091d206",
+      "name": "張志祺",
+      "profileImageUrl": "https://graph.facebook.com/1348398818510254/picture",
+      "username": "simpleinfo"
+    },
+    "preOrderedPrice": 990,
+    "price": 1800,
+    "proposalDueTime": "2016-06-08T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "不懂設計，也能學會的資訊圖像化密技！ by 圖文不符",
+    "totalVideoLengthInSeconds": 28016,
+    "type": "COURSE",
+    "uniquename": "simpleinfo"
+  },
+  {
+    "_id": "570dfc3b7192420900a0009f",
+    "assignment": "570dfc3b7192420900a000a0",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "5726c748d60bb3090091b468",
+      "url": "https://hahow.in/images/5726c748d60bb3090091b468"
+    },
+    "incubateTime": "2016-05-06T04:03:22.000Z",
+    "isReject": false,
+    "metaDescription": "喜歡音樂，那你想做自己的音樂嗎？\n內容涵蓋了作曲、編曲、初階混音，會一步一步教你如何利用編曲軟體來寫入和弦與旋律，以及鼓組與Bass如何去編制，做出一首簡單的流行歌曲，一切從基礎樂理開始，新手歡迎！",
+    "numSoldTickets": 104,
+    "owner": {
+      "_id": "56f274bd4e3ef90900b81bc3",
+      "name": "何孟翰",
+      "profileImageUrl": "https://lh5.googleusercontent.com/-1wU5jEY8Thk/AAAAAAAAAAI/AAAAAAAAAfo/KIG0gAi6x08/photo.jpg",
+      "username": "dreammusic"
+    },
+    "preOrderedPrice": 1000,
+    "price": 1500,
+    "proposalDueTime": "2016-06-05T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "流行歌曲製作秘訣 Cubase 8 編曲軟體應用",
+    "totalVideoLengthInSeconds": 13132,
+    "type": "COURSE",
+    "uniquename": "cubase-8-lessons"
+  },
+  {
+    "_id": "56c1e3b3e91d590900234105",
+    "assignment": "56c1e3b3e91d590900234106",
+    "categories": [
+      "55de81969d1fa51000f9476a",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "56c1e647e91d590900234114",
+      "url": "https://hahow.in/images/56c1e647e91d590900234114"
+    },
+    "incubateTime": "2016-05-05T06:38:01.000Z",
+    "isReject": false,
+    "metaDescription": "想到寫網頁，你的印象還停留在 Dreamweaver 還是 Frontpage 嗎？你的觀念可能已經落伍囉！本課程將帶領大家認識網頁前後端技術（包括 HTML、CSS、JavaScript、jQuery、Bootstrap 等相關技術）及網站運作原理。學完本課程，你也可能成為下一個 Facebook 創辦人！",
+    "numSoldTickets": 601,
+    "owner": {
+      "_id": "56a083354ec4c609007d2964",
+      "name": "Jeremy Yen",
+      "profileImageUrl": "https://lh4.googleusercontent.com/-49yHMcUteV4/AAAAAAAAAAI/AAAAAAAAL5c/ZRpyju9vHCg/photo.jpg",
+      "username": "jeremyyen"
+    },
+    "preOrderedPrice": 300,
+    "price": 500,
+    "proposalDueTime": "2016-06-04T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "創業必備：前端網頁設計入門",
+    "totalVideoLengthInSeconds": 14740,
+    "type": "COURSE",
+    "uniquename": "frontend-web-starter"
+  },
+  {
+    "_id": "57184c0c234ded0a00a41c31",
+    "assignment": "57184c0c234ded0a00a41c32",
+    "categories": [
+      "55de81969d1fa51000f9476a",
+      "55de81929d1fa51000f94769",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "5724d9e3d60bb3090091aed8",
+      "url": "https://hahow.in/images/5724d9e3d60bb3090091aed8"
+    },
+    "incubateTime": "2016-05-01T04:03:49.000Z",
+    "isReject": false,
+    "metaDescription": "好的簡報讓你無冷場，爛的簡報讓你剩這場！只要擁有正確的觀念，輔以強大的簡報工具，任何人都可以快速設計出好看的簡報。這堂課裡會教你簡報心法，加上最新最強大的Office Power Point 365，觀念技巧一次滿足！",
+    "numSoldTickets": 939,
+    "owner": {
+      "_id": "570e7d5e7192420900a00494",
+      "name": "Yi-Hung Peng",
+      "profileImageUrl": "https://graph.facebook.com/1255239437837414/picture"
+    },
+    "preOrderedPrice": 500,
+    "price": 700,
+    "proposalDueTime": "2016-05-31T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "精準設計：PowerPoint 實戰技巧",
+    "totalVideoLengthInSeconds": 7600,
+    "type": "COURSE",
+    "uniquename": "slideartpptskill"
+  },
+  {
+    "_id": "567f6b1350562140005e6e86",
+    "assignment": "567f6b1350562140005e6e87",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81929d1fa51000f94769",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "57357142fad4ef0a006b4bae",
+      "url": "https://hahow.in/images/57357142fad4ef0a006b4bae"
+    },
+    "incubateTime": "2016-04-27T04:03:37.000Z",
+    "isReject": false,
+    "metaDescription": "這堂課我會分成三個階段來做學習，首先是會討論到更進階的透視概念，會將三點透視，還有多點透視概念做一個學習。\n第二階段會進行鏡頭運作的概念，角色與空間的結合。\n第三階段則要進入人體動態的部分，除了了解動作的設計原則，在這階段我們會學習到用更簡單的線條去表現人體。",
+    "numSoldTickets": 299,
+    "owner": {
+      "_id": "567f532150562140005e6e6b",
+      "name": "楊鴻仁",
+      "profileImageUrl": "https://graph.facebook.com/1237652742917597/picture",
+      "username": "younglsc"
+    },
+    "preOrderedPrice": 900,
+    "price": 1200,
+    "proposalDueTime": "2016-05-27T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "角色設計2_人體動態與空間透視",
+    "totalVideoLengthInSeconds": 22321,
+    "type": "COURSE",
+    "uniquename": "young-art02"
+  },
+  {
+    "_id": "56befca7c36f680900ced169",
+    "assignment": "56befca7c36f680900ced16a",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "570a22e12ba01d09002bddec",
+      "url": "https://hahow.in/images/570a22e12ba01d09002bddec"
+    },
+    "incubateTime": "2016-04-22T04:27:23.000Z",
+    "isReject": false,
+    "metaDescription": "上班族的你，想到外商工作、到國外發展，卻太久沒說英文，害怕英文面試，沒有信心踏出去嗎？\n\n大學生的你，想申請國外學校，托福考過了，萬事齊備，卻擔心最後一關英文面試功虧一簣嗎？\n\nDavid 是 SK2 TOEFL 的英文口說顧問，有極豐富的英文面試經驗，已協助多達千名學生順利申請上國外名校，也幫助不少上班族順利面試上好工作。\n\n在短短 40 分鐘的課程中，David 將有效率、有趣，且按部就班地解釋制霸「英文面試」的每一個環節，協助你有信心戰勝你的英文面試。\n\n在時機來到時，你將能充分表達自我，展現自信，抓住每一個珍貴的機會！",
+    "numSoldTickets": 306,
+    "owner": {
+      "_id": "56befc96c36f680900ced168",
+      "name": "David Ting",
+      "profileImageUrl": "https://graph.facebook.com/10153386615951156/picture",
+      "username": "sk2david"
+    },
+    "preOrderedPrice": 600,
+    "price": 800,
+    "proposalDueTime": "2016-05-22T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "40 分鐘英文面試完全制霸",
+    "totalVideoLengthInSeconds": 2738,
+    "type": "COURSE",
+    "uniquename": "sk2david-interview"
+  },
+  {
+    "_id": "56810fdd50562140005e6fce",
+    "assignment": "56810fdd50562140005e6fcf",
+    "categories": [
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "57206098d60bb30900918c8c",
+      "url": "https://hahow.in/images/57206098d60bb30900918c8c"
+    },
+    "incubateTime": "2016-04-21T07:19:55.000Z",
+    "isReject": false,
+    "metaDescription": "隨著時代改變，“製作”音樂不再遙不可及，只要你有一台電腦和一些簡單的設備。本課程將介紹Ableton Live(電腦軟體)和最精簡的配備做出一首歌。",
+    "numSoldTickets": 84,
+    "owner": {
+      "_id": "56810fd750562140005e6fcd",
+      "name": "Abner Zhung",
+      "profileImageUrl": "https://lh5.googleusercontent.com/-chJ2Soa0C20/AAAAAAAAAAI/AAAAAAAAATc/WYSj0DoEjEY/photo.jpg"
+    },
+    "preOrderedPrice": 500,
+    "price": 750,
+    "proposalDueTime": "2016-05-21T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "基礎音樂製作 - Ableton Live",
+    "totalVideoLengthInSeconds": 11136,
+    "type": "COURSE",
+    "uniquename": "intromusicproduction"
+  },
+  {
+    "_id": "56d68e0b182fba0e00c6d9d7",
+    "assignment": "56d68e0b182fba0e00c6d9d8",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "57177e79234ded0a00a418a9",
+      "url": "https://hahow.in/images/57177e79234ded0a00a418a9"
+    },
+    "incubateTime": "2016-04-20T06:41:02.000Z",
+    "isReject": false,
+    "metaDescription": "藉由繪製超擬真水彩食物插畫，學會觀察並提高對於色彩的敏感度，也間接學習顏色的靈活運用。這堂課程將透過水彩常用色，並以芭蕉與鮭魚為素材，教學如何運用水彩的調色與混色，在白紙上繪出鮮明食物插畫，記錄下食物的美好。",
+    "numSoldTickets": 100,
+    "owner": {
+      "_id": "56c2ceb6182fba0e00c68f8f",
+      "name": "楊湘薇",
+      "profileImageUrl": "https://graph.facebook.com/816409405169198/picture"
+    },
+    "preOrderedPrice": 450,
+    "price": 550,
+    "proposalDueTime": "2016-05-20T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超濃郁！美味的食物插畫",
+    "totalVideoLengthInSeconds": 6182,
+    "type": "COURSE",
+    "uniquename": "bingogrocery"
+  },
+  {
+    "_id": "56f1fb074e3ef90900b81814",
+    "assignment": "56f1fb074e3ef90900b81815",
+    "categories": [
+      "55de81969d1fa51000f9476a",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "56fcb3992ba01d09002bb178",
+      "url": "https://hahow.in/images/56fcb3992ba01d09002bb178"
+    },
+    "incubateTime": "2016-04-19T04:00:05.000Z",
+    "isReject": false,
+    "metaDescription": "想快速學會 Mac OS X 上簡報工具  Keynote 的用法製作美美的簡報嗎？這個課程以在簡報美學授課之簡報製作為例，帶你／妳自打開 Keynote 起，到做好一個新思維簡報，所需運用的  Keynote 中重要功能與活用它們。",
+    "numSoldTickets": 238,
+    "owner": {
+      "_id": "5667d0095f4374480075cae3",
+      "name": "Perpa Hsieh",
+      "profileImageUrl": "https://graph.facebook.com/10207092140435964/picture",
+      "username": "aestheticm"
+    },
+    "preOrderedPrice": 399,
+    "price": 599,
+    "proposalDueTime": "2016-05-19T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Keynote 快速上手",
+    "totalVideoLengthInSeconds": 14022,
+    "type": "COURSE",
+    "uniquename": "am-unit03"
+  },
+  {
+    "_id": "55e6664ffa223d100058f5d6",
+    "assignment": "55e6664ffa223d100058f5d7",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "570f038a7192420900a00573",
+      "url": "https://hahow.in/images/570f038a7192420900a00573"
+    },
+    "incubateTime": "2016-04-14T04:02:28.000Z",
+    "isReject": false,
+    "metaDescription": "日文時態相較其他語言簡單，但寫作時仍然容易搞錯。何時使用現在式，何時使用過去式，何時又該使用現在進行式或過去進行式呢? 此課程可以讓您了解日文時態的邏輯，避免寫作或口說上犯錯。",
+    "numSoldTickets": 291,
+    "owner": {
+      "_id": "55e00e4afa223d100058f141",
+      "name": "Chang Hong Lin",
+      "profileImageUrl": "https://graph.facebook.com/1174652202549671/picture"
+    },
+    "preOrderedPrice": 450,
+    "price": 600,
+    "proposalDueTime": "2016-05-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "日文時態快速上手",
+    "totalVideoLengthInSeconds": 5234,
+    "type": "COURSE",
+    "uniquename": "hiroshi1017"
+  },
+  {
+    "_id": "56feb1ac2ba01d09002bbb8e",
+    "assignment": "56feb1ac2ba01d09002bbb8f",
+    "categories": [
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "56feb3622ba01d09002bbb90",
+      "url": "https://hahow.in/images/56feb3622ba01d09002bbb90"
+    },
+    "incubateTime": "2016-04-10T04:01:28.000Z",
+    "isReject": false,
+    "metaDescription": "你是否常常在文書處理時，心中所要求的美感無法用 word 實現呢？是否想發起一本獨立刊物，卻發現團隊沒有美術編輯人才；還是對於 InDesign 一知半解，想要建立完整操作邏輯呢？這堂課將為你解答許多 InDesign 的概念唷！",
+    "numSoldTickets": 984,
+    "owner": {
+      "_id": "56e2a3eb4e3ef90900b7d6c9",
+      "name": "林協霆",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-k5ohx9wnsPk/AAAAAAAAAAI/AAAAAAAAI2M/o7g0LfISVIw/photo.jpg",
+      "username": "hsiehting"
+    },
+    "preOrderedPrice": 750,
+    "price": 1000,
+    "proposalDueTime": "2016-05-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "丟掉 Word，進入 InDesign 的排版世界",
+    "totalVideoLengthInSeconds": 21053,
+    "type": "COURSE",
+    "uniquename": "indesignbasic"
+  },
+  {
+    "_id": "570109d32ba01d09002bc0cf",
+    "assignment": "570109d32ba01d09002bc0d0",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "577affa94533480700837e00",
+      "url": "https://hahow.in/images/577affa94533480700837e00"
+    },
+    "incubateTime": "2016-04-09T07:35:27.000Z",
+    "isReject": false,
+    "metaDescription": "這堂課主要是和大家分享，我個人在插畫創作上的方式、工具、習慣還有一些想法。\n用我們熟悉的卡通的表現方式，畫出來 :)",
+    "numSoldTickets": 857,
+    "owner": {
+      "_id": "570109c62ba01d09002bc0ce",
+      "name": "JUN CHIU",
+      "profileImageUrl": "https://graph.facebook.com/1047320495335019/picture"
+    },
+    "preOrderedPrice": 300,
+    "price": 500,
+    "proposalDueTime": "2016-05-09T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Cartoon 插畫 - 人物篇 (●—●)",
+    "totalVideoLengthInSeconds": 5978,
+    "type": "COURSE",
+    "uniquename": "junchiuarts"
+  },
+  {
+    "_id": "56fbd6112ba01d09002bae64",
+    "assignment": "56fbd6112ba01d09002bae65",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "57197c05234ded0a00a42278",
+      "url": "https://hahow.in/images/57197c05234ded0a00a42278"
+    },
+    "incubateTime": "2016-03-31T05:27:27.000Z",
+    "isReject": false,
+    "metaDescription": "許多人曾對我說，「真不知道你的腦子裡在想什麼。」說真的，在自我釐清之前，我實在沒有個答案。\u0003\u0003但現在機會來了，你有機會理解我如何用角色設計敘述故事，也能透過一步步的抽絲剝繭，自己用故事堆疊獨一無二的人物，並且讓他說一段不為人知的往事。\u0003\n\n拿起一張紙一支筆，試著跟我一起經歷、創造、認識自己對事物的想法，並且愛上這個美麗又耐玩的圖像王國。\u0003",
+    "numSoldTickets": 115,
+    "owner": {
+      "_id": "56f91e832ba01d09002ba80d",
+      "name": "陳怡揚",
+      "profileImageUrl": "https://graph.facebook.com/1328989110449027/picture",
+      "username": "s926142003"
+    },
+    "preOrderedPrice": 500,
+    "price": 650,
+    "proposalDueTime": "2016-04-30T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 45
+    },
+    "title": "畫，故事 //手繪深度圖像創作",
+    "totalVideoLengthInSeconds": 4747,
+    "type": "COURSE",
+    "uniquename": "bearshashateach"
+  },
+  {
+    "_id": "56f503104e3ef90900b82b94",
+    "assignment": "56f503104e3ef90900b82b95",
+    "categories": [
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "56f503bd4e3ef90900b82b98",
+      "url": "https://hahow.in/images/56f503bd4e3ef90900b82b98"
+    },
+    "incubateTime": "2016-03-30T11:22:32.000Z",
+    "isReject": false,
+    "metaDescription": "臉部結構與肖像插畫篇\n頭部是一個角色靈魂關鍵的重要部份，\n它扮演的重要性更勝一切，同時它也是許多頂尖藝術家成功的重要因素，同時也是一張作品畫面上的重點，甚至在每個美術教育過程中，它也成為一個獨立的部份，可想而知它的重要性，這裡將帶大家一步步從拆解到創作。",
+    "numSoldTickets": 497,
+    "owner": {
+      "_id": "56e8be814e3ef90900b7ef6a",
+      "name": "許友豪",
+      "profileImageUrl": "https://graph.facebook.com/10153955241889933/picture"
+    },
+    "preOrderedPrice": 1000,
+    "price": 1500,
+    "proposalDueTime": "2016-04-29T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "怪獸工場 - 頭部構成與造型設計篇",
+    "totalVideoLengthInSeconds": 14006,
+    "type": "COURSE",
+    "uniquename": "monster4"
+  },
+  {
+    "_id": "56f521864e3ef90900b82c12",
+    "assignment": "56f521864e3ef90900b82c13",
+    "categories": [
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "56f521d94e3ef90900b82c14",
+      "url": "https://hahow.in/images/56f521d94e3ef90900b82c14"
+    },
+    "incubateTime": "2016-03-30T11:21:04.000Z",
+    "isReject": false,
+    "metaDescription": "對於繪畫人物充滿熱忱、但始終抓不到要領，這堂課絕對是你所需要的必備知識！",
+    "numSoldTickets": 556,
+    "owner": {
+      "_id": "56385f48423bdd0a00103c3b",
+      "name": "藍 國峰",
+      "profileImageUrl": "https://graph.facebook.com/1126459127366056/picture",
+      "username": "bluebobo3333"
+    },
+    "preOrderedPrice": 1000,
+    "price": 1500,
+    "proposalDueTime": "2016-04-29T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "怪獸工場 - 人體結構篇",
+    "totalVideoLengthInSeconds": 16733,
+    "type": "COURSE",
+    "uniquename": "monster3"
+  },
+  {
+    "_id": "566985d25f4374480075cc85",
+    "assignment": "566985d25f4374480075cc86",
+    "categories": [
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "566eb46513ef621200899b55",
+      "url": "https://hahow.in/images/566eb46513ef621200899b55"
+    },
+    "incubateTime": "2016-03-11T04:22:29.000Z",
+    "isReject": false,
+    "metaDescription": "每天5分鐘，了解戀愛心理學！\n每堂課附上一小則「觸心練習」，讓你不論是一個人或是兩個人，都可以更了解自己與關係。",
+    "numSoldTickets": 336,
+    "owner": {
+      "_id": "56683e965f4374480075cb61",
+      "name": "海苔熊",
+      "profileImageUrl": "https://lh3.googleusercontent.com/-oxyRgqPzDDY/AAAAAAAAAAI/AAAAAAAAUgI/kmm5luFYhs8/photo.jpg"
+    },
+    "preOrderedPrice": 480,
+    "price": 600,
+    "proposalDueTime": "2016-04-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "每天戀一點，戀愛心理學",
+    "totalVideoLengthInSeconds": 5836,
+    "type": "COURSE",
+    "uniquename": "lovepsychology"
+  },
+  {
+    "_id": "56ce9b4f182fba0e00c6c0c1",
+    "assignment": "56ce9b4f182fba0e00c6c0c2",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "56ce9b61182fba0e00c6c0c3",
+      "url": "https://hahow.in/images/56ce9b61182fba0e00c6c0c3"
+    },
+    "incubateTime": "2016-03-09T04:00:48.000Z",
+    "isReject": false,
+    "metaDescription": "此課程是教同學們如何正確、迅速的了解流行樂的組成，並學習創作出屬於自己的音樂。\n\n學會創作後，不但能在情場加分、更能讓周遭同學抱著崇拜的眼神看你，也不需要再整天Cover別人的音樂了！\n\n快來創作屬於自己的音樂吧！",
+    "numSoldTickets": 106,
+    "owner": {
+      "_id": "56ce9716182fba0e00c6c0a1",
+      "name": "陳威誌",
+      "profileImageUrl": "https://graph.facebook.com/1249680421715058/picture",
+      "username": "peterchen"
+    },
+    "preOrderedPrice": 500,
+    "price": 600,
+    "proposalDueTime": "2016-04-08T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "音樂創作原來這麼簡單！",
+    "totalVideoLengthInSeconds": 2955,
+    "type": "COURSE",
+    "uniquename": "peter-chen"
+  },
+  {
+    "_id": "56c81f37182fba0e00c69d53",
+    "assignment": "56c81f37182fba0e00c69d54",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "572c8d3c0bf7f70900ccf1b4",
+      "url": "https://hahow.in/images/572c8d3c0bf7f70900ccf1b4"
+    },
+    "incubateTime": "2016-03-04T03:56:39.000Z",
+    "isReject": false,
+    "metaDescription": "數位科技充斥的時代裡，隨手拍照已成家常便飯，如何讓自己分享的生活更具特色及溫度,已由拍照轉向手繪，藉此學習繪出你喜愛的美食，表現出個人風格及分享的態度，不管是網路、部落格、手帳本、卡片，都能增添許多生活的藝術性。\n在課堂中會有影片步驟及講解帶您一步步完成，教你拋開繁雜的技法，你也能開心畫出自己最愛的美食。",
+    "numSoldTickets": 154,
+    "owner": {
+      "_id": "564818be42ee8d100033a022",
+      "name": "Chun-hsien Yo",
+      "profileImageUrl": "https://graph.facebook.com/1175736295773935/picture"
+    },
+    "preOrderedPrice": 450,
+    "price": 600,
+    "proposalDueTime": "2016-04-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "手繪溫度．甜點丼飯插畫篇",
+    "totalVideoLengthInSeconds": 5498,
+    "type": "COURSE",
+    "uniquename": "mryo66ych"
+  },
+  {
+    "_id": "56b6306ec36f680900cebce8",
+    "assignment": "56b6306ec36f680900cebce9",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81929d1fa51000f94769",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "57873da5d0c3030700414e80",
+      "url": "https://hahow.in/images/57873da5d0c3030700414e80"
+    },
+    "incubateTime": "2016-02-29T00:36:33.000Z",
+    "isReject": false,
+    "metaDescription": "這是一堂 SAI 基本教學，內容從介面操作開始、構圖教學、色彩分配解析以及氣氛的掌握，讓你輕鬆入門電繪世界！",
+    "numSoldTickets": 208,
+    "owner": {
+      "_id": "56b63069c36f680900cebce7",
+      "name": "洪辰(Niya)",
+      "profileImageUrl": "https://graph.facebook.com/1726118604284294/picture",
+      "username": "riverlog"
+    },
+    "preOrderedPrice": 250,
+    "price": 350,
+    "proposalDueTime": "2016-03-30T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "SAI 插畫快速好上手",
+    "totalVideoLengthInSeconds": 4542,
+    "type": "COURSE",
+    "uniquename": "riverlog"
+  },
+  {
+    "_id": "5697dfb64ec4c609007d1b5f",
+    "assignment": "5697dfb64ec4c609007d1b60",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81b79d1fa51000f94771"
+    ],
+    "coverImage": {
+      "_id": "5697e2234ec4c609007d1b64",
+      "url": "https://hahow.in/images/5697e2234ec4c609007d1b64"
+    },
+    "incubateTime": "2016-02-27T03:58:17.000Z",
+    "isReject": false,
+    "metaDescription": "「一堂把你變高跟鞋專家的課」是一門淺顯易懂的入概念課程，也是一堂省錢又省時的完美入門課程。坊間的傳統鞋類理論課程往往要價不斐，而且上課的地點可能讓人舟車勞頓、勞心勞力。\n\n現在你只要來Hahow就可以輕鬆入門，透過這堂課學習到與高跟鞋有關的製程、材料、挑選等技巧與知識，更可一起探索你所不知道的高跟鞋歷史與產業現況。",
+    "numSoldTickets": 242,
+    "owner": {
+      "_id": "565f3ecf36328c10000aac52",
+      "name": "Cecilia Chen",
+      "profileImageUrl": "https://lh4.googleusercontent.com/-052PQwTglGM/AAAAAAAAAAI/AAAAAAAAAOk/ZFdcPf2E2YQ/photo.jpg",
+      "username": "sychenshoes"
+    },
+    "preOrderedPrice": 299,
+    "price": 399,
+    "proposalDueTime": "2016-03-28T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "一堂把你變高跟鞋專家的課",
+    "totalVideoLengthInSeconds": 4848,
+    "type": "COURSE",
+    "uniquename": "high-heel-shoes"
+  },
+  {
+    "_id": "56a1e0164ec4c609007d2cb0",
+    "assignment": "56a1e0164ec4c609007d2cb1",
+    "categories": [
+      "55de81a89d1fa51000f9476f"
+    ],
+    "coverImage": {
+      "_id": "56ce8c4f182fba0e00c6c057",
+      "url": "https://hahow.in/images/56ce8c4f182fba0e00c6c057"
+    },
+    "incubateTime": "2016-02-26T04:22:27.000Z",
+    "isReject": false,
+    "metaDescription": "其實看似複雜的刺繡，都只有運用到簡單的一個觀念：點、線、面。本課程會教你輕鬆剖析刺繡，學習多種針法，再教大家將刺繡做成別針運用在生活上！",
+    "numSoldTickets": 464,
+    "owner": {
+      "_id": "56a1be974ec4c609007d2c6b",
+      "name": "Wisy Zeng",
+      "profileImageUrl": "https://graph.facebook.com/1031543920220877/picture"
+    },
+    "preOrderedPrice": 450,
+    "price": 600,
+    "proposalDueTime": "2016-03-27T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "刺繡 - 簡單學會多種針法做別針",
+    "totalVideoLengthInSeconds": 4554,
+    "type": "COURSE",
+    "uniquename": "wisyzeng"
+  },
+  {
+    "_id": "563c8763423bdd0a00104555",
+    "assignment": "563c8763423bdd0a00104556",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de81879d1fa51000f94766",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "563c87c0423bdd0a00104558",
+      "url": "https://hahow.in/images/563c87c0423bdd0a00104558"
+    },
+    "incubateTime": "2016-02-23T03:21:03.000Z",
+    "isReject": false,
+    "metaDescription": "After Effects 與 Motion Graphic 入門教學，適合無經驗但又想學習製作影片的人。",
+    "numSoldTickets": 2657,
+    "owner": {
+      "_id": "55ee86a2fa223d100058f948",
+      "name": "Yan-K",
+      "profileImageUrl": "https://graph.facebook.com/1042636152421615/picture",
+      "username": "yank"
+    },
+    "preOrderedPrice": 1000,
+    "price": 1500,
+    "proposalDueTime": "2016-03-24T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "AE/MG || 動畫特效 Vol.1",
+    "totalVideoLengthInSeconds": 13362,
+    "type": "COURSE",
+    "uniquename": "ae-mg-vol1"
+  },
+  {
+    "_id": "5667d0145f4374480075cae4",
+    "assignment": "5667d0145f4374480075cae5",
+    "categories": [
+      "55de81969d1fa51000f9476a",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "56b42b30c36f680900ceb37c",
+      "url": "https://hahow.in/images/56b42b30c36f680900ceb37c"
+    },
+    "incubateTime": "2016-02-05T04:03:13.000Z",
+    "isReject": false,
+    "metaDescription": "簡報美學系列課程，第一單元 - 視覺溝通之給簡報來點化學變化吧！商業簡報的美學化，讓您了解簡報最新趨勢，並將此趨勢用易懂易學的方式帶入您的簡報中，本課程先帶領大家進入視覺溝通的領域中，後續的課程將再推出簡報的重點萃取與故事舖陳。",
+    "numSoldTickets": 232,
+    "owner": {
+      "_id": "5667d0095f4374480075cae3",
+      "name": "Perpa Hsieh",
+      "profileImageUrl": "https://graph.facebook.com/10207092140435964/picture",
+      "username": "aestheticm"
+    },
+    "preOrderedPrice": 299,
+    "price": 399,
+    "proposalDueTime": "2016-03-06T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "簡報美學 - 給簡報來點化學變化吧",
+    "totalVideoLengthInSeconds": 4256,
+    "type": "COURSE",
+    "uniquename": "am-unit01"
+  },
+  {
+    "_id": "563ab301423bdd0a00103dd7",
+    "assignment": "563ab301423bdd0a00103dd8",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "566ec5f213ef621200899b63",
+      "url": "https://hahow.in/images/566ec5f213ef621200899b63"
+    },
+    "incubateTime": "2016-01-31T02:17:49.000Z",
+    "isReject": false,
+    "metaDescription": "速寫，是在現場快速完成的手繪藝術，必須要改變觀念，丟掉橡皮擦，找出適合個人的方法，進行具有紀錄性質的創作。我會教你認識速寫，一起當個速寫生活家，讓你走到哪畫到哪；用畫筆紀錄的生活可以創造不同的樂趣，繪畫風格也會越來越棒喔！",
+    "numSoldTickets": 225,
+    "owner": {
+      "_id": "563ab2fa423bdd0a00103dd6",
+      "name": "鐘婉綺",
+      "profileImageUrl": "https://graph.facebook.com/10153670636452560/picture"
+    },
+    "preOrderedPrice": 200,
+    "price": 500,
+    "proposalDueTime": "2016-03-01T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "一張速寫，一個生活故事",
+    "totalVideoLengthInSeconds": 5572,
+    "type": "COURSE",
+    "uniquename": "sketcherwofe"
+  },
+  {
+    "_id": "567b85a350562140005e6b86",
+    "assignment": "567b85a350562140005e6b87",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "567b879850562140005e6b8a",
+      "url": "https://hahow.in/images/567b879850562140005e6b8a"
+    },
+    "incubateTime": "2016-01-29T03:32:39.000Z",
+    "isReject": false,
+    "metaDescription": "基礎篇會介紹歐文書法及英文藝術字相關知識與工具並利用鉛筆.軟筆.沾水筆書寫，這三種工具能創造出不同感覺的字體，基礎運筆卻是相同的，熟悉這三種筆後，就能寫出各式各樣特殊又漂亮的英文字體！",
+    "numSoldTickets": 391,
+    "owner": {
+      "_id": "567787f950562140005e6776",
+      "name": "彭冠傑",
+      "profileImageUrl": "https://graph.facebook.com/970388543017141/picture"
+    },
+    "preOrderedPrice": 600,
+    "price": 650,
+    "proposalDueTime": "2016-02-28T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 40
+    },
+    "title": "設計風，手寫英文藝術字（基礎篇）",
+    "totalVideoLengthInSeconds": 4337,
+    "type": "COURSE",
+    "uniquename": "letteringbyjason"
+  },
+  {
+    "_id": "569b7c194ec4c609007d1f77",
+    "assignment": "569b7c194ec4c609007d1f78",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "5731cc73fad4ef0a006afbd4",
+      "url": "https://hahow.in/images/5731cc73fad4ef0a006afbd4"
+    },
+    "incubateTime": "2016-01-27T11:37:17.000Z",
+    "isReject": false,
+    "metaDescription": "原子筆能畫的絕對超乎你的想像，就讓我用隨手可得的原子筆，帶著你從線條開始，畫出專屬於你的療癒插畫作品！",
+    "numSoldTickets": 331,
+    "owner": {
+      "_id": "567e9dc450562140005e6def",
+      "name": "Minahonn御音本",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-2bcCT0aFs3g/AAAAAAAAAAI/AAAAAAAAABE/_TbBf92RV7A/photo.jpg"
+    },
+    "preOrderedPrice": 250,
+    "price": 300,
+    "proposalDueTime": "2016-02-26T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超簡單！原子筆也能輕鬆畫插畫",
+    "totalVideoLengthInSeconds": 5595,
+    "type": "COURSE",
+    "uniquename": "minahonn"
+  },
+  {
+    "_id": "568537d0e8ff9b20003cf504",
+    "assignment": "568537d0e8ff9b20003cf505",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "5686913be8ff9b20003cf582",
+      "url": "https://hahow.in/images/5686913be8ff9b20003cf582"
+    },
+    "incubateTime": "2016-01-27T10:59:17.000Z",
+    "isReject": false,
+    "metaDescription": "CRYENGINE 是一款高效、功能完整、非常龐大，尤以畫質見稱的遊戲引擎。\n這個系列的第一個課程會協助你快速入門，並理清使用引擎的工作流程。在這個階段裡不需要掛或編寫任何程式腳本，只要 step by step 就能完成一個美麗且可以互動的自然場景。",
+    "numSoldTickets": 109,
+    "owner": {
+      "_id": "5555ed8d2b07e80e00b1088d",
+      "name": "大春天",
+      "profileImageUrl": "https://graph.facebook.com/10205751495279630/picture",
+      "username": "bigspring"
+    },
+    "preOrderedPrice": 490,
+    "price": 600,
+    "proposalDueTime": "2016-02-26T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "CRYENGINE 獨立遊戲開發 - 場景建構篇",
+    "totalVideoLengthInSeconds": 12432,
+    "type": "COURSE",
+    "uniquename": "intro-to-cryengine"
+  },
+  {
+    "_id": "564a9e5242ee8d100033a172",
+    "assignment": "564a9e5242ee8d100033a173",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de818a9d1fa51000f94767",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "564ae10f42ee8d100033a1af",
+      "url": "https://hahow.in/images/564ae10f42ee8d100033a1af"
+    },
+    "incubateTime": "2016-01-26T15:06:28.000Z",
+    "isReject": false,
+    "metaDescription": "烏克麗麗練到一定程度以後，除了和弦刷刷刷、T12312，或看著 TAB 譜彈獨奏曲，是不是覺得還少了些什麼？\n\n是不是覺得「味道」跟高手有相當的差距？\n是不是覺得人被譜役使，好像被束縛住，很不自由的感覺？\n\n又常常聽到資深樂手會說到一種叫作 jam 的活動，大家一起自由地即興彈琴，彈出藍調濃濃的地下鄉愁，但是一看到其他樂手純熟老練的樂句，是不是心驚驚裹足不前呢？\n\n如果你常年有以上的疑問，想要讓自己烏克麗麗的琴技升級，能跟任何樂手一起自由奔放地快樂即興，也就是真正的「玩」音樂，這就是你需要的課程。透過本課程，Ukuman 學院的張六老師，將會分享如何學習現代所有流行音樂的共通根源 - 藍調 Blues。",
+    "numSoldTickets": 49,
+    "owner": {
+      "_id": "564a9e2642ee8d100033a171",
+      "name": "Shoichi Chou",
+      "profileImageUrl": "https://graph.facebook.com/10153439093029064/picture",
+      "username": "blukuman"
+    },
+    "preOrderedPrice": 600,
+    "price": 800,
+    "proposalDueTime": "2016-02-25T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 31
+    },
+    "title": "用烏克麗麗教你藍調即興 - 初級",
+    "totalVideoLengthInSeconds": 5313,
+    "type": "COURSE",
+    "uniquename": "bluesukuman"
+  },
+  {
+    "_id": "569110e6e8ff9b20003d0cbd",
+    "assignment": "569110e6e8ff9b20003d0cbe",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "57f1e8fddc8ff207002bc80e",
+      "url": "https://hahow.in/images/57f1e8fddc8ff207002bc80e"
+    },
+    "incubateTime": "2016-01-15T10:21:26.000Z",
+    "isReject": false,
+    "metaDescription": "主要利用螢幕錄影的方式，示範一張作品從草稿上色到完稿的過程，課程中會簡單介紹構圖時，角色創作的前置作業、上色方式、層次處理及簡單說明完稿後的編排，主要分成人物及背景兩個部分。",
+    "numSoldTickets": 154,
+    "owner": {
+      "_id": "568cd519e8ff9b20003d009e",
+      "name": "軒軒",
+      "profileImageUrl": "https://graph.facebook.com/951780084871678/picture",
+      "username": "xuanzeng"
+    },
+    "preOrderedPrice": 450,
+    "price": 500,
+    "proposalDueTime": "2016-02-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "數位技法 - 配色質感輕鬆搞定！",
+    "totalVideoLengthInSeconds": 7382,
+    "type": "COURSE",
+    "uniquename": "xuan-illustration"
+  },
+  {
+    "_id": "5645a03042ee8d1000339e47",
+    "assignment": "5645a03042ee8d1000339e48",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "58c4ec9ce207b607008f624b",
+      "url": "https://hahow.in/images/58c4ec9ce207b607008f624b"
+    },
+    "incubateTime": "2016-01-11T07:04:46.000Z",
+    "isReject": false,
+    "metaDescription": "一步步引導你創造自己的畫風格。學完之後你將：\n(1)能發展新風格，或是完善現有的風格。\n(2)畫畫過程中，知道如何引道自己將作品完成。\n(3)能用畫面表達情感、意涵以及展現創造力。\n(4)掌握畫面要表達的美感。\n累積3年繪畫與6年設計分析的心得，讓你用最簡單的繪畫工具一次學會！一起來創造你專屬的繪畫世界吧！",
+    "numSoldTickets": 91,
+    "owner": {
+      "_id": "563caf33423bdd0a001045b9",
+      "name": "查爾斯",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-JvAoF6ibQG4/AAAAAAAAAAI/AAAAAAAAgLc/9_MN9IBMYQI/photo.jpg",
+      "username": "lionclown"
+    },
+    "preOrderedPrice": 890,
+    "price": 1200,
+    "proposalDueTime": "2016-02-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "創造你專屬的繪畫風格",
+    "totalVideoLengthInSeconds": 7912,
+    "type": "COURSE",
+    "uniquename": "createyourstyle"
+  },
+  {
+    "_id": "568552e0e8ff9b20003cf518",
+    "assignment": "568552e0e8ff9b20003cf519",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "56a102754ec4c609007d2a75",
+      "url": "https://hahow.in/images/56a102754ec4c609007d2a75"
+    },
+    "incubateTime": "2016-01-07T13:08:24.000Z",
+    "isReject": false,
+    "metaDescription": "學習角色設計時最重要的第一步是對人體結構的了解，進而延伸進角色動態表演，然後將角色帶入透視的空間中；對人體結構的理解可以增加我們在設計衣服或盔甲時的合理性，也能更自然的表現布紋，讓角色更自然真實。",
+    "numSoldTickets": 664,
+    "owner": {
+      "_id": "567f532150562140005e6e6b",
+      "name": "楊鴻仁",
+      "profileImageUrl": "https://graph.facebook.com/1237652742917597/picture",
+      "username": "younglsc"
+    },
+    "preOrderedPrice": 800,
+    "price": 900,
+    "proposalDueTime": "2016-02-06T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 40
+    },
+    "title": "角色設計1_人體骨架結構",
+    "totalVideoLengthInSeconds": 41425,
+    "type": "COURSE",
+    "uniquename": "young-art-cd01"
+  },
+  {
+    "_id": "56402c70423bdd0a00104993",
+    "assignment": "56402c70423bdd0a00104994",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "565d84ed36328c10000aab39",
+      "url": "https://hahow.in/images/565d84ed36328c10000aab39"
+    },
+    "incubateTime": "2016-01-05T06:08:56.000Z",
+    "isReject": false,
+    "metaDescription": "放下對繪畫的成見，專心看眼前\n拋開\"人就該如何畫\"的想法\n用線條抓出對方的五官、表情、肢體的靈魂\n搭配簡單復合媒材，記下由你感受到的他",
+    "numSoldTickets": 137,
+    "owner": {
+      "_id": "56402c6a423bdd0a00104992",
+      "name": "黃湘",
+      "profileImageUrl": "https://graph.facebook.com/1198866190129941/picture",
+      "username": "mindslow"
+    },
+    "preOrderedPrice": 250,
+    "price": 300,
+    "proposalDueTime": "2016-02-04T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "他抓得住我！自由筆觸繪出人像靈魂",
+    "totalVideoLengthInSeconds": 5366,
+    "type": "COURSE",
+    "uniquename": "catchmysoulfrompaint"
+  },
+  {
+    "_id": "56385f4e423bdd0a00103c3c",
+    "assignment": "56385f4e423bdd0a00103c3d",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "5670feca13ef621200899ea8",
+      "url": "https://hahow.in/images/5670feca13ef621200899ea8"
+    },
+    "incubateTime": "2016-01-04T04:37:03.000Z",
+    "isReject": false,
+    "metaDescription": "從固有色的配色開始，透過色彩心理學，搭配出好看且雅致的顏色！\n利用圖層屬性的關係，把顏色打進作品中，渲染出真實且漂亮的顏色。\n如何運用打光的技巧，把畫面做出更有戲劇性的張力變化！\n最後，運用特效，讓整體作品畫面做更進一步的提升。",
+    "numSoldTickets": 574,
+    "owner": {
+      "_id": "56385f48423bdd0a00103c3b",
+      "name": "藍 國峰",
+      "profileImageUrl": "https://graph.facebook.com/1126459127366056/picture",
+      "username": "bluebobo3333"
+    },
+    "preOrderedPrice": 1200,
+    "price": 1500,
+    "proposalDueTime": "2016-02-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "怪獸工場 - 色彩光學篇",
+    "totalVideoLengthInSeconds": 14849,
+    "type": "COURSE",
+    "uniquename": "monsters2"
+  },
+  {
+    "_id": "5670dae013ef621200899e68",
+    "assignment": "5670dae013ef621200899e69",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "5677de7850562140005e682d",
+      "url": "https://hahow.in/images/5677de7850562140005e682d"
+    },
+    "incubateTime": "2016-01-04T04:36:56.000Z",
+    "isReject": false,
+    "metaDescription": "灰階上色絕對是近代最為主流的繪畫技巧，他可以讓你因應各種工作及創作上所需。\n大家可以把灰階當成素描來看待，素描是一切繪畫的基礎，也是最重要的靈魂！\n但在電繪中，我們可以把一張素描，拆解成多個圖層，一一攻破，搭上正確 2D 至3D的繪畫觀念，要畫出漂亮的灰階，絕對不難，只差你願意下多少苦工。",
+    "numSoldTickets": 724,
+    "owner": {
+      "_id": "56385f48423bdd0a00103c3b",
+      "name": "藍 國峰",
+      "profileImageUrl": "https://graph.facebook.com/1126459127366056/picture",
+      "username": "bluebobo3333"
+    },
+    "preOrderedPrice": 1200,
+    "price": 1500,
+    "proposalDueTime": "2016-02-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "怪獸工場 - 灰階觀念篇",
+    "totalVideoLengthInSeconds": 18546,
+    "type": "COURSE",
+    "uniquename": "monsters"
+  },
+  {
+    "_id": "563ea99a423bdd0a001047ed",
+    "assignment": "563ea99a423bdd0a001047ee",
+    "categories": [
+      "55de81a19d1fa51000f9476d",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "567291ba50562140005e627f",
+      "url": "https://hahow.in/images/567291ba50562140005e627f"
+    },
+    "incubateTime": "2015-12-17T11:11:46.000Z",
+    "isReject": false,
+    "metaDescription": "「WILLIAMS SONOMA」是美國加州眾多酒莊中的其中之一，目前販售的商品多與飲食和家居有關，當然也與知名廚師合作推出食譜書籍。這本點心書只是其中一本，食譜作者王安琪邀請有興趣的同好一起參與實作，並上傳您的作品，雖然無法同一時間、同一地點下廚，但是透過持續不斷的練習，我們都可以磨練出令自己滿意的成績。",
+    "numSoldTickets": 68,
+    "owner": {
+      "_id": "563ea997423bdd0a001047ec",
+      "name": "王安琪",
+      "profileImageUrl": "https://graph.facebook.com/1633632903576984/picture"
+    },
+    "preOrderedPrice": 300,
+    "price": 600,
+    "proposalDueTime": "2016-01-16T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "實作「冬季甜點首部曲」DESSERT - WILLIAMS SONOMA",
+    "totalVideoLengthInSeconds": 7242,
+    "type": "COURSE"
+  },
+  {
+    "_id": "5638945e423bdd0a00103c4f",
+    "assignment": "5638945e423bdd0a00103c50",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "56393109423bdd0a00103cb1",
+      "url": "https://hahow.in/images/56393109423bdd0a00103cb1"
+    },
+    "incubateTime": "2015-12-16T08:43:09.000Z",
+    "isReject": false,
+    "metaDescription": "音樂是一種語言，用最容易上手的打擊樂器來聊天吧！我將跟大家分享這 15 年來的教學、錄音與演出經驗，學習正確的觀念，讓你更有效率的學會演奏木箱鼓，無論是流行音樂、拉丁音樂、非洲音樂、佛朗明歌，木箱鼓都能有獨特的詮釋方式,演奏同時也刺激了你手指的末梢神經,提升你的免疫力，更重要的學習方向是『即興演奏』喔！",
+    "numSoldTickets": 67,
+    "owner": {
+      "_id": "56389455423bdd0a00103c4e",
+      "name": "吳政君",
+      "profileImageUrl": "https://graph.facebook.com/10206399299919721/picture",
+      "username": "alexjazz01"
+    },
+    "preOrderedPrice": 450,
+    "price": 500,
+    "proposalDueTime": "2016-01-15T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "打出靈魂的節奏 - Cajon 木箱鼓 系列入門 1",
+    "totalVideoLengthInSeconds": 3032,
+    "type": "COURSE"
+  },
+  {
+    "_id": "56499b1542ee8d100033a0fa",
+    "assignment": "56499b1542ee8d100033a0fb",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "564f0d1c42ee8d100033a7eb",
+      "url": "https://hahow.in/images/564f0d1c42ee8d100033a7eb"
+    },
+    "incubateTime": "2015-12-08T09:09:35.000Z",
+    "isReject": false,
+    "metaDescription": "用插畫去體驗不同的旅行，一堂你也可以的手繪插畫。怎麼選擇工具？怎麼取景？在異地畫圖遇到的各種趣事。不論是想初學繪圖、想記錄旅行或想成為插畫家，都可以從這一小時的課程得到啓發！",
+    "numSoldTickets": 539,
+    "owner": {
+      "_id": "56496a6f42ee8d100033a0d6",
+      "name": "Peichi Wu",
+      "profileImageUrl": "https://hahow.in/images/57b3f6d3c7425c0700c676d9",
+      "username": "peichiwu"
+    },
+    "preOrderedPrice": 400,
+    "price": 500,
+    "proposalDueTime": "2016-01-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 35
+    },
+    "title": "旅行中手繪建築插畫，你也可以！",
+    "totalVideoLengthInSeconds": 7387,
+    "type": "COURSE",
+    "uniquename": "travel-drawing"
+  },
+  {
+    "_id": "563b54ff423bdd0a00103e90",
+    "assignment": "563b54ff423bdd0a00103e91",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81a49d1fa51000f9476e",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "564df55b42ee8d100033a572",
+      "url": "https://hahow.in/images/564df55b42ee8d100033a572"
+    },
+    "incubateTime": "2015-12-05T07:34:03.000Z",
+    "isReject": false,
+    "metaDescription": "香蕉用各種學習方式，與輕鬆好記的方法，讓你快速將 Beatbox 活用",
+    "numSoldTickets": 289,
+    "owner": {
+      "_id": "563b5479423bdd0a00103e8f",
+      "name": "王俊傑",
+      "profileImageUrl": "https://graph.facebook.com/10204110211070518/picture"
+    },
+    "preOrderedPrice": 300,
+    "price": 400,
+    "proposalDueTime": "2016-01-04T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "超簡單讓你學會 Beatbox",
+    "totalVideoLengthInSeconds": 2444,
+    "type": "COURSE",
+    "uniquename": "bananabeatbox"
+  },
+  {
+    "_id": "564b945342ee8d100033a216",
+    "assignment": "564b945342ee8d100033a217",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "565ac10236328c10000aa9a5",
+      "url": "https://hahow.in/images/565ac10236328c10000aa9a5"
+    },
+    "incubateTime": "2015-12-03T15:31:59.000Z",
+    "isReject": false,
+    "metaDescription": "學會如何用 AI 軟體畫出自己的原創角色，再結合 PS 簡單的讓你的角色動起來！",
+    "numSoldTickets": 374,
+    "owner": {
+      "_id": "564b944942ee8d100033a215",
+      "name": "Momo Wa",
+      "profileImageUrl": "https://graph.facebook.com/933378296739741/picture",
+      "username": "momowa"
+    },
+    "preOrderedPrice": 450,
+    "price": 600,
+    "proposalDueTime": "2016-01-02T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "用 Illustrator 畫出你的原創角色",
+    "totalVideoLengthInSeconds": 7700,
+    "type": "COURSE",
+    "uniquename": "momowa-bacteria"
+  },
+  {
+    "_id": "5639fe25423bdd0a00103d55",
+    "assignment": "5639fe25423bdd0a00103d56",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "563f8f0e423bdd0a00104937",
+      "url": "https://hahow.in/images/563f8f0e423bdd0a00104937"
+    },
+    "incubateTime": "2015-11-23T01:35:09.000Z",
+    "isReject": false,
+    "metaDescription": "學好畫圖最基本的就是素描，從比例、結構、明暗開始練習，熟練之後畫什麼就像什麼，還能輕鬆的變化出屬於自己的風格喔！",
+    "numSoldTickets": 222,
+    "owner": {
+      "_id": "5639fe0f423bdd0a00103d54",
+      "name": "YuanChi",
+      "profileImageUrl": "https://graph.facebook.com/1177272388953671/picture",
+      "username": "yuanchisart"
+    },
+    "preOrderedPrice": 250,
+    "price": 350,
+    "proposalDueTime": "2015-12-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "臉部素描－輕鬆打好人物畫基礎",
+    "totalVideoLengthInSeconds": 1447,
+    "type": "COURSE",
+    "uniquename": "yuanchis-artclass"
+  },
+  {
+    "_id": "56082612c61d930a00456139",
+    "assignment": "56082612c61d930a0045613a",
+    "categories": [
+      "55de81a89d1fa51000f9476f",
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "563c6173423bdd0a0010452d",
+      "url": "https://hahow.in/images/563c6173423bdd0a0010452d"
+    },
+    "incubateTime": "2015-11-06T07:34:35.000Z",
+    "isReject": false,
+    "metaDescription": "甜甜圈吊飾是使用手作材料裡最先進的材質”發泡劑“來設計完成的精緻飾品！除了學習發泡技巧外，與異材質的緞帶相結合，並可以學習珠子串起後如何設計出與眾不同的裝飾，這樣你也可以作出獨一無二的飾品喔！完成後的作品當送禮或是商品販賣都非常恰當的。",
+    "numSoldTickets": 35,
+    "owner": {
+      "_id": "5608260ec61d930a00456138",
+      "name": "劉美幸Misaki",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-ONBKVG0rtVo/AAAAAAAAAAI/AAAAAAAAb2k/ZoOIk-I_uFw/photo.jpg"
+    },
+    "preOrderedPrice": 200,
+    "price": 350,
+    "proposalDueTime": "2015-12-06T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "一學就會的澎澎甜甜圈精緻吊飾",
+    "totalVideoLengthInSeconds": 1495,
+    "type": "COURSE",
+    "uniquename": "art168gogo"
+  },
+  {
+    "_id": "55fcf121160d981000089788",
+    "assignment": "55fcf121160d981000089789",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "55fcf4e8160d98100008978d",
+      "url": "https://hahow.in/images/55fcf4e8160d98100008978d"
+    },
+    "incubateTime": "2015-10-19T11:05:52.795Z",
+    "isReject": false,
+    "metaDescription": "構圖是一門豐富有趣的課題，我將用簡單的實作來示範構思過程 - 構圖布局 - 重點拿捏 - 光影分布 - 細節位置等架構來作為教學重點。",
+    "numSoldTickets": 114,
+    "owner": {
+      "_id": "55fcf118160d981000089787",
+      "name": "鍾其祐",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-JfRQEG7a4dE/AAAAAAAAAAI/AAAAAAAAABk/8B4tDIbU1EE/photo.jpg"
+    },
+    "preOrderedPrice": 250,
+    "price": 300,
+    "proposalDueTime": "2015-11-18T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "讓您的畫作說故事！圖像感情的經營之道",
+    "totalVideoLengthInSeconds": 3696,
+    "type": "COURSE",
+    "uniquename": "jiyou2902072"
+  },
+  {
+    "_id": "55e66f33fa223d100058f5f7",
+    "assignment": "55e66f33fa223d100058f5f8",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81b79d1fa51000f94771"
+    ],
+    "coverImage": {
+      "_id": "55f1c96b49855710007f7061",
+      "url": "https://hahow.in/images/55f1c96b49855710007f7061"
+    },
+    "incubateTime": "2015-10-18T08:35:40.086Z",
+    "isReject": false,
+    "metaDescription": "你常在聚會的時候覺得尷尬嗎？或是不知道要怎麼和陌生人聊天？來學破冰魔術就對拉，在好學校呢，我要教大家最實用的魔術， 不論是在餐廳、酒吧、辦公室，隨手可得的東西就能拿來變魔術。",
+    "numSoldTickets": 95,
+    "owner": {
+      "_id": "55c80c187b4d99100011a4f4",
+      "name": "Po-Han Huang",
+      "profileImageUrl": "https://graph.facebook.com/10204874628606591/picture"
+    },
+    "preOrderedPrice": 250,
+    "price": 350,
+    "proposalDueTime": "2015-11-17T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超實用！暖場破冰魔術",
+    "totalVideoLengthInSeconds": 3637,
+    "type": "COURSE",
+    "uniquename": "pohanmagic"
+  },
+  {
+    "_id": "5615f2b40eb66b0a00f16f6b",
+    "assignment": "5615f2b40eb66b0a00f16f6c",
+    "categories": [
+      "55de818a9d1fa51000f94767",
+      "55de81b79d1fa51000f94771"
+    ],
+    "coverImage": {
+      "_id": "5615f2eb0eb66b0a00f16f6f",
+      "url": "https://hahow.in/images/5615f2eb0eb66b0a00f16f6f"
+    },
+    "incubateTime": "2015-10-15T10:23:34.341Z",
+    "isReject": false,
+    "metaDescription": "此課程會以深入淺出的方式帶你認識西洋棋，探索西洋棋的奧秘。國手老師會分享高手如何下棋、如何思考下一步；分享如何將下棋經驗應用於日常生活中，提升工作效率。一起來加入風行全球的西洋棋行列吧 !",
+    "numSoldTickets": 90,
+    "owner": {
+      "_id": "55a4c48a7b4d991000119570",
+      "name": "楊元翰",
+      "profileImageUrl": "https://graph.facebook.com/10155712802185234/picture"
+    },
+    "preOrderedPrice": 350,
+    "price": 450,
+    "proposalDueTime": "2015-11-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "西洋棋國手教你下西洋棋",
+    "totalVideoLengthInSeconds": 6054,
+    "type": "COURSE",
+    "uniquename": "chessheart"
+  },
+  {
+    "_id": "5606262ac61d930a00455fad",
+    "assignment": "5606262ac61d930a00455fae",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "5606299ac61d930a00455fb4",
+      "url": "https://hahow.in/images/5606299ac61d930a00455fb4"
+    },
+    "incubateTime": "2015-10-09T04:39:45.327Z",
+    "isReject": false,
+    "metaDescription": "此課程為預購（透視超訣竅！如何運用透視畫出複雜的建築 (上)）的第二部份課程。\n是由第一課程的透視以及視角延深後的課程，注重在場景的繪製以及細節上。",
+    "numSoldTickets": 549,
+    "owner": {
+      "_id": "55e3dcb4fa223d100058f3ca",
+      "name": "程威誌",
+      "profileImageUrl": "https://graph.facebook.com/868076636620014/picture"
+    },
+    "preOrderedPrice": 300,
+    "price": 500,
+    "proposalDueTime": "2015-11-08T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "透視超訣竅(下)  如何運用透視畫出複雜的建築",
+    "totalVideoLengthInSeconds": 2174,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55e82d8efa223d100058f6f4",
+    "assignment": "55e82d8efa223d100058f6f5",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "55ffc7a4160d9810000899ae",
+      "url": "https://hahow.in/images/55ffc7a4160d9810000899ae"
+    },
+    "incubateTime": "2015-09-25T08:10:21.600Z",
+    "isReject": false,
+    "metaDescription": "由淺入深，清新風格插畫入門。\n以如何使用 Photoshop 畫出有手繪感的插圖為主。\n成果作品可應用於賀卡，也能用於明信片、書籤…等。",
+    "numSoldTickets": 367,
+    "owner": {
+      "_id": "55e7f6d1fa223d100058f6da",
+      "name": "木綿",
+      "profileImageUrl": "https://lh4.googleusercontent.com/-Wfx4BJvUeCM/AAAAAAAAAAI/AAAAAAAAAB0/I34WNUZ3gv0/photo.jpg"
+    },
+    "preOrderedPrice": 250,
+    "price": 300,
+    "proposalDueTime": "2015-10-25T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "用電腦畫出手繪風賀卡！",
+    "totalVideoLengthInSeconds": 2974,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55ea1ea8fa223d100058f7df",
+    "assignment": "55ea1ea8fa223d100058f7e0",
+    "categories": [
+      "55de81a49d1fa51000f9476e",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "55f7db1c160d9810000893c1",
+      "url": "https://hahow.in/images/55f7db1c160d9810000893c1"
+    },
+    "incubateTime": "2015-09-17T07:18:37.606Z",
+    "isReject": false,
+    "metaDescription": "想真正學會吉他、了解音樂架構，而不再只是上網找六線譜爬格子嗎？從基礎樂理、和絃組成到自彈自彈自唱，吉他知識跟技巧的完整攻略，讓你具備「聽」到一首歌就能夠把它「彈」奏出來甚至是「寫」成譜記錄下來的能力。分成初、中、進階三段，相當於傳統一對一課程一年半的學習內容，在線上完整呈現。",
+    "numSoldTickets": 346,
+    "owner": {
+      "_id": "55d6c7eafe5f710a00ac7aa1",
+      "name": "林子雲",
+      "profileImageUrl": "https://hahow.in/images/5875ef9e58ab57070085b66b",
+      "username": "tzuyun"
+    },
+    "preOrderedPrice": 500,
+    "price": 600,
+    "proposalDueTime": "2015-10-17T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "吉他從零開始 - 初級篇",
+    "totalVideoLengthInSeconds": 5383,
+    "type": "COURSE",
+    "uniquename": "gtgetstart"
+  },
+  {
+    "_id": "55e671dbfa223d100058f602",
+    "assignment": "55e671dbfa223d100058f603",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "55e93ea6fa223d100058f797",
+      "url": "https://hahow.in/images/55e93ea6fa223d100058f797"
+    },
+    "incubateTime": "2015-09-10T06:40:38.310Z",
+    "isReject": false,
+    "metaDescription": "\u001d色彩、明暗都來自於光線，因此在不同光線的情況下都會影響畫面的色調、氣氛\u001c，研究光線可以徹底了解顏色跟光影的邏輯，進而提昇作品的質感。",
+    "numSoldTickets": 138,
+    "owner": {
+      "_id": "55e42405fa223d100058f41d",
+      "name": "無多",
+      "profileImageUrl": "https://graph.facebook.com/1146223452059600/picture",
+      "username": "wuduo"
+    },
+    "preOrderedPrice": 600,
+    "price": 800,
+    "proposalDueTime": "2015-10-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "電腦繪圖插畫技法 3：光學篇",
+    "totalVideoLengthInSeconds": 4181,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55e66f96fa223d100058f5f9",
+    "assignment": "55e66f96fa223d100058f5fa",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "55e93e92fa223d100058f796",
+      "url": "https://hahow.in/images/55e93e92fa223d100058f796"
+    },
+    "incubateTime": "2015-09-10T06:40:31.516Z",
+    "isReject": false,
+    "metaDescription": "電腦繪圖\u001d不像傳統繪畫會受限於顏料本身的物理特性，選色非常自由，想要什麼顏色就什麼顏色，但也因此如果不研究色彩學、光學，不知道如何去選色的話，很容易畫出不好看的顏色。這門課程將以色彩學的知識為起點，去分析如何才能畫出好看的顏色。",
+    "numSoldTickets": 191,
+    "owner": {
+      "_id": "55e42405fa223d100058f41d",
+      "name": "無多",
+      "profileImageUrl": "https://graph.facebook.com/1146223452059600/picture",
+      "username": "wuduo"
+    },
+    "preOrderedPrice": 600,
+    "price": 800,
+    "proposalDueTime": "2015-10-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "電腦繪圖插畫技法 2：色彩篇",
+    "totalVideoLengthInSeconds": 4456,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55e663d7fa223d100058f5cc",
+    "assignment": "55e663d7fa223d100058f5cd",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "55e66e7efa223d100058f5f6",
+      "url": "https://hahow.in/images/55e66e7efa223d100058f5f6"
+    },
+    "incubateTime": "2015-09-10T06:39:28.456Z",
+    "isReject": false,
+    "metaDescription": "「灰階上色法」是現在很流行的一種電腦繪圖繪製方式，因為可以更有邏輯的拆解每個畫圖步驟，讓作品可以更容易提昇水準，畫灰階的過程其實跟素描很像，理解素描的原理同時利用電腦繪圖的強大工具，是本課程的主軸。",
+    "numSoldTickets": 224,
+    "owner": {
+      "_id": "55e42405fa223d100058f41d",
+      "name": "無多",
+      "profileImageUrl": "https://graph.facebook.com/1146223452059600/picture",
+      "username": "wuduo"
+    },
+    "preOrderedPrice": 600,
+    "price": 800,
+    "proposalDueTime": "2015-10-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "電腦繪圖插畫技法 1：灰階篇",
+    "totalVideoLengthInSeconds": 4371,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55e3dccbfa223d100058f3cb",
+    "assignment": "55e3dccbfa223d100058f3cc",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "55e3df17fa223d100058f3cd",
+      "url": "https://hahow.in/images/55e3df17fa223d100058f3cd"
+    },
+    "incubateTime": "2015-09-07T15:05:12.380Z",
+    "isReject": false,
+    "metaDescription": "從一點透視，延伸學習到無限點透視。\n從這門課可以讓你理解到透視的原理，\n讓你快速且直覺性地畫出任何你想畫的建築物！\n層層堆疊畫出自己的透視感。",
+    "numSoldTickets": 852,
+    "owner": {
+      "_id": "55e3dcb4fa223d100058f3ca",
+      "name": "程威誌",
+      "profileImageUrl": "https://graph.facebook.com/868076636620014/picture"
+    },
+    "preOrderedPrice": 300,
+    "price": 500,
+    "proposalDueTime": "2015-10-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 40
+    },
+    "title": "透視超訣竅(上)  如何運用透視畫出複雜的建築",
+    "totalVideoLengthInSeconds": 2226,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55c636d27b4d99100011a4aa",
+    "assignment": "55c636d27b4d99100011a4ab",
+    "categories": [
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "55de8d709d1fa51000f94783",
+      "url": "https://hahow.in/images/55de8d709d1fa51000f94783"
+    },
+    "incubateTime": "2015-08-13T15:13:22.000Z",
+    "isReject": false,
+    "metaDescription": "挑相機的時候，總是看不懂規格表嗎？好奇怎麼拍片才會有人分享嗎？這門課程帶你從基本的數位知識規格開始認識起，以及介紹簡單的收音方法，並且在分析設備在錄影過程中的優缺點後，開始進行正式拍片教學！",
+    "numSoldTickets": 178,
+    "owner": {
+      "_id": "55c634cf7b4d99100011a4a9",
+      "name": "曾世豐",
+      "profileImageUrl": "https://graph.facebook.com/1093288850700980/picture",
+      "username": "juhnhood"
+    },
+    "preOrderedPrice": 400,
+    "price": 500,
+    "proposalDueTime": "2015-09-12T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "自己當導演！全方位微電影創作教學",
+    "totalVideoLengthInSeconds": 7674,
+    "type": "COURSE",
+    "uniquename": "juhnhood-moviemaking"
+  },
+  {
+    "_id": "5593f992cfe8320b00ccd4c4",
+    "assignment": "5593f992cfe8320b00ccd4c5",
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "559418cccfe8320b00ccd4da",
+      "url": "https://hahow.in/images/559418cccfe8320b00ccd4da"
+    },
+    "incubateTime": "2015-07-30T03:38:25.000Z",
+    "isReject": false,
+    "metaDescription": "教你如何理解透視，習得如何應用幾何元素構成產品概念，透過練習實作訓練，讓你看實際物體時能掌握透視，並利用教學的技法，快速構思想法進行素描上稿（Sketch）。這堂課對剛入門產品設計的學生，或是對於產品發想有興趣的朋友，有實質上的幫助。",
+    "numSoldTickets": 115,
+    "owner": {
+      "_id": "54f810e200a1420f0068283a",
+      "name": "Ago Chen",
+      "profileImageUrl": "https://graph.facebook.com/10205025657135656/picture"
+    },
+    "preOrderedPrice": 150,
+    "price": 300,
+    "proposalDueTime": "2015-08-29T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "掌握產品素描 - ID Sketch（入門）",
+    "totalVideoLengthInSeconds": 5135,
+    "type": "COURSE",
+    "uniquename": "ago-sketch"
+  },
+  {
+    "_id": "559a217dcfe8320b00ccd75b",
+    "assignment": "559a217dcfe8320b00ccd75c",
+    "categories": [
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "55b982a97b4d99100011a082",
+      "url": "https://hahow.in/images/55b982a97b4d99100011a082"
+    },
+    "incubateTime": "2015-07-29T06:49:24.000Z",
+    "isReject": false,
+    "metaDescription": "四大和弦(C-Am-Dm-G7)雖然已經足以打敗天下無敵手，但是如果想更進一步，還是得知道怎麼去「改裝」和弦。我將告訴大家一些改裝和弦的技巧,，讓大家一窺編曲的小訣竅。在影片教學中，大家還可以和「以莉高露」一起練習，聽以莉分享是怎麼學習新的節奏，並應用在她的創作上！",
+    "numSoldTickets": 60,
+    "owner": {
+      "_id": "5593a25dcfe8320b00ccd4af",
+      "name": "ShuYu Peng",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-2Btbm2IMhDA/AAAAAAAAAAI/AAAAAAAAKiY/p175wusbD5w/photo.jpg"
+    },
+    "preOrderedPrice": 200,
+    "price": 250,
+    "proposalDueTime": "2015-08-28T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "和以莉高露一起學吉他",
+    "totalVideoLengthInSeconds": 3203,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55b0ba667b4d991000119a92",
+    "assignment": "55b0ba667b4d991000119a93",
+    "categories": [
+      "55de819a9d1fa51000f9476b"
+    ],
+    "coverImage": {
+      "_id": "55b0c6347b4d991000119a98",
+      "url": "https://hahow.in/images/55b0c6347b4d991000119a98"
+    },
+    "incubateTime": "2015-07-24T13:46:00.000Z",
+    "isReject": false,
+    "metaDescription": "懷孕是一個女人一生當中最辛苦的時候。有時候會水腫、腰酸背痛、精神不濟、失眠甚至心情低落等不舒適的狀況。這段時間其實透過瑜伽一些伸展動作，可以適度的紓緩身體的不適，並且讓身體和心靈獲得平靜和愉悅。因此針對懷孕的各個時期，我們設計了不同的孕婦瑜伽課，讓許多需要舒緩身心的孕婦媽媽們在家就可學習。",
+    "numSoldTickets": 51,
+    "owner": {
+      "_id": "55b0ba1e7b4d991000119a91",
+      "name": "唐幼馨",
+      "profileImageUrl": "https://lh3.googleusercontent.com/-jdse0qRrZDA/AAAAAAAAAAI/AAAAAAAAABw/biJuYJ3qi0A/photo.jpg"
+    },
+    "preOrderedPrice": 399,
+    "price": 499,
+    "proposalDueTime": "2015-07-30T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超療癒！唐幼馨的孕婦瑜伽",
+    "totalVideoLengthInSeconds": 4224,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55ae66017b4d991000119959",
+    "assignment": "55ae66017b4d99100011995a",
+    "categories": [
+      "55de819a9d1fa51000f9476b"
+    ],
+    "coverImage": {
+      "_id": "5858cc65f528320700f8c0b2",
+      "url": "https://hahow.in/images/5858cc65f528320700f8c0b2"
+    },
+    "incubateTime": "2015-07-24T04:14:23.000Z",
+    "isReject": false,
+    "metaDescription": "火箭瑜珈第二級加入了許多進階的體位法，包含深入的後彎、舒服的開髖、經典的手平衡與流暢串連，當然也少不了各式各樣的倒立變化。完整練習火箭瑜珈，你會發現自己遠比所想像的更強壯。開始吧！一切都會不一樣！",
+    "numSoldTickets": 41,
+    "owner": {
+      "_id": "55ae33ee7b4d99100011990c",
+      "name": "Rainie Chiang",
+      "profileImageUrl": "https://graph.facebook.com/10204715925845520/picture",
+      "username": "rainieyoga"
+    },
+    "preOrderedPrice": 250,
+    "price": 1200,
+    "proposalDueTime": "2015-08-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "火箭飛船遊太空 Rocket 2",
+    "totalVideoLengthInSeconds": 3752,
+    "type": "COURSE",
+    "uniquename": "rocketyoga2"
+  },
+  {
+    "_id": "55ae34247b4d99100011990d",
+    "assignment": "55ae34247b4d99100011990e",
+    "categories": [
+      "55de819a9d1fa51000f9476b"
+    ],
+    "coverImage": {
+      "_id": "5858cc3ff528320700f8c0b1",
+      "url": "https://hahow.in/images/5858cc3ff528320700f8c0b1"
+    },
+    "incubateTime": "2015-07-24T04:14:17.000Z",
+    "isReject": false,
+    "metaDescription": "火箭瑜珈第一級包含了許多經典體位法，著重加強大腿、腹部、肩膀的力量，流暢有系統的動作設計練習會讓您逐漸擁有肌力、柔軟度和平衡能力。即使是簡易版的替代動作，仍包含了許多核心訓練的要素，堅持不放棄就會穩定的進步！",
+    "numSoldTickets": 45,
+    "owner": {
+      "_id": "55ae33ee7b4d99100011990c",
+      "name": "Rainie Chiang",
+      "profileImageUrl": "https://graph.facebook.com/10204715925845520/picture",
+      "username": "rainieyoga"
+    },
+    "preOrderedPrice": 250,
+    "price": 1200,
+    "proposalDueTime": "2015-08-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "火箭發射飛行中 Rocket 1",
+    "totalVideoLengthInSeconds": 3016,
+    "type": "COURSE",
+    "uniquename": "rocketyoga1"
+  },
+  {
+    "_id": "55ae36c87b4d99100011990f",
+    "assignment": "55ae36c87b4d991000119910",
+    "categories": [
+      "55de819a9d1fa51000f9476b"
+    ],
+    "coverImage": {
+      "_id": "5858ccbff528320700f8c0b3",
+      "url": "https://hahow.in/images/5858ccbff528320700f8c0b3"
+    },
+    "incubateTime": "2015-07-24T04:14:07.000Z",
+    "isReject": false,
+    "metaDescription": "火箭瑜珈是是傳統Ashtanga的改版，屬於動態且節奏比較快的瑜珈，在核心訓練後會進行各種倒立的練習，但隨時可以依照自己身體能力，選擇合適的替代或進階動作。此課程包含五個單元：呼吸、鎖印、凝視點、流暢串連、核心與倒立。",
+    "numSoldTickets": 50,
+    "owner": {
+      "_id": "55ae33ee7b4d99100011990c",
+      "name": "Rainie Chiang",
+      "profileImageUrl": "https://graph.facebook.com/10204715925845520/picture",
+      "username": "rainieyoga"
+    },
+    "preOrderedPrice": 250,
+    "price": 1200,
+    "proposalDueTime": "2015-08-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "火箭準備起飛了 Yoga Basics",
+    "totalVideoLengthInSeconds": 2180,
+    "type": "COURSE",
+    "uniquename": "yogabasics"
+  },
+  {
+    "_id": "55ae208a7b4d9910001198f2",
+    "assignment": "55ae208a7b4d9910001198f3",
+    "categories": [
+      "55de81a89d1fa51000f9476f"
+    ],
+    "coverImage": {
+      "_id": "55ae2b1a7b4d991000119903",
+      "url": "https://hahow.in/images/55ae2b1a7b4d991000119903"
+    },
+    "incubateTime": "2015-07-22T03:55:27.000Z",
+    "isReject": false,
+    "metaDescription": "這堂玩具製作課，家長們可以帶著孩子一起手作，把生活中原本是廢棄不要的垃圾例如餅乾盒、舊報紙、保特瓶、塑膠袋等等，變成奇妙有趣的小玩具，像是空氣槍、迴旋飛鏢、降落傘等，都可以用非常寓教於樂的方式，跟朋友或小孩一起嘗試，玩樂科學！",
+    "numSoldTickets": 97,
+    "owner": {
+      "_id": "55ae202e7b4d9910001198f1",
+      "name": "李麥克",
+      "profileImageUrl": "https://lh3.googleusercontent.com/-MpkoUp9Ky8k/AAAAAAAAAAI/AAAAAAAAAA0/9FQSe-D9nro/photo.jpg"
+    },
+    "preOrderedPrice": 99,
+    "price": 199,
+    "proposalDueTime": "2015-07-28T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超好玩！李麥克的親子玩具製作",
+    "totalVideoLengthInSeconds": 1584,
+    "type": "COURSE"
+  },
+  {
+    "_id": "5591501e6dec460f00111314",
+    "assignment": "5591501e6dec460f00111315",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "559a4d22cfe8320b00ccd777",
+      "url": "https://hahow.in/images/559a4d22cfe8320b00ccd777"
+    },
+    "incubateTime": "2015-07-21T12:45:34.000Z",
+    "isReject": false,
+    "metaDescription": "「不會畫圖的人，如何動筆畫出可愛的動物呢？」強尼的動物插畫課程，就是教大家是以簡單隨性的方式，開始愉快的畫畫創作！強尼自己也是非美術相關科系的機械系畢業的，所以不用擔心沒有美術底子或技術什麼的，讓我們再次重拾那種純真創作的感覺吧！不論是小孩子還是大人都非常適合唷！",
+    "numSoldTickets": 49,
+    "owner": {
+      "_id": "558a6d366dec460f00111098",
+      "name": "Chen-Yu Wu",
+      "profileImageUrl": "https://graph.facebook.com/10203314306618205/picture"
+    },
+    "preOrderedPrice": 200,
+    "price": 300,
+    "proposalDueTime": "2015-08-20T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "動物插畫",
+    "totalVideoLengthInSeconds": 5658,
+    "type": "COURSE",
+    "uniquename": "johnny-illustration"
+  },
+  {
+    "_id": "55a4d6397b4d99100011957d",
+    "assignment": "55a4d6397b4d99100011957e",
+    "categories": [
+      "55de81a19d1fa51000f9476d"
+    ],
+    "coverImage": {
+      "_id": "55a4eea47b4d991000119598",
+      "url": "https://hahow.in/images/55a4eea47b4d991000119598"
+    },
+    "incubateTime": "2015-07-14T14:00:14.000Z",
+    "isReject": false,
+    "metaDescription": "從十八歲入行，料理年資到今年剛好滿30年，現職知名日式料理餐廳 - 丸壽司的王棠鉒，將教導大家日式料理的製作精隨，透過五道經典的平民料理「親子丼」、「紅燒魚」、「炸蝦丼」、「和風涼麵」還有「花壽司＋飯糰」，讓你在家用簡單的食材，也能做出健康又動人的好味道！",
+    "numSoldTickets": 42,
+    "owner": {
+      "_id": "55a4cb297b4d99100011957c",
+      "name": "王師傅",
+      "profileImageUrl": "https://lh4.googleusercontent.com/-N5d_ZlKHr1I/AAAAAAAAAAI/AAAAAAAAABI/uF2jsYf8-Us/photo.jpg"
+    },
+    "preOrderedPrice": 199,
+    "price": 299,
+    "proposalDueTime": "2015-07-21T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超滿足！王師傅的元氣料理",
+    "totalVideoLengthInSeconds": 1891,
+    "type": "COURSE"
+  },
+  {
+    "_id": "559e49185850311000fca504",
+    "assignment": "559e49185850311000fca505",
+    "categories": [
+      "55de819a9d1fa51000f9476b"
+    ],
+    "coverImage": {
+      "_id": "55a863c77b4d991000119809",
+      "url": "https://hahow.in/images/55a863c77b4d991000119809"
+    },
+    "incubateTime": "2015-07-10T10:08:23.000Z",
+    "isReject": false,
+    "metaDescription": "這一堂課程特別設計給沒有學習過瑜珈，但想透過瑜珈動作達到放鬆紓壓效果的朋友們。尤其像是現代的職業婦女兼媽媽，平常在家裡是最辛苦的，下了班還要做家事、帶小孩、煮飯等，都會讓肩頸僵硬痠痛。透過瑜珈的伸展動作和家中唾手可得的工具，其實可以有效的消除壓力，讓身體放鬆。",
+    "numSoldTickets": 97,
+    "owner": {
+      "_id": "559e49105850311000fca503",
+      "name": "sylvie cheng",
+      "profileImageUrl": "https://lh4.googleusercontent.com/-bwvvAu1pluc/AAAAAAAAAAI/AAAAAAAAABY/KHJM04yR00A/photo.jpg"
+    },
+    "preOrderedPrice": 99,
+    "price": 199,
+    "proposalDueTime": "2015-07-16T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "超 EAZY！在家初學的紓壓瑜伽",
+    "totalVideoLengthInSeconds": 3218,
+    "type": "COURSE"
+  },
+  {
+    "_id": "557ad62bd736230f00adb2ab",
+    "assignment": "557ad62bd736230f00adb2ac",
+    "categories": [
+      "55de81a89d1fa51000f9476f",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "557ad772d736230f00adb2ad",
+      "url": "https://hahow.in/images/557ad772d736230f00adb2ad"
+    },
+    "incubateTime": "2015-06-25T12:51:03.000Z",
+    "isReject": false,
+    "metaDescription": "喜歡坡隆納的插畫嗎？會不會自己私下畫圖時總在納悶，那些漂亮的紋理、刷痕、刮痕是怎麼辦到的？其實很多是模仿版畫效果--模仿木板上色印在手工紙上的質感，或是橡皮章疊印的效果。透過這堂課，體驗一下真正的「質感」來自何方，創作自己的作品所帶來的樂趣。課程會講解藏書票的歷史與用途，以簡單的新孔版製版方式，做出自己的藏書票。",
+    "numSoldTickets": 62,
+    "owner": {
+      "_id": "555367c49d3a25090000072f",
+      "name": "黃靄琳",
+      "profileImageUrl": "https://graph.facebook.com/10203317053761852/picture"
+    },
+    "preOrderedPrice": 100,
+    "price": 150,
+    "proposalDueTime": "2015-07-25T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "做自己的藏書票（新孔版）",
+    "totalVideoLengthInSeconds": 3612,
+    "type": "COURSE",
+    "uniquename": "art2studio"
+  },
+  {
+    "_id": "5524bcde2408170a00422f86",
+    "assignment": "5524bcde2408170a00422f87",
+    "categories": [
+      "55de81969d1fa51000f9476a"
+    ],
+    "coverImage": {
+      "_id": "5573334977a8710900bee1a3",
+      "url": "https://hahow.in/images/5573334977a8710900bee1a3"
+    },
+    "incubateTime": "2015-06-14T13:44:05.000Z",
+    "isReject": false,
+    "metaDescription": "投資理財是一輩子的事，需要堅定的目標，才容易持續下去。這堂課將會教你如何建立穩健的財務、創造跟朋友不一樣的視野，最後完成人生目標夢想版！我是 Max，習慣設計圈那種感性做風，沒有專門學科背景的我，到現在可以看懂財報，半年考取數張金融證照，我將用我這外行人都能理解的口吻，分享如何學習常見的投資工具。",
+    "numSoldTickets": 172,
+    "owner": {
+      "_id": "552395062408170a00422f33",
+      "name": "Max Chen",
+      "profileImageUrl": "https://graph.facebook.com/401164243341826/picture"
+    },
+    "preOrderedPrice": 100,
+    "price": 200,
+    "proposalDueTime": "2015-07-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "今日的銅板 - 明日的鈔票",
+    "totalVideoLengthInSeconds": 3628,
+    "type": "COURSE",
+    "uniquename": "fbfcmaxcmc"
+  },
+  {
+    "_id": "55599687dfe21b0a00e776d9",
+    "assignment": "55599687dfe21b0a00e776da",
+    "categories": [
+      "55de81a19d1fa51000f9476d"
+    ],
+    "coverImage": {
+      "_id": "556ca73e77a8710900bee091",
+      "url": "https://hahow.in/images/556ca73e77a8710900bee091"
+    },
+    "incubateTime": "2015-06-08T11:54:26.000Z",
+    "isReject": false,
+    "metaDescription": "我是小廚娘Puki！今天我要跟大家分享法式繽紛馬卡龍的做法。馬卡龍是一個非常簡單的點心，只是在製作過程中有非常多的細節需要注意，透過這課程我會告訴你，其實只要買到簡單的兩三種材料，就可以做出好吃又可愛的馬卡龍唷！",
+    "numSoldTickets": 52,
+    "owner": {
+      "_id": "55599679dfe21b0a00e776d7",
+      "name": "Puki Hsu",
+      "profileImageUrl": "https://graph.facebook.com/764033060381907/picture"
+    },
+    "preOrderedPrice": 350,
+    "price": 500,
+    "proposalDueTime": "2015-07-08T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "法式繽紛馬卡龍",
+    "totalVideoLengthInSeconds": 1999,
+    "type": "COURSE"
+  },
+  {
+    "_id": "556ad58777a8710900bedffe",
+    "assignment": "556ad58777a8710900bedfff",
+    "categories": [
+      "55de81a89d1fa51000f9476f",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "556ad68377a8710900bee001",
+      "url": "https://hahow.in/images/556ad68377a8710900bee001"
+    },
+    "incubateTime": "2015-06-05T07:49:44.000Z",
+    "isReject": false,
+    "metaDescription": "許多手創市集都可以看到各式各樣的手工書， 現在我們希望能透過這門線上的手作課程，帶你一起進入手工書的世界裡!!!",
+    "numSoldTickets": 90,
+    "owner": {
+      "_id": "55386d41d530a90a00a3a9d5",
+      "name": "蔡雅涵",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-hp2cK8zvSPU/AAAAAAAAAAI/AAAAAAAABIg/pbQh3g4VHWY/photo.jpg"
+    },
+    "preOrderedPrice": 100,
+    "price": 200,
+    "proposalDueTime": "2015-07-05T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "簡單學會入門款 【復古手工書 】",
+    "totalVideoLengthInSeconds": 9071,
+    "type": "COURSE",
+    "uniquename": "mio-handmakebooks"
+  },
+  {
+    "_id": "54edea0ec5c9c00900cd8dc6",
+    "assignment": "550004080a45270d004ca5e3",
+    "categories": [
+      "55de81a19d1fa51000f9476d"
+    ],
+    "coverImage": {
+      "_id": "54edeae4c5c9c00900cd8dca",
+      "url": "https://hahow.in/images/54edeae4c5c9c00900cd8dca"
+    },
+    "incubateTime": "2015-04-27T08:26:01.000Z",
+    "isReject": false,
+    "metaDescription": "這個課程主要是針對想用手沖方式輕鬆沖出一杯好喝咖啡的朋友而設計的，一開始我們會從如何“喝 ”咖啡作為出發點，並且以市面上最普及的hario v60濾杯作為教具，以淺顯易懂的方式，帶領各位沖出好喝又好玩的手沖咖啡。",
+    "numSoldTickets": 71,
+    "owner": {
+      "_id": "54eb2c46c5c9c00900cd8d9f",
+      "name": "林書宇",
+      "profileImageUrl": "https://graph.facebook.com/878228848867042/picture"
+    },
+    "preOrderedPrice": 250,
+    "price": 350,
+    "proposalDueTime": "2015-05-27T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "在家也能沖出超好喝手沖咖啡 -  實用手沖咖啡講座",
+    "totalVideoLengthInSeconds": 1485,
+    "type": "COURSE"
+  },
+  {
+    "_id": "55307d94d530a90a00a3a896",
+    "assignment": "55307d94d530a90a00a3a897",
+    "categories": [
+      "55de81a89d1fa51000f9476f",
+      "55de818d9d1fa51000f94768",
+      "55de818a9d1fa51000f94767"
+    ],
+    "coverImage": {
+      "_id": "5533d771d530a90a00a3a8ec",
+      "url": "https://hahow.in/images/5533d771d530a90a00a3a8ec"
+    },
+    "incubateTime": "2015-04-24T08:49:12.000Z",
+    "isReject": false,
+    "metaDescription": "棋茵老師要教大家如何用簡單的材料、方法，做出獨一無二的畢業紀念娃娃！不同的長相、表情變化、髮型、性別、眼鏡、領帶...等，最後繡上學校名稱或名字，讓這個手工娃娃更有意義！",
+    "numSoldTickets": 67,
+    "owner": {
+      "_id": "55307ad9d530a90a00a3a88f",
+      "name": "楊棋茵",
+      "profileImageUrl": "https://graph.facebook.com/842155795849813/picture"
+    },
+    "preOrderedPrice": 100,
+    "price": 150,
+    "proposalDueTime": "2015-05-24T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "糖果娃娃 - 學校畢業紀念娃娃",
+    "totalVideoLengthInSeconds": 3712,
+    "type": "COURSE",
+    "uniquename": "chyin-diy"
+  },
+  {
+    "_id": "5513e92b38239d10005778e1",
+    "assignment": "5513e92b38239d10005778e2",
+    "categories": [
+      "55de819e9d1fa51000f9476c"
+    ],
+    "coverImage": {
+      "_id": "5522c48d23774e0a001eb2ca",
+      "url": "https://hahow.in/images/5522c48d23774e0a001eb2ca"
+    },
+    "incubateTime": "2015-04-13T09:31:11.000Z",
+    "isReject": false,
+    "metaDescription": "In my lecture, I will talk about what I consider as the essence of an autobiography - characterizing the unique qualities of each individual. We will go through the structure of an autobiography, and how to prepare the content for each section leading up to your extraordinary qualities - let it be a personality or philosophy.",
+    "numSoldTickets": 119,
+    "owner": {
+      "_id": "5513e92438239d10005778df",
+      "name": "Hans Harn",
+      "profileImageUrl": "https://lh5.googleusercontent.com/-7FU5DRdPdr4/AAAAAAAAAAI/AAAAAAAAAOg/w3GdzxZAAZI/photo.jpg"
+    },
+    "preOrderedPrice": 450,
+    "price": 600,
+    "proposalDueTime": "2015-05-13T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "為申請學校或工作寫好英文自傳",
+    "totalVideoLengthInSeconds": 3334,
+    "type": "COURSE"
+  },
+  {
+    "_id": "551a6be023774e0a001eb20c",
+    "assignment": "551a6be023774e0a001eb20d",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "551a741b23774e0a001eb213",
+      "url": "https://hahow.in/images/551a741b23774e0a001eb213"
+    },
+    "incubateTime": "2015-04-10T13:04:05.000Z",
+    "isReject": false,
+    "metaDescription": "這堂課程會以我所創作的一系列蛋料理做示範，如何將複雜的資訊分類整理後 --> 再把物體線條簡化為易懂的插圖 --> 最後畫出以圖為主、文字為輔的清楚資訊，如果可以再加上一些有趣的插畫，創造出自己的風格吧！",
+    "numSoldTickets": 81,
+    "owner": {
+      "_id": "5514db1438239d1000577911",
+      "name": "楊姍姍",
+      "profileImageUrl": "https://graph.facebook.com/941998735840909/picture"
+    },
+    "preOrderedPrice": 100,
+    "price": 200,
+    "proposalDueTime": "2015-05-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "療癒感手繪插畫食譜",
+    "totalVideoLengthInSeconds": 1250,
+    "type": "COURSE",
+    "uniquename": "stupidrecipe"
+  },
+  {
+    "_id": "551171a938239d1000577864",
+    "assignment": "551171a938239d1000577865",
+    "categories": [
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "5511796738239d100057786a",
+      "url": "https://hahow.in/images/5511796738239d100057786a"
+    },
+    "incubateTime": "2015-03-27T16:09:44.135Z",
+    "isReject": false,
+    "metaDescription": "會開這堂課很重要的一個原因是，我想告訴大家：玩音樂並不難！像我這樣沒有受過正統的音樂教育，只需簡單幾個技巧你也可以輕鬆上手學會 DJ！",
+    "numSoldTickets": 278,
+    "owner": {
+      "_id": "54f5c694e977de0a00d46a06",
+      "name": "Ken Lin",
+      "profileImageUrl": "https://graph.facebook.com/10153157030049752/picture"
+    },
+    "preOrderedPrice": 200,
+    "price": 1000,
+    "proposalDueTime": "2015-04-29T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "教你用免費軟體 混音組曲當 DJ！",
+    "totalVideoLengthInSeconds": 6447,
+    "type": "COURSE",
+    "uniquename": "djkenlin01"
+  },
+  {
+    "_id": "54f5754a4ec3c809002e4b5a",
+    "assignment": "550004080a45270d004ca638",
+    "categories": [
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "555dbebcf5083009009d494c",
+      "url": "https://hahow.in/images/555dbebcf5083009009d494c"
+    },
+    "incubateTime": "2015-03-27T16:09:39.011Z",
+    "isReject": false,
+    "metaDescription": "這堂課程是入門的蘋果電腦課程，如果你(想)擁有一台Mac，但對於剛開始上手使用感到困難的話，課程的內容將會幫助你許多！課程的內容主要會分成三個大章節: 1.認識操作界面 2.常用偏好設定 3.個人化你的Mac",
+    "numSoldTickets": 98,
+    "owner": {
+      "_id": "54dc2da96d7d350900e86b9a",
+      "name": "林大班",
+      "profileImageUrl": "https://graph.facebook.com/938766269468841/picture"
+    },
+    "preOrderedPrice": 200,
+    "price": 350,
+    "proposalDueTime": "2015-04-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "剛買了蘋果不會用嗎?",
+    "totalVideoLengthInSeconds": 2075,
+    "type": "COURSE"
+  },
+  {
+    "_id": "54d49880065a7e0e00725abb",
+    "assignment": "550004080a45270d004ca5ac",
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "54e3d978c5c9c00900cd8d46",
+      "url": "https://hahow.in/images/54e3d978c5c9c00900cd8d46"
+    },
+    "incubateTime": "2015-03-27T16:09:32.053Z",
+    "isReject": false,
+    "metaDescription": "這堂課就是教你『自己』架網站！透過wordpress的服務，加上我的講解，一小時就可以架出好看又多變的個人網站！",
+    "numSoldTickets": 276,
+    "owner": {
+      "_id": "54cba710a784960a00948680",
+      "name": "Austin Huang",
+      "profileImageUrl": "https://graph.facebook.com/10204910370031214/picture",
+      "username": "austin"
+    },
+    "preOrderedPrice": 100,
+    "price": 250,
+    "proposalDueTime": "2015-03-30T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "自己的個人網站自己架",
+    "totalVideoLengthInSeconds": 4619,
+    "type": "COURSE",
+    "uniquename": "wordpress-com-101"
+  },
+  {
+    "_id": "54f1268f4ec3c809002e4a29",
+    "assignment": "550004080a45270d004ca5ff",
+    "categories": [
+      "55de818d9d1fa51000f94768"
+    ],
+    "coverImage": {
+      "_id": "54f1336f4ec3c809002e4a2e",
+      "url": "https://hahow.in/images/54f1336f4ec3c809002e4a2e"
+    },
+    "incubateTime": "2015-03-27T16:09:15.242Z",
+    "isReject": false,
+    "metaDescription": "課程內容會依照歷史時間順序，並且在每一個時期挑出二到三個代表性的重要藝術家或是作品，帶大家如何從這件作品進而去看整個時代的藝術。（詳見課程單元）也就是說，上完課之後在美術館看到任何的藝術作品，就算完全不認識，也可以大致分辨出是屬於哪一個時代的作品，並且可以用那個時代的眼光去觀看。",
+    "numSoldTickets": 109,
+    "owner": {
+      "_id": "54de6f88dbc18009004c1605",
+      "name": "洪筱筑",
+      "profileImageUrl": "https://graph.facebook.com/10203647038961805/picture",
+      "username": "hsiaochuart"
+    },
+    "preOrderedPrice": 100,
+    "price": 288,
+    "proposalDueTime": "2015-03-30T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "不一樣的西洋美術史",
+    "totalVideoLengthInSeconds": 2578,
+    "type": "COURSE",
+    "uniquename": "arthistory"
+  },
+  {
+    "_id": "54d7148a2246e60a009ec588",
+    "assignment": "550004080a45270d004ca648",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "54da121e2246e60a009ec596",
+      "url": "https://hahow.in/images/54da121e2246e60a009ec596"
+    },
+    "incubateTime": "2015-03-27T15:38:27.187Z",
+    "isReject": false,
+    "metaDescription": "此次課程希望可以教大家一些簡單的技巧，讓大家可以快速的從草圖繪製，到簡易插圖繪製一 次上手，並教大家將其製作成可以在 Line 上架的圖片。其中會包含多種實際的技巧，讓你以後 繪製貼圖不求人。",
+    "numSoldTickets": 80,
+    "owner": {
+      "_id": "54d713532246e60a009ec586",
+      "name": "Danny Wu",
+      "profileImageUrl": "https://graph.facebook.com/10152998793695272/picture"
+    },
+    "preOrderedPrice": 150,
+    "price": 185,
+    "proposalDueTime": "2015-03-13T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Line 的貼圖自己動手做！",
+    "totalVideoLengthInSeconds": 3823,
+    "type": "COURSE"
+  },
+  {
+    "_id": "54d5d9952246e60a009ec571",
+    "assignment": "550004080a45270d004ca653",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "54d5e3392246e60a009ec57a",
+      "url": "https://hahow.in/images/54d5e3392246e60a009ec57a"
+    },
+    "incubateTime": "2015-03-27T15:38:27.187Z",
+    "isReject": false,
+    "metaDescription": "拼貼是視覺設計的表現方法之一，可應用在海報、書籍、喜帖、筆記本等各式平面設計。課堂中，會教你如何用手繪呈現出照片上的物件，並將素材數位化，以及不同種Photoshop去背方式，並透過PS的工具效果，依序完成拼貼的背景、畫面主題與細節等視覺形態，讓作品融合多種且有創意的風格。",
+    "numSoldTickets": 78,
+    "owner": {
+      "_id": "54cb5c2ea784960a00948678",
+      "name": "Li -Ying, Wen 溫力穎",
+      "profileImageUrl": "https://lh6.googleusercontent.com/-6VvNGgjD_Qc/AAAAAAAAAAI/AAAAAAAABdc/MPBqStZ95Os/photo.jpg",
+      "username": "revelinwen"
+    },
+    "preOrderedPrice": 150,
+    "price": 300,
+    "proposalDueTime": "2015-03-13T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "數位拼貼的手感",
+    "totalVideoLengthInSeconds": 3409,
+    "type": "COURSE",
+    "uniquename": "revelinwen"
+  },
+  {
+    "_id": "54d5a117065a7e0e00725ac0",
+    "assignment": "550004080a45270d004ca649",
+    "categories": [
+      "55de818d9d1fa51000f94768",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "54d5a131065a7e0e00725ac1",
+      "url": "https://hahow.in/images/54d5a131065a7e0e00725ac1"
+    },
+    "incubateTime": "2015-03-27T15:38:27.187Z",
+    "isReject": false,
+    "metaDescription": "這是一個有趣的小技巧，主要利用illustrator裡面的\"分割“這個功能，我已經想不起來是在什麼樣的原因下完成這樣的作品，但總之我覺得它很有趣，可以跟大家分享。",
+    "numSoldTickets": 85,
+    "owner": {
+      "_id": "54d5a079065a7e0e00725abe",
+      "name": "Jafy Su",
+      "profileImageUrl": "https://graph.facebook.com/10153039711212552/picture"
+    },
+    "preOrderedPrice": 50,
+    "price": 100,
+    "proposalDueTime": "2015-03-13T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "幾何圖形分割 X 色塊組合",
+    "totalVideoLengthInSeconds": 1783,
+    "type": "COURSE"
+  }
+]

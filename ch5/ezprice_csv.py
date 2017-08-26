@@ -13,7 +13,7 @@ if __name__ == '__main__':
     items = list()
     for div in soup.find_all('div', 'search-rst clearfix'):
         item = list()
-        item.append(div.h4.a['title'])
+        item.append(div.h3.a['title'])
         item.append(div.find(itemprop='price')['content'])
         if div.find('span', 'platform-name'):
             item.append(div.find('span', 'platform-name').text.strip())

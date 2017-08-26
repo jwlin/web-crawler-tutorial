@@ -24,18 +24,18 @@ def get_web_page(url):
 def get_movies(dom):
     soup = BeautifulSoup(dom, 'html5lib')
     movies = []
-    rows = soup.find_all('div', 'clearfix row')
+    rows = soup.find_all('div', 'release_info_text')
     for row in rows:
         movie = dict()
-        movie['expectation'] = row.find(id='ymvle').find('div', 'bd clearfix ').em.text
-        movie['ch_name'] = row.find('div', 'text').h4.text
-        movie['eng_name'] = row.find('div', 'text').h5.text
-        movie['movie_id'] = get_movie_id(row.find('div', 'text').h4.a['href'])
-        movie['poster_url'] = row.find('div', 'img').img['src'].replace('mpost4', 'mpost')
-        movie['release_date'] = get_date(row.find('div', 'text').span.text)
-        movie['intro'] = row.find('div', 'text').p.text.replace(u'...詳全文', '').replace('\n', '')
-        trailer_li = row.find('div', 'text').find('li', 'trailer')
-        movie['trailer_url'] = get_trailer_url(trailer_li.a['href']) if trailer_li else ''
+        movie['expectation'] = row.find('div', 'leveltext').span.text.strip()
+        movie['ch_name'] = row.find('div', 'release_movie_name').a.text.strip()
+        movie['eng_name'] = row.find('div', 'release_movie_name').find('div', 'en').a.text.strip()
+        movie['movie_id'] = get_movie_id(row.find('div', 'release_movie_name').a['href'])
+        movie['poster_url'] = row.parent.find_previous_sibling('div', 'release_foto').a.img['src']
+        movie['release_date'] = get_date(row.find('div', 'release_movie_time').text)
+        movie['intro'] = row.find('div', 'release_text').text.replace(u'詳全文', '').strip()
+        trailer_a = row.find_next_sibling('div', 'release_btn color_btnbox').find_all('a')[1]
+        movie['trailer_url'] = trailer_a['href'] if 'href' in trailer_a.attrs.keys() else ''
         movies.append(movie)
     return movies
 
@@ -70,13 +70,12 @@ def get_complete_intro(movie_id):
     page = get_web_page(Y_INTRO_URL + '/id=' + movie_id)
     if page:
         soup = BeautifulSoup(page, 'html5lib')
-        # 全文介紹可能在 <div class="text show"> 或 <div class="text full"> 裡
-        div_text_show = soup.find('div', 'text show')
-        if div_text_show:
-            print(div_text_show.text)
-        div_text_full = soup.find('div', 'text full')
-        if div_text_full:
-            print(div_text_full.text)
+        infobox = soup.find('div', 'gray_infobox_inner')
+        title_span = infobox.find('span', 'title2')
+        if title_span:
+            print(title_span['title2'])
+        else:
+            print(infobox.text.strip())
     return None
 
 

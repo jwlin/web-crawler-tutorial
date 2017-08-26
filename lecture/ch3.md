@@ -29,14 +29,17 @@
 
 # 3-2. 爬蟲實戰二：Yahoo 奇摩電影本週新片
 
+## 2017/08/27 更新: 該網頁結構有變，已更新程式碼為正確版本
+
 * 範例: `ch3/yahoo_movie.py`
 * https://tw.movies.yahoo.com/movie_thisweek.html
 * 觀察各項資訊所在的 tag 及網址
-    * 期待度: `row.find(id='ymvle').find('div', 'bd clearfix ').em.text`
-    * 中文名: `row.find('div', 'text').h4.text`
-    * 上映日: `row.find('div', 'text').span.text`
-    * 簡介: `row.find('div', 'text').p.text`
-    * 預告片網址: `row.find('div', 'text').find('li', 'trailer')`
+    * 電影資訊所在區塊: `soup.find_all('div', 'release_info_text')`
+    * 期待度: `row.find('div', 'leveltext').span.text`
+    * 中文名: `row.find('div', 'release_movie_name').a.text`
+    * 上映日: `row.find('div', 'release_movie_time').text`
+    * 簡介: `row.find('div', 'release_text')`
+    * 預告片網址: `row.find_next_sibling('div', 'release_btn color_btnbox').find_all('a')[1]`
     * ...
 * 如何取得電影 id 以及完整電影海報網址
 
@@ -50,11 +53,13 @@
 
 # 3-3. 爬蟲實戰三：兩大報今日焦點新聞
 
+## 2017/08/27 更新: 自由今日焦點網頁結構有變，已更新程式碼為正確版本
+
 * 範例: `ch3/news.py`
 * 蘋果今日焦點: http://www.appledaily.com.tw/appledaily/hotdaily/headline
-    * 進入點: `<ul class="focus">` \>`<li>`
-* 自由今日焦點: http://news.ltn.com.tw/newspaper
-    * 進入點: `<ul id='newslistul'>` \> `<li>`
+    * 進入點: `<ul class="focus">` \> `<li>`
+* 自由今日焦點: http://news.ltn.com.tw/list/newspaper
+    * 進入點: `<ul class='list'>` \> `<li class='tit'>`
 
 # 3-4. 爬蟲實戰四：Google Finance 網頁
 

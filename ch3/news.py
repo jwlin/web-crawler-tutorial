@@ -14,10 +14,10 @@ def main():
         )
     print('-----------')
     print('自由今日焦點')
-    dom = requests.get('http://news.ltn.com.tw/newspaper').text
+    dom = requests.get('http://news.ltn.com.tw/list/newspaper').text
     soup = BeautifulSoup(dom, 'html5lib')
-    for ele in soup.find(id='newslistul').find_all('li'):
-        print(ele.find('a').text)
+    for ele in soup.find('ul', 'list').find_all('li'):
+        print(ele.find('a', 'tit').text.strip())
 
 if __name__ == '__main__':
     main()
