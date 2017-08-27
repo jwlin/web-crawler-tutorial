@@ -1,3 +1,5 @@
+# tutorial: http://blog.castman.net/%E6%95%99%E5%AD%B8/2017/07/25/hahow-crawler.html
+
 import requests
 import json
 import time
