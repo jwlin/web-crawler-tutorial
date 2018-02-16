@@ -57,7 +57,7 @@
 
 * 範例: `ch3/news.py`
 * 蘋果今日焦點: http://www.appledaily.com.tw/appledaily/hotdaily/headline
-    * 進入點: `<ul class="focus">` \> `<li>`
+    * 進入點: `<ul class="all">` \> `<li>`
 * 自由今日焦點: http://news.ltn.com.tw/list/newspaper
     * 進入點: `<ul class='list'>` \> `<li class='tit'>`
 
