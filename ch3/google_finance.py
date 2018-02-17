@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 
 
 # 網址後方加上 MARKET:STOCK_ID 即為個股資訊. e.g, TPE:2330
-G_FINANCE_URL = 'https://www.google.com/finance?q='
-G_FINANCE_HIS_URL = 'https://www.google.com/finance/historical?q='
+G_FINANCE_URL = 'https://finance.google.com/finance?q='
+G_FINANCE_HIS_URL = 'https://finance.google.com/finance/historical?q='
 
 
 def get_web_page(url, stock_id):

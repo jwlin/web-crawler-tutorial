@@ -63,19 +63,20 @@
 
 # 3-4. 爬蟲實戰四：Google Finance 網頁
 
+## 2018/02/17 更新: Google Finance 網址有微幅變動，已更新程式碼為正確版本
+
 * 範例: `ch3/google_finance.py`
-* https://www.google.com/finance?q=MARKET:STOCK_ID
+* https://finance.google.com/finance?q=MARKET:STOCK_ID
 * 個股資訊分布在 \<div id="price-panel"\> 與 \<div class="snap-panel"\> 兩個區塊中
 
 ## 作業: 取得個股的歷史資料
 
 ### 提示:
 
-1. 個股歷史資料網址: https://www.google.com/finance/historical?q=MARKET:STOCK
+1. 個股歷史資料網址: https://finance.google.com/finance/historical?q=MARKET:STOCK
 2. 全部的資料都在 \<table\> 內
 3. 參考作法在範例的 `get_stock_history()` 內
 4. 小挑戰: 如何取得下一頁/不同日期的歷史資料? 提示: 觀察網址的參數
-
 
 # 第三章作業: Yahoo 奇摩字典
 
