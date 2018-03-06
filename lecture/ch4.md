@@ -73,7 +73,7 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
 
 # 4-4. 網站 API 實戰三：imdb
 
-## 2017/05/20 更新: omdbapi 已經轉為付費服務，必須要取得 API Key 之後才能使用該服務
+## 2018/03/05 更新: omdbapi 現在必須要先取得 API Key 之後才能使用該服務，可到[此處](http://www.omdbapi.com/apikey.aspx)申請免費的 API Key, 或考慮贊助該網站已取得不受限的 API Key
 
 * 範例: `ch4/imdb.py`
 * 非官方 API: www.omdbapi.com
