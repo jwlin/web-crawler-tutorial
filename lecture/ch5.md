@@ -34,6 +34,7 @@ https://m.imgur.com/A2wmlqW.jpg
 
 # 5-2. 資料儲存：CSV 檔 (爬蟲實戰六：ezprice)
 
+## 2018/03/06 更新: ezprice 網頁結構的價格部分有變，已經修正程式碼
 * ezprice 的比價網址: https://ezprice.com.tw/s/[QUERY]/price/
 * [QUERY] 可以是中文或多個字: 用`urllib.parse.quote()`做 HTML Encoding
 * 用 `csv` 模組寫入 csv 檔 (記得 `encoding='utf-8', newline=''` 參數)

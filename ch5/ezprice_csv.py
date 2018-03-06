@@ -1,6 +1,7 @@
 import requests
 import urllib.parse
 import csv
+import re
 from bs4 import BeautifulSoup
 
 
@@ -14,7 +15,10 @@ if __name__ == '__main__':
     for div in soup.find_all('div', 'search-rst clearfix'):
         item = list()
         item.append(div.h3.a['title'])
-        item.append(div.find(itemprop='price')['content'])
+        # 先取得價格字串，再移除其中的非數字部份(以空白字串取代非0-9的字元)
+        price = div.find('span', 'num').text
+        price = re.sub(r'[^0-9]', '', price)
+        item.append(price)
         if div.find('span', 'platform-name'):
             item.append(div.find('span', 'platform-name').text.strip())
         else:
