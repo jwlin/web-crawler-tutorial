@@ -13,8 +13,8 @@
 
 ## 網站的回應格式
 
-* JSON (e.g., http://www.omdbapi.com/?t=iron+man)
-* XML (e.g., http://www.omdbapi.com/?t=iron+man&r=xml)
+* JSON (e.g., http://www.omdbapi.com/?t=iron+man&apikey=433e8713)
+* XML (e.g., http://www.omdbapi.com/?t=iron+man&apikey=433e8713&r=xml)
 * 安裝瀏覽器插件 ("JSON/XML Formatter") 或線上轉換可方便觀察資料
     * Chrome 插件: [JSON](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)/[XML](https://chrome.google.com/webstore/detail/xml-tree/gbammbheopgpmaagmckhpjbfgdfkpadb?hl=en)
     * 線上轉換: [JSON](http://jsonparseronline.com/)/[XML](http://codebeautify.org/xmlviewer)
