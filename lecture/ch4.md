@@ -89,6 +89,8 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
  
 # 4-5. 網站 API 實戰四：Google Finance API
 
+## 2018/03/27 更新: 即時股價的 API 似乎已經失效，因為官方早已取消支援，所以失效並不意外；歷史股價 API 仍正常。
+
 * 範例: `ch4/google_finance_api.py`
 * 官方已經[取消支援](https://developers.google.com/finance/) Google Finance API
 * 即時股價 e.g., http://finance.google.com/finance/info?client=ig&q=TPE:2330
