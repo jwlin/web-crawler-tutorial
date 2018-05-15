@@ -51,14 +51,14 @@ def get_date(date_str):
 
 
 def get_movie_id(url):
-    # e.g. "https://tw.rd.yahoo.com/referurl/movie/thisweek/info/*https://tw.movies.yahoo.com/movieinfo_main.html/id=6707"
-    #      -> match.group(0): "/id=6707"
-    pattern = '/id=\d+'
-    match = re.search(pattern, url)
-    if match is None:
-        return url
-    else:
-        return match.group(0).replace('/id=', '')
+    # 20180515: URL 格式有變, e.g., 'https://movies.yahoo.com.tw/movieinfo_main/%E6%AD%BB%E4%BE%8D2-deadpool-2-7820.html
+    # e.g., "https://tw.rd.yahoo.com/referurl/movie/thisweek/info/*https://tw.movies.yahoo.com/movieinfo_main.html/id=6707"
+    #       -> match.group(0): "/id=6707"
+    try:
+        movie_id = url.split('.html')[0].split('-')[-1]
+    except:
+        movie_id = url
+    return movie_id
 
 
 def get_trailer_url(url):
