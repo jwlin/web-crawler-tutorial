@@ -82,10 +82,12 @@
 
 # 第三章作業: Yahoo 奇摩字典
 
+## 2018/05/20 更新: 奇摩字典網頁已改版及更換網址，已更新程式碼，且不再需要 Referer header
+
 ## 提示
 
-1. 網址: https://tw.dictionary.yahoo.com/dictionary?p=QUERY
-2. **[重要]** `requests.get()` 取得的網頁文件與開發者工具/檢視原始碼看到的文件不同? 請在 header 加上 Referer
+1. 網址: https://tw.dictionary.search.yahoo.com/search?p=QUERY
+2. （2018/05/20: 已不再需要 Referer header）**[重要]** `requests.get()` 取得的網頁文件與開發者工具/檢視原始碼看到的文件不同? 請在 header 加上 Referer
 ```
 requests.get(
     'https://tw.dictionary.yahoo.com/dictionary?p=' + QUERY,
