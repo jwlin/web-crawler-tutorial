@@ -64,13 +64,14 @@
 
 # 3-4. 爬蟲實戰四：Google Finance 網頁
 
+## 2018/05/20 更新: Google 已經移除 Finance 網頁，故程式碼改為直接取得 Google 搜尋卡片結果；另 Google 已移除歷史股價網頁，故程式碼無法運作
 ## 2018/02/17 更新: Google Finance 網址有微幅變動，已更新程式碼為正確版本
 
 * 範例: `ch3/google_finance.py`
-* https://finance.google.com/finance?q=MARKET:STOCK_ID
-* 個股資訊分布在 \<div id="price-panel"\> 與 \<div class="snap-panel"\> 兩個區塊中
+* https://www.google.com/search?q=MARKET:STOCK_ID
+* 個股資訊在第 2 個 g-card-section (公司名及即時股價資訊) 與第 4 個 g-card-section (左右兩個 table 分別存放股票資訊) 中
 
-## 作業: 取得個股的歷史資料
+## 作業: 取得個股的歷史資料 (2018/05/20: Google 已經移除歷史股價網頁，故程式碼無法運作)
 
 ### 提示:
 
