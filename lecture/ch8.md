@@ -22,6 +22,7 @@ requests.post(URL, data=data)
 
 ## 範例: 空氣品質監測網
 
+### 2018/06/02: 網頁網址改為 HTTPS 及 form data 微幅更新。已修正程式碼。
 ### 2017/05/28: 該網頁已經更新，請將 POST 到 Server 的 Key 從 `ctl08$...` 改為 `ctl09$...`
 
 * 範例: `ch8/taqm_epa.py`
