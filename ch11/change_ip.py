@@ -3,9 +3,11 @@ import requests
 import random
 
 if __name__ == '__main__':
-    proxy_ips = ['121.40.199.105:80', '122.49.35.168:33128']
+    # 代理伺服器查詢: http://cn-proxy.com/
+    proxy_ips = ['51.15.227.220:3128', '81.162.56.154:8081']
     ip = random.choice(proxy_ips)
     print('Use', ip)
-    resp = requests.get('http://whatismyip.org/', proxies={'http': 'http://' + ip})
+    resp = requests.get('http://ip.filefab.com/index.php',
+                        proxies={'http': 'http://' + ip})
     soup = BeautifulSoup(resp.text, 'html5lib')
-    print(soup.find_all('div')[1].span.text.strip())
+    print(soup.find('h1', id='ipd').text.strip())
