@@ -14,7 +14,7 @@ if __name__ == '__main__':
     items = list()
     for div in soup.find_all('div', 'search-rst clearfix'):
         item = list()
-        item.append(div.h2.a.text.strip())
+        item.append(div.h3.a.text.strip())
         # 先取得價格字串，再移除其中的非數字部份(以空白字串取代非0-9的字元)
         price = div.find('span', 'num').text
         price = re.sub(r'[^0-9]', '', price)
