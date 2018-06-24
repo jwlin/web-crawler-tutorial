@@ -14,3 +14,10 @@
 * 範例: http://www.bot.com.tw/house/default.aspx
 (第一次啟動 webdriver 時, Windows 會跳出防火牆警告, 請准許)
 * 補充資料: Webdriver 的執行檔也可以使用 [PhantomJS](http://phantomjs.org/download.html), 可以在背景模仿瀏覽器行為, 或可加快程式執行速度
+* 2018/6/23 補充：現在可以使用 headless 的 Chrome, 讓 Chrome 瀏覽器在背景執行，不需要另外下載執行 PhantomJS, 範例程式碼如下：
+
+```
+options = webdriver.ChromeOptions()
+options.add_argument('--headless')
+driver = webdriver.Chrome(chrome_options=options, executable_path='[chromedriver.exe 所在位置]')
+```
