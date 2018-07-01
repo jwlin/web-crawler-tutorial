@@ -28,6 +28,7 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
 
 * 範例: `ch4/ptt_gossiping_ip.py`
 
+## 2018/07/01 更新: freegeoip.net 已經改版為 ipstack.com, 必須先到 ipstack.com 註冊取得免費 API Key 方能繼續使用 ip 查詢服務 (一個月 10000 次免費額度). 程式碼已經修正 (新增 `get_country_ipstack()` 函式)
 ## http://freegeoip.net
 
 * 免費查詢網址或 IP 的地理資訊

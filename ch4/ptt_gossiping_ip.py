@@ -5,6 +5,7 @@ import re
 from bs4 import BeautifulSoup
 
 
+API_KEY = 'YOUR_KEY'  # 須先到 ipstack.com 網頁右上角 GET FREE API KEY 註冊帳號取得 API KEY
 PTT_URL = 'https://www.ptt.cc'
 
 
@@ -76,6 +77,16 @@ def get_country(ip):
         return country_name
     return None
 
+
+def get_country_ipstack(ip):
+    if ip:
+        url = 'http://api.ipstack.com/{}?access_key={}'.format(ip, API_KEY)
+        data = requests.get(url).json()
+        country_name = data['country_name'] if data['country_name'] else None
+        return country_name
+    return None
+
+
 if __name__ == '__main__':
     print('取得今日文章列表...')
     current_page = get_web_page(PTT_URL + '/bbs/Gossiping/index.html')
@@ -97,7 +108,7 @@ if __name__ == '__main__':
             page = get_web_page(PTT_URL + article['href'])
             if page:
                 ip = get_ip(page)
-                country = get_country(ip)
+                country = get_country_ipstack(ip)
                 if country in country_to_count.keys():
                     country_to_count[country] += 1
                 else:
