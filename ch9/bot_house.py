@@ -22,10 +22,11 @@ if __name__ == '__main__':
         element.send_keys('1060101')
 
         # 定位選單所在欄位並點擊
-        driver.find_element_by_id('purpose_DDL').click()
+        element = driver.find_element_by_id('purpose_DDL')
+        element.click()
 
         # 巡覽選單, 點擊對應選項
-        for option in driver.find_elements_by_tag_name('option'):
+        for option in element.find_elements_by_tag_name('option'):
             if option.text == '其他':
                 option.click()
 
