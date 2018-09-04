@@ -61,6 +61,8 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
  
 # 4-3. 網站 API 實戰二：Facebook Graph API
 
+## 2018/7/19 更新: FB Graph API 頻繁改版，對於各項權限控管的更加嚴格了，影片內容已經過時。目前嘗試的結果，用自己的 Access Token 還能取得朋友數量，但已經看不到朋友名稱，而且還得先在 FΒ 開發者面板新增一個 App；公開粉絲頁的資訊，似乎需要是該粉絲頁的管理者帳號才能取得。有關 FΒ Graph API 的用法，請搜尋網路上其他最新的教學。
+
 * 範例: `ch4/fb_graph_api.py`
 * 每一個物件(節點)，例如用戶、相片、粉絲專頁、留言等，有自己的 id
 * 基本 API 格式: `GET https://graph.facebook.com/vX.Y/{request-path}`, `{request-path}` 需包含節點 id, access token, 節點屬性等
