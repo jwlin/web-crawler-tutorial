@@ -17,7 +17,7 @@ def baidu_test():
         print(e)
 
 
-def gold_66_test():
+def gold_66_test():  # 20190120: 博客來 66 折網址已換，且改為 utf-8 編碼，此函式已失效
     resp = requests.get('http://www.books.com.tw/activity/gold66_day/')
     resp.encoding = 'big5'  # 該網頁為 big5 編碼
     soup = BeautifulSoup(resp.text, 'html.parser')
@@ -32,6 +32,24 @@ def gold_66_test():
         print(e)
 
 
+def gold_66_new():
+    # 今日 66 折，網址不同
+    resp = requests.get('https://activity.books.com.tw/crosscat/ajaxinfo/getBooks66OfTheDayAjax/P?uniqueID=E180629000000001_94')
+    soup = BeautifulSoup(resp.text, 'html.parser')
+    print('今日 66 折:', soup.h1.text)
+    ul_price = soup.find('ul', 'price clearfix')
+    print([s for s in ul_price.stripped_strings])
+
+    print('--')
+    print('每日一書66折預告')
+    resp = requests.get('https://activity.books.com.tw/books66/')
+    soup = BeautifulSoup(resp.text, 'html.parser')
+    div_next_66 = soup.find('', 'mod-04 clearfix')
+    for d in div_next_66.find_all('div', 'table-td'):
+        print([s for s in d.stripped_strings])
+
+
 if __name__ == '__main__':
     baidu_test()
-    gold_66_test()
+    # gold_66_test()
+    gold_66_new()
