@@ -102,3 +102,4 @@ http://www.pycone.com
 * 找出[範例網頁一](http://blog.castman.net/web-crawler-tutorial/ch2/blog/blog.html) 總共有幾張圖片網址含有 'crawler' 字串
 * 找出[範例網頁二](http://blog.castman.net/web-crawler-tutorial/ch2/table/table.html) 總共有幾堂課程
 * 用 Chrome 開發者工具, 找出 Dcard 的[今日熱門文章](https://www.dcard.tw/f)區塊, 然後取得前十篇熱門文章的標題 (提示: 每一篇熱門文章都是 class 為 `PostEntry_container_` 開頭的 div, 可以用 `find_all()` 加上 regular expression 找出來; 標題文字被 `<strong>` 包圍)
+* 20190129 更新: Dcard 網站的樣式有些更動，且 `requests.get()` 必須加上 User-Agent 的 header 才能正常取得資料，解答請參考：https://github.com/jwlin/py-scraping-analysis-book/blob/master/ch3/dcard.py
