@@ -71,12 +71,7 @@ def get_complete_intro(movie_id):
     if page:
         soup = BeautifulSoup(page, 'html5lib')
         infobox = soup.find('div', 'gray_infobox_inner')
-        title_span = infobox.find('span', 'title2')
-        if title_span:
-            print(title_span['title2'])
-        else:
-            print(infobox.text.strip())
-    return None
+        print(infobox.text.strip())
 
 
 def main():
@@ -85,6 +80,7 @@ def main():
         movies = get_movies(page)
         for movie in movies:
             print(movie)
+            # get_complete_intro(movie["movie_id"])
         with open('movie.json', 'w', encoding='utf-8') as f:
             json.dump(movies, f, indent=2, sort_keys=True, ensure_ascii=False)
 

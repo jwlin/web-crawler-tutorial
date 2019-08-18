@@ -47,10 +47,10 @@
 ## 作業: 取得每部電影的全文介紹
 
 ### 提示
-
+ 
 1. 電影詳細資訊在 https://tw.movies.yahoo.com/movieinfo_main.html/id=MOVIE_ID
 2. 觀察電影全文介紹內容被什麼 tag 包圍
-3. 解答在範例程式的 `get_complete_intro()`
+3. 解答在範例程式的 `get_complete_intro()` (2019/08/17 微調更新程式碼)
 
 # 3-3. 爬蟲實戰三：兩大報今日焦點新聞
 
