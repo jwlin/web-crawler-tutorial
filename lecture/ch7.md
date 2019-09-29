@@ -8,6 +8,8 @@
 
 ### momo 購物網 (行動版網頁)
 
+***20190928 更新:  小幅更新程式碼以取得商品照片***
+
 * 網址格式: http://m.momoshop.com.tw/mosearch/[YOUR_QUERY].html
 * requests 必須附上 `User-Agent` header
 

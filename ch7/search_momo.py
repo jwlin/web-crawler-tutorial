@@ -25,7 +25,7 @@ def search_momo(query):
             continue
         item_price = int(item_price)
         item_url = 'http://m.momoshop.com.tw' + elem.find('a')['href']
-        item_img_url = elem.a.img['src']
+        item_img_url = elem.a.img['org']
 
         item = {
             'name': item_name,
