@@ -27,6 +27,16 @@ if __name__ == '__main__':
     print('共 %d 項商品' % (len(items)))
     for item in items:
         print(item)
+
+    # 讓 Excel 開啟不會亂碼的方式
+    # 1.
+    # with open('ezprice.csv', 'wb') as f:
+    #     f.write(b'\xEF\xBB\xBF')  # 在檔頭加上 UTF-8 編碼的 BOM
+    # with open('ezprice.csv', 'a', encoding='utf-8', newline='') as f:
+    #
+    # 2.
+    # with open('ezprice.csv', 'w', encoding='utf-8-sig', newline='') as f:
+
     with open('ezprice.csv', 'w', encoding='utf-8', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(('品項', '價格', '商家'))
