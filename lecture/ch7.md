@@ -12,6 +12,8 @@
 
 *　此網站已經改成使用 AJAX 動態更新正確的價格資訊，所以程式所抓到的價格資訊會是折扣前的原價。如要取得網頁上看到的折扣後價格，可考慮使用 WebDriver, 或是觀察其 AJAX 執行邏輯 (透過什麼網址及參數，取得商品折價資料，如下圖所示)
 
+<img src="https://i.imgur.com/gB7IYCw.jpg" width="450"/>
+
 ***20190928 更新:  小幅更新程式碼以取得商品照片***
 
 * 網址格式: http://m.momoshop.com.tw/mosearch/[YOUR_QUERY].html
