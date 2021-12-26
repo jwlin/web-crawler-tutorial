@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 
 # 網址後方加上 MARKET:STOCK_ID 即為個股資訊. e.g, TPE:2330
-G_FINANCE_URL = 'https://www.google.com/search?q='
+G_FINANCE_URL = "https://www.google.com/search?q="
 G_FINANCE_HIS_URL = 'https://finance.google.com/finance/historical?q='
 
 
@@ -22,16 +22,15 @@ def get_web_page(url, stock_id):
 def get_stock_info(dom):
     soup = BeautifulSoup(dom, 'html5lib')
     stock = dict()
-
-    sections = soup.find_all('g-card-section')
-
-    # 第 2 個 g-card-section, 取出公司名及即時股價資訊
-    stock['name'] = sections[1].div.text
-    spans = sections[1].find_all('div')[2].find_all('span')
-    stock['current_price'] = soup.find = spans[0].text
-    stock['current_change'] = spans[4].text
+    
+    # 取出公司名及即時股價資訊
+    stock['name'] = soup.find("span", {"data-attrid": "Company Name"}).text
+    price_spans = soup.find("div", {"data-attrid": "Price"}).find_all("span", recursive=False)
+    stock['current_price'] = price_spans[0].text
+    stock['current_change'] = list(price_spans[1].stripped_strings)[:2]
 
     # 第 4 個 g-card-section, 有左右兩個 table 分別存放股票資訊
+    sections = soup.find_all('g-card-section')    
     for table in sections[3].find_all('table'):
         for tr in table.find_all('tr')[:3]:
             key = tr.find_all('td')[0].text.lower().strip()
