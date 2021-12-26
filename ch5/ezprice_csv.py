@@ -1,3 +1,5 @@
+# 2021/12/26 更新: ezprice 已經停止服務，影片/程式碼已失效
+
 import requests
 import urllib.parse
 import csv
