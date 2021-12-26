@@ -10,9 +10,7 @@ if __name__ == '__main__':
     q = urllib.parse.quote(query)
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
                              'AppleWebKit/537.36 (KHTML, like Gecko) '
-                             'Chrome/66.0.3359.181 Safari/537.36', 
-               "Upgrade-Insecure-Requests": "1"
-              }
+                             'Chrome/66.0.3359.181 Safari/537.36'}
     # e.g. https://feebee.com.tw/s/?q=ps5%E4%B8%BB%E6%A9%9F    
     page = requests.get("https://feebee.com.tw/s/?q=" + q, headers=headers).text
     soup = BeautifulSoup(page, 'html5lib')
