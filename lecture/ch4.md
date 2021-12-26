@@ -26,9 +26,14 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
 
 # 4-2. 網站 API 實戰一：PTT 八卦板眾來源國家分布
 
+```
+2021/12/25 更新: 課程錄製時 (2017), PTT 還沒有提供顯示發文 IP 來源國家的功能，但這個範例還是很好的練習，程式碼也仍然有效
+
+2018/07/01 更新: freegeoip.net 已經改版為 ipstack.com, 必須先到 ipstack.com 註冊取得免費 API Key 方能繼續使用 ip 查詢服務 (一個月 10000 次免費額度). 程式碼已經修正 (新增 get_country_ipstack() 函式)
+```
+
 * 範例: `ch4/ptt_gossiping_ip.py`
 
-## 2018/07/01 更新: freegeoip.net 已經改版為 ipstack.com, 必須先到 ipstack.com 註冊取得免費 API Key 方能繼續使用 ip 查詢服務 (一個月 10000 次免費額度). 程式碼已經修正 (新增 `get_country_ipstack()` 函式)
 ## http://freegeoip.net
 
 * 免費查詢網址或 IP 的地理資訊
@@ -61,7 +66,11 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
  
 # 4-3. 網站 API 實戰二：Facebook Graph API
 
-## 2018/7/19 更新: FB Graph API 頻繁改版，對於各項權限控管的更加嚴格了，影片內容已經過時。目前嘗試的結果，用自己的 Access Token 還能取得朋友數量，但已經看不到朋友名稱，而且還得先在 FΒ 開發者面板新增一個 App；公開粉絲頁的資訊，似乎需要是該粉絲頁的管理者帳號才能取得。有關 FΒ Graph API 的用法，請搜尋網路上其他最新的教學。
+```
+2021/12/25 更新: 影片內容及程式碼已經過時/失效。對於程式化取得公開的的粉絲頁及社團資料有興趣的朋友或許可以參考這個 GitHub Repo: https://github.com/TLYu0419/facebook_crawler
+
+2018/07/19 更新: FB Graph API 頻繁改版，對於各項權限控管的更加嚴格了，影片內容已經過時。目前嘗試的結果，用自己的 Access Token 還能取得朋友數量，但已經看不到朋友名稱，而且還得先在 FΒ 開發者面板新增一個 App；公開粉絲頁的資訊，似乎需要是該粉絲頁的管理者帳號才能取得。有關 FΒ Graph API 的用法，請搜尋網路上其他最新的教學。
+```
 
 * 範例: `ch4/fb_graph_api.py`
 * 每一個物件(節點)，例如用戶、相片、粉絲專頁、留言等，有自己的 id
@@ -76,7 +85,9 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
 
 # 4-4. 網站 API 實戰三：imdb
 
-## 2018/03/05 更新: omdbapi 現在必須要先取得 API Key 之後才能使用該服務，可到[此處](http://www.omdbapi.com/apikey.aspx)申請免費的 API Key, 或考慮贊助該網站已取得不受限的 API Key
+```
+2018/03/05 更新: omdbapi 現在必須要先取得 API Key 之後才能使用該服務，可到[此處](http://www.omdbapi.com/apikey.aspx)申請免費的 API Key, 或考慮贊助該網站以取得不受限的 API Key
+```
 
 * 範例: `ch4/imdb.py`
 * 非官方 API: www.omdbapi.com
@@ -92,7 +103,14 @@ https://popularblog.com/api/v4/json/users/1234/posts?api_key=YOUR_API_KEY&from=0
  
 # 4-5. 網站 API 實戰四：Google Finance API
 
-## 2018/03/27 更新: 即時股價的 API 似乎已經失效，因為官方早已取消支援，所以失效並不意外；歷史股價 API 仍正常。
+```
+2021/12/25 更新: Google 已經完全取消了 Google Finance API. 所以影片及程式碼已經過時/失效. 取而代之的是你現在可以在 Google Sheet 中直接使用內建的 GOOGLEFINANCE 指令取得股票及歷史資料，可參考:
+
+* https://www.youtube.com/watch?v=0tquofL8F7w
+* https://support.google.com/docs/answer/3093281?hl=en
+
+2018/03/27 更新: 即時股價的 API 似乎已經失效，因為官方早已取消支援，所以失效並不意外；歷史股價 API 仍正常。
+```
 
 * 範例: `ch4/google_finance_api.py`
 * 官方已經[取消支援](https://developers.google.com/finance/) Google Finance API
