@@ -33,18 +33,21 @@ def gold_66_test():  # 20190120: 博客來 66 折網址已換，且改為 utf-8 
 
 
 def gold_66_new():
-    # 今日 66 折，網址不同
-    resp = requests.get('https://activity.books.com.tw/crosscat/ajaxinfo/getBooks66OfTheDayAjax/P?uniqueID=E180629000000001_94')
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                             'AppleWebKit/537.36 (KHTML, like Gecko) '
+                             'Chrome/66.0.3359.181 Safari/537.36'}
+
+    # 今日 66 折的資料已改由 AJAX 方式從以下網址取回
+    resp = requests.get("https://activity.books.com.tw/crosscat/ajaxinfo/getBooks66OfTheDayAjax/P?uniqueID=E180629000000001_94", headers=headers)
     soup = BeautifulSoup(resp.text, 'html.parser')
     print('今日 66 折:', soup.h1.text)
     ul_price = soup.find('ul', 'price clearfix')
-    print([s for s in ul_price.stripped_strings])
+    print(list(ul_price.stripped_strings))
 
-    print('--')
-    print('每日一書66折預告')
-    resp = requests.get('https://activity.books.com.tw/books66/')
+    print('每日一書66折預告')    
+    resp = requests.get('https://activity.books.com.tw/crosscat/show/books66', headers=headers)
     soup = BeautifulSoup(resp.text, 'html.parser')
-    div_next_66 = soup.find('', 'mod-04 clearfix')
+    div_next_66 = soup.find('div', 'mod-04 clearfix')    
     for d in div_next_66.find_all('div', 'table-td'):
         print([s for s in d.stripped_strings])
 
