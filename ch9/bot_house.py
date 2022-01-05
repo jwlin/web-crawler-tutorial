@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 
 if __name__ == '__main__':
-    url = 'http://www.bot.com.tw/house/default.aspx'
+    url = 'https://www2.bot.com.tw/house/default.aspx'
     try:
         driver = webdriver.Chrome(executable_path='chromedriver.exe')
         # Webdriver 的執行檔也可以使用 PhantomJS
