@@ -36,7 +36,7 @@ def search_momo(query):
 
 
 if __name__ == '__main__':
-    query = 'iphone 11 128g'
+    query = 'iphone 13 pro'
     items = search_momo(query)
     today = time.strftime('%Y-%m-%d')
     print('%s 搜尋 %s 共 %d 筆資料' % (today, query, len(items)))
