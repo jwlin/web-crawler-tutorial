@@ -4,7 +4,7 @@ import random
 
 if __name__ == '__main__':
     # 代理伺服器查詢: http://cn-proxy.com/
-    proxy_ips = ['51.15.227.220:3128', '81.162.56.154:8081']
+    proxy_ips = ['194.5.193.183', '3.211.17.212:80']
     ip = random.choice(proxy_ips)
     print('Use', ip)
     resp = requests.get('http://ip.filefab.com/index.php',
