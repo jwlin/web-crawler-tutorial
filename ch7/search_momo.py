@@ -47,5 +47,5 @@ if __name__ == '__main__':
         'store': 'momo',
         'items': items
     }
-    with open(os.path.join('json', today + '-momo.json'), 'w', encoding='utf-8') as f:
+    with open(os.path.join('ch7', 'json', today + '-momo.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
