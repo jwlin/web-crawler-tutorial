@@ -1,9 +1,15 @@
-# hahow 線上課程: [Python 網頁爬蟲入門實戰](https://hahow.in/cr/python-web-crawler)
+# [公告] 本課程已停止更新。新版課程將發布於 [Python 網頁爬蟲入門實戰 2023](https://compthinking.dev/courses/py-web-scraping) 
+* 2023 新版課程正在錄製中，課程製作期間為早鳥特價期 (60% OFF)，製作完畢後即調回原價 (預計 2023 年 5 月)
+* 已經購買 hahow 課程的舊生，於早鳥特價期間可填寫[此表單](https://forms.gle/qiHPMsT4dBHizrm3A)索取新版課程兌換卷
+
+(以下為原課程內容)
+
+## hahow 線上課程: [Python 網頁爬蟲入門實戰](https://hahow.in/cr/python-web-crawler)
 
 * 註：本課程為 2017 年錄製，部份課程影片因為各大網站/服務變動的關係，影片內容可能過時/失效。但教材程式碼部份會不定時更新修正，購課前請參考 `lecture` 目錄下各章節講義，確認教材符合您的學習需求。
 * 教材程式碼最後更新日期: 2022/01/05
 
-# 課程單元
+## 課程單元
 
 1. 環境設定與網頁爬蟲初探 (PyCharm 設定，virtualenv 設定，套件安裝，爬蟲初探與例外狀況處理)
 2. 網頁解構與 BeautifulSoup 講解 (寫爬蟲之前的注意事項，BeautifulSoup 重要功能如 find(), find_all() 講解，網頁結構巡覽，正規表示式)
@@ -17,7 +23,7 @@
 10. 中文自然語言處理 (jieba 簡介，斷詞，自訂與繁體字字典，搭配歌詞文字雲範例)
 11. 爬蟲撰寫經驗談 (常被網站封鎖的原因與解法，常見的網站安全措施的處理，如何更換代理 IP，補充教材)
 
-# 說明
+## 說明
 
 * 範例程式在各章目錄內, 講義在 `lecture` 目錄下
 * 範例程式所需套件 `pip install -r requirements.txt` (Python 3)
