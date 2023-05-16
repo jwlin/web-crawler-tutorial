@@ -1,4 +1,4 @@
-# [公告] 本課程已停止更新。新版課程將發布於 [Python 網頁爬蟲入門實戰 2023](https://compthinking.dev/courses/py-web-scraping) 
+# [公告] 本課程已停止更新。新版課程已發布於 [Python 網頁爬蟲入門實戰 2023](https://compthinking.dev/courses/py-web-scraping) 
 * [2023 新版課程](https://compthinking.dev/courses/py-web-scraping)早鳥優惠中 (60% OFF)！2023 年 6 月調回原價
 * 已經購買 hahow 課程的舊生，於早鳥特價期間可填寫[此表單](https://forms.gle/qiHPMsT4dBHizrm3A)索取新版課程兌換卷
 
